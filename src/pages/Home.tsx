@@ -359,7 +359,7 @@ export function Home() {
         onClick={(e) => {
           e.preventDefault();
           setPlunging(true);
-          setTimeout(() => navigate("/photos"), 1100);
+          setTimeout(() => navigate("/photos"), 1200);
         }}
       >
         dive in
