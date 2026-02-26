@@ -262,6 +262,7 @@ export function Home() {
 
   return (
     <main className={`pensieve${plunging ? " pensieve--plunging" : ""}`}>
+      {plunging && <div className="pensieve__plunge-veil" />}
       <p className="pensieve__subtitle">
         memorializing my late twenties on film
       </p>
