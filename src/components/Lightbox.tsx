@@ -1,7 +1,7 @@
 import { useEffect, useRef, useCallback, useState } from "react";
 import type { Photo } from "../types";
 import { useKeyboard } from "../hooks/useKeyboard";
-import { fullUrl, thumbUrl } from "../utils/image";
+import { fullUrl, thumbUrl, getCamera } from "../utils/image";
 
 interface LightboxProps {
   photos: Photo[];
@@ -121,6 +121,15 @@ export function Lightbox({ photos, index, onClose, onNavigate }: LightboxProps) 
               <span className="lightbox__film">{photo.filmStock}</span>
             </>
           )}
+          {(() => {
+            const camera = getCamera(photo.location, photo.filmStock);
+            return camera ? (
+              <>
+                <span className="lightbox__sep">&middot;</span>
+                <span className="lightbox__film">{camera}</span>
+              </>
+            ) : null;
+          })()}
           {photo.devDate && (
             <>
               <span className="lightbox__sep">&middot;</span>

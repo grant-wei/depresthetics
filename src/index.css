@@ -641,29 +641,23 @@ button {
   pointer-events: none;
 }
 
-/* Silvery veil expanding from pool center */
+
+/* Solid white veil — pure opacity fade, cheapest possible GPU op */
 .pensieve__plunge-veil {
   position: fixed;
   inset: 0;
   z-index: 9998;
   pointer-events: none;
-  background: radial-gradient(
-    circle at 50% 50%,
-    rgba(170, 190, 215, 0.95) 0%,
-    rgba(220, 225, 235, 0.9) 25%,
-    rgba(255, 255, 255, 0.8) 45%,
-    transparent 65%
-  );
-  transform: scale(0.4);
+  background: white;
   opacity: 0;
   animation: plunge-veil 1.2s cubic-bezier(0.22, 1, 0.36, 1) forwards;
-  will-change: transform, opacity;
+  will-change: opacity;
 }
 
 @keyframes plunge-veil {
-  0%   { transform: scale(0.4); opacity: 0; }
-  30%  { transform: scale(1.2); opacity: 0.7; }
-  100% { transform: scale(3.5); opacity: 1; }
+  0%   { opacity: 0; }
+  40%  { opacity: 0.3; }
+  100% { opacity: 1; }
 }
 
 /* Drift animations — 3 variations for organic movement */

@@ -36,9 +36,6 @@ const PENSIEVE_SPECS: {
 /* ─── Seasonal photo picker ─── */
 
 function buildPensievePhotos(): Photo[] {
-  const now = new Date();
-  const seed = now.getMonth() * 31 + now.getDate();
-
   const used = new Set<string>();
   const result: Photo[] = [];
 
@@ -52,7 +49,7 @@ function buildPensievePhotos(): Photo[] {
         !used.has(p.id),
     );
     if (candidates.length === 0) continue;
-    const pickIdx = (seed + si + (spec.index ?? 0)) % candidates.length;
+    const pickIdx = Math.floor(Math.random() * candidates.length);
     const pick = candidates[pickIdx];
     used.add(pick.id);
     result.push(pick);
@@ -107,6 +104,10 @@ export function Home() {
   /* --- Audio --- */
   const { startAmbient, stopAmbient, playHoverTone } = usePensieveAudio();
 
+  /* --- Plunge ref (read inside interval without re-creating it) --- */
+  const plungingRef = useRef(plunging);
+  plungingRef.current = plunging;
+
   /* --- Refs for parallax + trail (no re-renders) --- */
   const layerRefs = [
     useRef<HTMLDivElement>(null),
@@ -148,6 +149,7 @@ export function Home() {
     const interval = setInterval(() => {
       if (!alive) return;
       if (lightboxIndex !== null) return; // don't cycle while lightbox open
+      if (plungingRef.current) return; // don't cycle during plunge transition
 
       const currentPool = poolRef.current;
       const slot = Math.floor(Math.random() * currentPool.length);

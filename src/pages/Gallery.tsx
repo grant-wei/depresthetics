@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import { useFilterStore } from "../store";
 import { useFilteredPhotos } from "../hooks/useFilteredPhotos";
@@ -36,10 +36,21 @@ export function Gallery() {
   const filtered = useFilteredPhotos();
   const hasFilters = years.length > 0 || locations.length > 0 || filmStocks.length > 0;
 
+  // Fresh shuffle every time the page mounts (each "dive in")
+  const [shuffleKey] = useState(() => Math.random());
+  const shuffled = useMemo(() => {
+    const arr = [...filtered];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }, [filtered, shuffleKey]);
+
   return (
     <main className="gallery">
       <div className="gallery__header">
-        <span className="gallery__count">{filtered.length} photos</span>
+        <span className="gallery__count">{shuffled.length} photos</span>
         <button
           className={`gallery__filter-btn ${hasFilters ? "gallery__filter-btn--active" : ""}`}
           onClick={() => setDrawerOpen(true)}
@@ -49,7 +60,7 @@ export function Gallery() {
       </div>
 
       <FilterBar open={drawerOpen} onClose={() => setDrawerOpen(false)} />
-      <PhotoStream photos={filtered} />
+      <PhotoStream photos={shuffled} />
     </main>
   );
 }

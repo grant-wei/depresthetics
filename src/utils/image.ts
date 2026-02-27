@@ -24,3 +24,11 @@ export function thumbUrl(url: string, width = 600): string {
 export function fullUrl(url: string): string {
   return `${url}?w=1600`;
 }
+
+const DISPOSABLE_LOCATIONS = new Set(["Costa Rica", "Iceland"]);
+
+export function getCamera(location: string, filmStock: string): string | null {
+  if (filmStock === "APS" || filmStock === "Kodak Advantix 400") return "Minolta Vectis";
+  if (DISPOSABLE_LOCATIONS.has(location)) return "Fujifilm QuickSnap";
+  return "Olympus XA2";
+}

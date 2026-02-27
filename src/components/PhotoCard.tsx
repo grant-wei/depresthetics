@@ -1,6 +1,6 @@
 import { useCallback, useRef } from "react";
 import type { Photo } from "../types";
-import { srcSet } from "../utils/image";
+import { srcSet, getCamera } from "../utils/image";
 
 interface PhotoCardProps {
   photo: Photo;
@@ -44,6 +44,10 @@ export function PhotoCard({ photo, onClick }: PhotoCardProps) {
       <figcaption className="photo-card__meta">
         {photo.location && <span className="photo-card__location">{photo.location}</span>}
         {photo.filmStock && <span className="photo-card__film">{photo.filmStock}</span>}
+        {(() => {
+          const camera = getCamera(photo.location, photo.filmStock);
+          return camera ? <span className="photo-card__film">{camera}</span> : null;
+        })()}
       </figcaption>
     </figure>
   );
