@@ -7,18 +7,17 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "thumbs": "node scripts/generate-thumbnails.mjs",
-    "prebuild": "node scripts/generate-thumbnails.mjs"
+    "thumbs": "node scripts/generate-thumbnails.mjs"
   },
   "dependencies": {
-    "@vercel/blob": "^2.3.0",
-    "dotenv": "^17.3.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.28.0",
     "zustand": "^5.0.2"
   },
   "devDependencies": {
+    "@vercel/blob": "^2.3.0",
+    "dotenv": "^17.3.1",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "@vitejs/plugin-react": "^4.3.4",
