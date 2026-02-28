@@ -1,2 +1,7 @@
+node_modules
+dist
+.vite
+.vercel
 public/photos
 scripts
+*.output
