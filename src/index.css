@@ -19,8 +19,8 @@
   --accent: #a09890;
   --border: #2e2a27;
 
-  --font-wordmark: "Beth Ellen", cursive;
-  --font-heading: "Cardo", serif;
+  --font-wordmark: "Inter", -apple-system, sans-serif;
+  --font-heading: "EB Garamond", serif;
   --font-body: "Inter", -apple-system, sans-serif;
 
   --header-height: 56px;
@@ -79,7 +79,8 @@ button {
   z-index: 9999;
   background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
   background-size: 512px 512px;
-  animation: grain 8s steps(10) infinite, grain-breathe 12s ease-in-out infinite;
+  animation: grain 8s steps(24) infinite, grain-breathe 12s ease-in-out infinite;
+  will-change: transform;
 }
 
 @keyframes grain {
@@ -96,8 +97,8 @@ button {
 }
 
 @keyframes grain-breathe {
-  0%, 100% { opacity: 0.025; }
-  50% { opacity: 0.05; }
+  0%, 100% { opacity: 0.02; }
+  50% { opacity: 0.035; }
 }
 
 /* ========================================
@@ -359,6 +360,7 @@ button {
   content: "";
   position: absolute;
   inset: 0;
+  will-change: transform;
 }
 
 .pensieve__caustics::before {
@@ -546,7 +548,6 @@ button {
   transition: opacity 0.4s var(--ease-out), filter 0.4s var(--ease-out),
     transform 0.4s var(--ease-out), box-shadow 0.4s var(--ease-out);
   box-shadow: 0 2px 20px rgba(0, 0, 0, 0.4);
-  will-change: transform, opacity;
   animation: pensieve-surface 1.2s var(--ease-out) var(--entrance-delay, 0.5s) both;
 }
 
@@ -566,6 +567,7 @@ button {
   filter: saturate(1) brightness(1);
   transform: scale(1.15);
   box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5), 0 0 30px rgba(140, 170, 210, 0.1);
+  will-change: transform, opacity;
 }
 
 .pensieve__wisp--dimmed .pensieve__wisp-img {
@@ -621,19 +623,27 @@ button {
   bottom: 5vh;
   font-family: var(--font-heading);
   font-style: italic;
-  font-size: 0.9rem;
+  font-size: 1.05rem;
   color: var(--text-muted);
   letter-spacing: 0.06em;
   z-index: 5;
-  border-bottom: 1px solid transparent;
+  border-bottom: 1px solid var(--text-dim);
+  padding-bottom: 2px;
   transition: color 0.5s var(--ease-out), border-color 0.5s var(--ease-out);
   opacity: 0;
-  animation: pensieve-title-in 2s var(--ease-out) 3.5s forwards;
+  animation: pensieve-title-in 2s var(--ease-out) 3.5s forwards,
+    archive-breathe 4s ease-in-out 5.5s infinite;
+}
+
+@keyframes archive-breathe {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
 }
 
 .pensieve__archive:hover {
-  color: var(--text-muted);
-  border-bottom-color: var(--text-dim);
+  color: var(--text);
+  border-bottom-color: var(--text-muted);
+  animation: pensieve-title-in 2s var(--ease-out) 3.5s forwards;
 }
 
 /* Plunge transition — separate overlay div, no animation on .pensieve */
@@ -660,19 +670,19 @@ button {
   100% { opacity: 1; }
 }
 
-/* Drift animations — 3 variations for organic movement */
+/* Drift animations — 3 variations for liquid, swirling movement */
 @keyframes pensieve-drift-a {
   0%, 100% {
     transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(0, 0);
   }
-  25% {
-    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(8px, -5px) rotate(1.5deg);
+  20% {
+    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(20px, -14px) rotate(3deg);
   }
   50% {
-    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(-4px, 7px) rotate(-1deg);
+    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(-12px, 18px) rotate(-2.5deg);
   }
-  75% {
-    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(6px, 3px) rotate(2deg);
+  80% {
+    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(15px, 8px) rotate(4deg);
   }
 }
 
@@ -681,13 +691,13 @@ button {
     transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(0, 0);
   }
   25% {
-    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(-7px, -4px) rotate(-2deg);
+    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(-18px, -10px) rotate(-3.5deg);
   }
-  50% {
-    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(5px, 8px) rotate(1deg);
+  55% {
+    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(14px, 22px) rotate(2.5deg);
   }
-  75% {
-    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(-3px, -6px) rotate(-1.5deg);
+  80% {
+    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(-8px, -16px) rotate(-3deg);
   }
 }
 
@@ -695,11 +705,14 @@ button {
   0%, 100% {
     transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(0, 0);
   }
-  33% {
-    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(6px, 6px) rotate(1deg);
+  30% {
+    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(16px, 16px) rotate(3deg);
   }
-  66% {
-    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(-7px, -3px) rotate(-2deg);
+  60% {
+    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(-20px, -8px) rotate(-4deg);
+  }
+  85% {
+    transform: translate(-50%, -50%) rotate(var(--rot, 0deg)) translate(10px, -14px) rotate(2deg);
   }
 }
 
@@ -1259,4 +1272,52 @@ button {
 .about__link:hover {
   color: var(--text-muted);
   border-color: var(--text-muted);
+}
+
+/* ========================================
+   Page fade transitions
+   ======================================== */
+
+.page-fade {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  transition: opacity 300ms var(--ease-out);
+  opacity: 1;
+}
+
+.page-fade--out {
+  opacity: 0;
+}
+
+.page-fade--in {
+  opacity: 1;
+}
+
+/* ========================================
+   Reverse plunge — surface veil
+   ======================================== */
+
+.surface-veil {
+  position: fixed;
+  inset: 0;
+  z-index: 9998;
+  pointer-events: none;
+  background: white;
+  animation: surface-veil 800ms cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  will-change: opacity;
+}
+
+@keyframes surface-veil {
+  0%   { opacity: 0; }
+  50%  { opacity: 0.6; }
+  100% { opacity: 1; }
+}
+
+/* ========================================
+   Photo stream sentinel (infinite scroll)
+   ======================================== */
+
+.photo-stream__sentinel {
+  height: 1px;
 }

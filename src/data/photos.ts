@@ -4,7 +4,7 @@ export const photos: Photo[] =
 [
   {
     "id": "2023_0000",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_02.jpg",
+    "url": "/photos/2023/7925_02.jpg",
     "filename": "7925_02.jpg",
     "year": "2023",
     "location": "San Francisco",
@@ -18,7 +18,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0001",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_03.jpg",
+    "url": "/photos/2023/8582_03.jpg",
     "filename": "8582_03.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -32,7 +32,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0002",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_02a.jpg",
+    "url": "/photos/2023/0647_02a.jpg",
     "filename": "0647_02a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -46,7 +46,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0003",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_16a.jpg",
+    "url": "/photos/2023/0647_16a.jpg",
     "filename": "0647_16a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -60,7 +60,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0004",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_14a.jpg",
+    "url": "/photos/2023/0647_14a.jpg",
     "filename": "0647_14a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -74,7 +74,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0005",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_12a.jpg",
+    "url": "/photos/2023/0647_12a.jpg",
     "filename": "0647_12a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -88,7 +88,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0006",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_25.jpg",
+    "url": "/photos/2023/8582_25.jpg",
     "filename": "8582_25.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -102,7 +102,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0007",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_11.jpg",
+    "url": "/photos/2023/8582_11.jpg",
     "filename": "8582_11.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -116,7 +116,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0008",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_19a.jpg",
+    "url": "/photos/2023/0647_19a.jpg",
     "filename": "0647_19a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -130,7 +130,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0009",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_07a.jpg",
+    "url": "/photos/2023/0647_07a.jpg",
     "filename": "0647_07a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -144,7 +144,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0010",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_05.jpg",
+    "url": "/photos/2023/8582_05.jpg",
     "filename": "8582_05.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -158,7 +158,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0011",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_0a.jpg",
+    "url": "/photos/2023/0647_0a.jpg",
     "filename": "0647_0a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -172,7 +172,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0012",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_02.jpg",
+    "url": "/photos/2023/8582_02.jpg",
     "filename": "8582_02.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -186,7 +186,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0013",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_07.jpg",
+    "url": "/photos/2023/8582_07.jpg",
     "filename": "8582_07.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -200,7 +200,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0014",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_22a.jpg",
+    "url": "/photos/2023/0647_22a.jpg",
     "filename": "0647_22a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -214,7 +214,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0015",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_06.jpg",
+    "url": "/photos/2023/8582_06.jpg",
     "filename": "8582_06.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -228,7 +228,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0016",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_04a.jpg",
+    "url": "/photos/2023/0647_04a.jpg",
     "filename": "0647_04a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -242,7 +242,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0017",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_03a.jpg",
+    "url": "/photos/2023/0647_03a.jpg",
     "filename": "0647_03a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -256,7 +256,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0018",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_19.jpg",
+    "url": "/photos/2023/8582_19.jpg",
     "filename": "8582_19.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -270,7 +270,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0019",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_22.jpg",
+    "url": "/photos/2023/8582_22.jpg",
     "filename": "8582_22.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -284,7 +284,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0020",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_15.jpg",
+    "url": "/photos/2023/8582_15.jpg",
     "filename": "8582_15.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -298,7 +298,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0021",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_24a.jpg",
+    "url": "/photos/2023/0647_24a.jpg",
     "filename": "0647_24a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -312,7 +312,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0022",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_25a.jpg",
+    "url": "/photos/2023/0647_25a.jpg",
     "filename": "0647_25a.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -326,7 +326,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0023",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_16.jpg",
+    "url": "/photos/2023/8582_16.jpg",
     "filename": "8582_16.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -340,7 +340,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0024",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_21a.jpg",
+    "url": "/photos/2023/0647_21a.jpg",
     "filename": "0647_21a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -354,7 +354,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0025",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_11a.jpg",
+    "url": "/photos/2023/0647_11a.jpg",
     "filename": "0647_11a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -368,7 +368,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0026",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647___xa.jpg",
+    "url": "/photos/2023/0647___xa.jpg",
     "filename": "0647___xa.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -382,7 +382,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0027",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_09.jpg",
+    "url": "/photos/2023/8582_09.jpg",
     "filename": "8582_09.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -396,7 +396,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0028",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_01.jpg",
+    "url": "/photos/2023/8582_01.jpg",
     "filename": "8582_01.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -410,7 +410,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0029",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_17a.jpg",
+    "url": "/photos/2023/0647_17a.jpg",
     "filename": "0647_17a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -424,7 +424,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0030",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_20a.jpg",
+    "url": "/photos/2023/0647_20a.jpg",
     "filename": "0647_20a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -438,7 +438,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0031",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_09a.jpg",
+    "url": "/photos/2023/0647_09a.jpg",
     "filename": "0647_09a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -452,7 +452,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0032",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_01a.jpg",
+    "url": "/photos/2023/0647_01a.jpg",
     "filename": "0647_01a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -466,7 +466,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0033",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_23a.jpg",
+    "url": "/photos/2023/0647_23a.jpg",
     "filename": "0647_23a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -480,7 +480,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0034",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_15a.jpg",
+    "url": "/photos/2023/0647_15a.jpg",
     "filename": "0647_15a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -494,7 +494,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0035",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582__00.jpg",
+    "url": "/photos/2023/8582__00.jpg",
     "filename": "8582__00.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -508,7 +508,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0036",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_12.jpg",
+    "url": "/photos/2023/8582_12.jpg",
     "filename": "8582_12.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -522,7 +522,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0037",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_18a.jpg",
+    "url": "/photos/2023/0647_18a.jpg",
     "filename": "0647_18a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -536,7 +536,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0038",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_06a.jpg",
+    "url": "/photos/2023/0647_06a.jpg",
     "filename": "0647_06a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -550,7 +550,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0039",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_0.jpg",
+    "url": "/photos/2023/8582_0.jpg",
     "filename": "8582_0.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -564,7 +564,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0040",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647__00a.jpg",
+    "url": "/photos/2023/0647__00a.jpg",
     "filename": "0647__00a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -578,7 +578,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0041",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_04.jpg",
+    "url": "/photos/2023/8582_04.jpg",
     "filename": "8582_04.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -592,7 +592,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0042",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_10a.jpg",
+    "url": "/photos/2023/0647_10a.jpg",
     "filename": "0647_10a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -606,7 +606,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0043",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_18.jpg",
+    "url": "/photos/2023/8582_18.jpg",
     "filename": "8582_18.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -620,7 +620,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0044",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_10.jpg",
+    "url": "/photos/2023/8582_10.jpg",
     "filename": "8582_10.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -634,7 +634,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0045",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_13a.jpg",
+    "url": "/photos/2023/0647_13a.jpg",
     "filename": "0647_13a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -648,7 +648,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0046",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_08a.jpg",
+    "url": "/photos/2023/0647_08a.jpg",
     "filename": "0647_08a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -662,7 +662,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0047",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0647_05a.jpg",
+    "url": "/photos/2023/0647_05a.jpg",
     "filename": "0647_05a.jpg",
     "year": "2023",
     "location": "Morocco",
@@ -676,7 +676,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2023_0048",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/8582_17.jpg",
+    "url": "/photos/2023/8582_17.jpg",
     "filename": "8582_17.jpg",
     "year": "2023",
     "location": "Costa Rica",
@@ -690,7 +690,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0049",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_26.jpg",
+    "url": "/photos/2024/7760_26.jpg",
     "filename": "7760_26.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -704,7 +704,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0050",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_17a.jpg",
+    "url": "/photos/2024/7420_17a.jpg",
     "filename": "7420_17a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -718,7 +718,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0051",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_05.jpg",
+    "url": "/photos/2024/7925_05.jpg",
     "filename": "7925_05.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -732,7 +732,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0052",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_24.jpg",
+    "url": "/photos/2024/7724_24.jpg",
     "filename": "7724_24.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -746,7 +746,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0053",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_27a.jpg",
+    "url": "/photos/2024/7420_27a.jpg",
     "filename": "7420_27a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -760,7 +760,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0054",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_07a-1.jpg",
+    "url": "/photos/2024/8410_07a-1.jpg",
     "filename": "8410_07a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -774,7 +774,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0055",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_18a-1.jpg",
+    "url": "/photos/2024/8411_18a-1.jpg",
     "filename": "8411_18a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -788,7 +788,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0056",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_11.jpg",
+    "url": "/photos/2024/7760_11.jpg",
     "filename": "7760_11.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -802,7 +802,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0057",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_02a.jpg",
+    "url": "/photos/2024/7420_02a.jpg",
     "filename": "7420_02a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -816,7 +816,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0058",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_03a.jpg",
+    "url": "/photos/2024/1846_03a.jpg",
     "filename": "1846_03a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -830,7 +830,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0059",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_22-1.jpg",
+    "url": "/photos/2024/8414_22-1.jpg",
     "filename": "8414_22-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -844,7 +844,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0060",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_30a-1.jpg",
+    "url": "/photos/2024/8411_30a-1.jpg",
     "filename": "8411_30a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -858,7 +858,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0061",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_25.jpg",
+    "url": "/photos/2024/7421_25.jpg",
     "filename": "7421_25.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -872,7 +872,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0062",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_29a.jpg",
+    "url": "/photos/2024/7419_29a.jpg",
     "filename": "7419_29a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -886,7 +886,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0063",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_15a.jpg",
+    "url": "/photos/2024/7420_15a.jpg",
     "filename": "7420_15a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -900,7 +900,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0064",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_24a.jpg",
+    "url": "/photos/2024/1846_24a.jpg",
     "filename": "1846_24a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -914,7 +914,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0065",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_04a.jpg",
+    "url": "/photos/2024/7370_04a.jpg",
     "filename": "7370_04a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -928,7 +928,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0066",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_33a.jpg",
+    "url": "/photos/2024/7370_33a.jpg",
     "filename": "7370_33a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -942,7 +942,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0067",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_04.jpg",
+    "url": "/photos/2024/7760_04.jpg",
     "filename": "7760_04.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -956,7 +956,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0068",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_30a.jpg",
+    "url": "/photos/2024/7370_30a.jpg",
     "filename": "7370_30a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -970,7 +970,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0069",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_13-1.jpg",
+    "url": "/photos/2024/8414_13-1.jpg",
     "filename": "8414_13-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -984,7 +984,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0070",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_22.jpg",
+    "url": "/photos/2024/7421_22.jpg",
     "filename": "7421_22.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -998,7 +998,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0071",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_32a-1.jpg",
+    "url": "/photos/2024/8411_32a-1.jpg",
     "filename": "8411_32a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -1012,7 +1012,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0072",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_06a.jpg",
+    "url": "/photos/2024/7420_06a.jpg",
     "filename": "7420_06a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -1026,7 +1026,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0073",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_04a.jpg",
+    "url": "/photos/2024/7419_04a.jpg",
     "filename": "7419_04a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -1040,7 +1040,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0074",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_06.jpg",
+    "url": "/photos/2024/7421_06.jpg",
     "filename": "7421_06.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -1054,7 +1054,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0075",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_18.jpg",
+    "url": "/photos/2024/7925_18.jpg",
     "filename": "7925_18.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1068,7 +1068,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0076",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_23a.jpg",
+    "url": "/photos/2024/0709_23a.jpg",
     "filename": "0709_23a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -1082,7 +1082,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0077",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_07a-1.jpg",
+    "url": "/photos/2024/8411_07a-1.jpg",
     "filename": "8411_07a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -1096,7 +1096,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0078",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_29a.jpg",
+    "url": "/photos/2024/4165_29a.jpg",
     "filename": "4165_29a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1110,7 +1110,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0079",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_28a.jpg",
+    "url": "/photos/2024/1846_28a.jpg",
     "filename": "1846_28a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1124,7 +1124,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0080",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_04a.jpg",
+    "url": "/photos/2024/1846_04a.jpg",
     "filename": "1846_04a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1138,7 +1138,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0081",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_05.jpg",
+    "url": "/photos/2024/7760_05.jpg",
     "filename": "7760_05.jpg",
     "year": "2024",
     "location": "",
@@ -1152,7 +1152,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0082",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_08a.jpg",
+    "url": "/photos/2024/1846_08a.jpg",
     "filename": "1846_08a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1166,7 +1166,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0083",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_02.jpg",
+    "url": "/photos/2024/7724_02.jpg",
     "filename": "7724_02.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -1180,7 +1180,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0084",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_21-1.jpg",
+    "url": "/photos/2024/8414_21-1.jpg",
     "filename": "8414_21-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -1194,7 +1194,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0085",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_19.jpg",
+    "url": "/photos/2024/7925_19.jpg",
     "filename": "7925_19.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1208,7 +1208,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0086",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_16a-1.jpg",
+    "url": "/photos/2024/8410_16a-1.jpg",
     "filename": "8410_16a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1222,7 +1222,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0087",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_31a.jpg",
+    "url": "/photos/2024/1846_31a.jpg",
     "filename": "1846_31a.jpg",
     "year": "2024",
     "location": "Los Angeles",
@@ -1236,7 +1236,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0088",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_15a.jpg",
+    "url": "/photos/2024/1846_15a.jpg",
     "filename": "1846_15a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1250,7 +1250,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0089",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_34a.jpg",
+    "url": "/photos/2024/7370_34a.jpg",
     "filename": "7370_34a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -1264,7 +1264,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0090",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_23a.jpg",
+    "url": "/photos/2024/7420_23a.jpg",
     "filename": "7420_23a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -1278,7 +1278,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0091",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_35.jpg",
+    "url": "/photos/2024/7724_35.jpg",
     "filename": "7724_35.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -1292,7 +1292,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0092",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_11a.jpg",
+    "url": "/photos/2024/1846_11a.jpg",
     "filename": "1846_11a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1306,7 +1306,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0093",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_10a.jpg",
+    "url": "/photos/2024/0709_10a.jpg",
     "filename": "0709_10a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -1320,7 +1320,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0094",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_15-1.jpg",
+    "url": "/photos/2024/8414_15-1.jpg",
     "filename": "8414_15-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -1334,7 +1334,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0095",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_10a-1.jpg",
+    "url": "/photos/2024/8411_10a-1.jpg",
     "filename": "8411_10a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -1348,7 +1348,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0096",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_19a-1.jpg",
+    "url": "/photos/2024/8411_19a-1.jpg",
     "filename": "8411_19a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -1362,7 +1362,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0097",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_08a-1.jpg",
+    "url": "/photos/2024/8410_08a-1.jpg",
     "filename": "8410_08a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1376,7 +1376,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0098",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_36-1.jpg",
+    "url": "/photos/2024/8414_36-1.jpg",
     "filename": "8414_36-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -1390,7 +1390,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0099",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_34a.jpg",
+    "url": "/photos/2024/7420_34a.jpg",
     "filename": "7420_34a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -1404,7 +1404,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0100",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_24a-1.jpg",
+    "url": "/photos/2024/8410_24a-1.jpg",
     "filename": "8410_24a-1.jpg",
     "year": "2024",
     "location": "Santa Cruz",
@@ -1418,7 +1418,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0101",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_18-1.jpg",
+    "url": "/photos/2024/8414_18-1.jpg",
     "filename": "8414_18-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -1432,7 +1432,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0102",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_12a.jpg",
+    "url": "/photos/2024/7420_12a.jpg",
     "filename": "7420_12a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -1446,7 +1446,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0103",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_07a.jpg",
+    "url": "/photos/2024/7370_07a.jpg",
     "filename": "7370_07a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -1460,7 +1460,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0104",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_24a-1.jpg",
+    "url": "/photos/2024/8411_24a-1.jpg",
     "filename": "8411_24a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -1474,7 +1474,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0105",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_36.jpg",
+    "url": "/photos/2024/7760_36.jpg",
     "filename": "7760_36.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -1488,7 +1488,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0106",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_15a.jpg",
+    "url": "/photos/2024/4165_15a.jpg",
     "filename": "4165_15a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1502,7 +1502,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0107",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_29a-1.jpg",
+    "url": "/photos/2024/8410_29a-1.jpg",
     "filename": "8410_29a-1.jpg",
     "year": "2024",
     "location": "Santa Cruz",
@@ -1516,7 +1516,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0108",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_14a-1.jpg",
+    "url": "/photos/2024/8410_14a-1.jpg",
     "filename": "8410_14a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1530,7 +1530,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0109",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_32a.jpg",
+    "url": "/photos/2024/7370_32a.jpg",
     "filename": "7370_32a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -1544,7 +1544,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0110",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_14.jpg",
+    "url": "/photos/2024/7724_14.jpg",
     "filename": "7724_14.jpg",
     "year": "2024",
     "location": "",
@@ -1558,7 +1558,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0111",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_17-1.jpg",
+    "url": "/photos/2024/8414_17-1.jpg",
     "filename": "8414_17-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -1572,7 +1572,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0112",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_05.jpg",
+    "url": "/photos/2024/7421_05.jpg",
     "filename": "7421_05.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -1586,7 +1586,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0113",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_23a.jpg",
+    "url": "/photos/2024/1846_23a.jpg",
     "filename": "1846_23a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1600,7 +1600,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0114",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_18a.jpg",
+    "url": "/photos/2024/1846_18a.jpg",
     "filename": "1846_18a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1614,7 +1614,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0115",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_18a.jpg",
+    "url": "/photos/2024/0709_18a.jpg",
     "filename": "0709_18a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -1628,7 +1628,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0116",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_12.jpg",
+    "url": "/photos/2024/7421_12.jpg",
     "filename": "7421_12.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -1642,7 +1642,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0117",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_27-1.jpg",
+    "url": "/photos/2024/8414_27-1.jpg",
     "filename": "8414_27-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -1656,7 +1656,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0118",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_23.jpg",
+    "url": "/photos/2024/7421_23.jpg",
     "filename": "7421_23.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -1670,7 +1670,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0119",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_23.jpg",
+    "url": "/photos/2024/7925_23.jpg",
     "filename": "7925_23.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1684,7 +1684,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0120",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_05a.jpg",
+    "url": "/photos/2024/7370_05a.jpg",
     "filename": "7370_05a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -1698,7 +1698,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0121",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_27a-1.jpg",
+    "url": "/photos/2024/8411_27a-1.jpg",
     "filename": "8411_27a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -1712,7 +1712,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0122",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_29a.jpg",
+    "url": "/photos/2024/7420_29a.jpg",
     "filename": "7420_29a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -1726,7 +1726,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0123",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_27a.jpg",
+    "url": "/photos/2024/1846_27a.jpg",
     "filename": "1846_27a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1740,7 +1740,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0124",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_08a.jpg",
+    "url": "/photos/2024/7420_08a.jpg",
     "filename": "7420_08a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -1754,7 +1754,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0125",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_03a.jpg",
+    "url": "/photos/2024/7419_03a.jpg",
     "filename": "7419_03a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -1768,7 +1768,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0126",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_17.jpg",
+    "url": "/photos/2024/7760_17.jpg",
     "filename": "7760_17.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1782,7 +1782,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0127",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_05a-1.jpg",
+    "url": "/photos/2024/8411_05a-1.jpg",
     "filename": "8411_05a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -1796,7 +1796,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0128",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_17a.jpg",
+    "url": "/photos/2024/4165_17a.jpg",
     "filename": "4165_17a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1810,7 +1810,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0129",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_04.jpg",
+    "url": "/photos/2024/7724_04.jpg",
     "filename": "7724_04.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -1824,7 +1824,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0130",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_03.jpg",
+    "url": "/photos/2024/7421_03.jpg",
     "filename": "7421_03.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -1838,7 +1838,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0131",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_25a.jpg",
+    "url": "/photos/2024/4165_25a.jpg",
     "filename": "4165_25a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1852,7 +1852,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0132",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_33a.jpg",
+    "url": "/photos/2024/7419_33a.jpg",
     "filename": "7419_33a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -1866,7 +1866,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0133",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_24a.jpg",
+    "url": "/photos/2024/0709_24a.jpg",
     "filename": "0709_24a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -1880,7 +1880,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0134",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_35.jpg",
+    "url": "/photos/2024/7421_35.jpg",
     "filename": "7421_35.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -1894,7 +1894,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0135",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_10.jpg",
+    "url": "/photos/2024/7724_10.jpg",
     "filename": "7724_10.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -1908,7 +1908,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0136",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_04a.jpg",
+    "url": "/photos/2024/0709_04a.jpg",
     "filename": "0709_04a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1922,7 +1922,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0137",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_02a.jpg",
+    "url": "/photos/2024/0709_02a.jpg",
     "filename": "0709_02a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -1936,7 +1936,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0138",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_14a-1.jpg",
+    "url": "/photos/2024/8411_14a-1.jpg",
     "filename": "8411_14a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -1950,7 +1950,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0139",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_06a.jpg",
+    "url": "/photos/2024/7419_06a.jpg",
     "filename": "7419_06a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -1964,7 +1964,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0140",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_06-1.jpg",
+    "url": "/photos/2024/8414_06-1.jpg",
     "filename": "8414_06-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -1978,7 +1978,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0141",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_23a-1.jpg",
+    "url": "/photos/2024/8411_23a-1.jpg",
     "filename": "8411_23a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -1992,7 +1992,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0142",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_37-1.jpg",
+    "url": "/photos/2024/8414_37-1.jpg",
     "filename": "8414_37-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -2006,7 +2006,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0143",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_15.jpg",
+    "url": "/photos/2024/7724_15.jpg",
     "filename": "7724_15.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2020,7 +2020,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0144",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_27a.jpg",
+    "url": "/photos/2024/4165_27a.jpg",
     "filename": "4165_27a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2034,7 +2034,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0145",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_34a.jpg",
+    "url": "/photos/2024/7419_34a.jpg",
     "filename": "7419_34a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -2048,7 +2048,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0146",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_09.jpg",
+    "url": "/photos/2024/7760_09.jpg",
     "filename": "7760_09.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2062,7 +2062,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0147",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_14-1338010424-e1718240429558.jpg",
+    "url": "/photos/2024/7925_14-1338010424-e1718240429558.jpg",
     "filename": "7925_14-1338010424-e1718240429558.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2076,7 +2076,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0148",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_02a.jpg",
+    "url": "/photos/2024/7419_02a.jpg",
     "filename": "7419_02a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2090,7 +2090,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0149",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_03a-1.jpg",
+    "url": "/photos/2024/8411_03a-1.jpg",
     "filename": "8411_03a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -2104,7 +2104,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0150",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_13a.jpg",
+    "url": "/photos/2024/7370_13a.jpg",
     "filename": "7370_13a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -2118,7 +2118,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0151",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_26a.jpg",
+    "url": "/photos/2024/7420_26a.jpg",
     "filename": "7420_26a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2132,7 +2132,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0152",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_21a.jpg",
+    "url": "/photos/2024/0709_21a.jpg",
     "filename": "0709_21a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -2146,7 +2146,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0153",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_11a.jpg",
+    "url": "/photos/2024/4165_11a.jpg",
     "filename": "4165_11a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2160,7 +2160,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0154",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_16a.jpg",
+    "url": "/photos/2024/7370_16a.jpg",
     "filename": "7370_16a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -2174,7 +2174,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0155",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_34a-1.jpg",
+    "url": "/photos/2024/8410_34a-1.jpg",
     "filename": "8410_34a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2188,7 +2188,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0156",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_30-1.jpg",
+    "url": "/photos/2024/8414_30-1.jpg",
     "filename": "8414_30-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -2202,7 +2202,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0157",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_24a.jpg",
+    "url": "/photos/2024/7370_24a.jpg",
     "filename": "7370_24a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -2216,7 +2216,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0158",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_35.jpg",
+    "url": "/photos/2024/7760_35.jpg",
     "filename": "7760_35.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2230,7 +2230,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0159",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_23-1.jpg",
+    "url": "/photos/2024/8414_23-1.jpg",
     "filename": "8414_23-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -2244,7 +2244,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0160",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_01a.jpg",
+    "url": "/photos/2024/0709_01a.jpg",
     "filename": "0709_01a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2258,7 +2258,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0161",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_15.jpg",
+    "url": "/photos/2024/7925_15.jpg",
     "filename": "7925_15.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2272,7 +2272,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0162",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_32a.jpg",
+    "url": "/photos/2024/0709_32a.jpg",
     "filename": "0709_32a.jpg",
     "year": "2024",
     "location": "Minneapolis",
@@ -2286,7 +2286,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0163",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_24.jpg",
+    "url": "/photos/2024/7421_24.jpg",
     "filename": "7421_24.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -2300,7 +2300,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0164",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_08.jpg",
+    "url": "/photos/2024/7760_08.jpg",
     "filename": "7760_08.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2314,7 +2314,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0165",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_01a.jpg",
+    "url": "/photos/2024/7420_01a.jpg",
     "filename": "7420_01a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2328,7 +2328,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0166",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_21a.jpg",
+    "url": "/photos/2024/7370_21a.jpg",
     "filename": "7370_21a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -2342,7 +2342,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0167",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_13.jpg",
+    "url": "/photos/2024/7760_13.jpg",
     "filename": "7760_13.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2356,7 +2356,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0168",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_25a.jpg",
+    "url": "/photos/2024/7420_25a.jpg",
     "filename": "7420_25a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2370,7 +2370,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0169",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_12.jpg",
+    "url": "/photos/2024/7724_12.jpg",
     "filename": "7724_12.jpg",
     "year": "2024",
     "location": "",
@@ -2384,7 +2384,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0170",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_26-1.jpg",
+    "url": "/photos/2024/8414_26-1.jpg",
     "filename": "8414_26-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -2398,7 +2398,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0171",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_22a-1.jpg",
+    "url": "/photos/2024/8410_22a-1.jpg",
     "filename": "8410_22a-1.jpg",
     "year": "2024",
     "location": "Santa Cruz",
@@ -2412,7 +2412,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0172",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_09a-1.jpg",
+    "url": "/photos/2024/8410_09a-1.jpg",
     "filename": "8410_09a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2426,7 +2426,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0173",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_23a-1.jpg",
+    "url": "/photos/2024/8410_23a-1.jpg",
     "filename": "8410_23a-1.jpg",
     "year": "2024",
     "location": "Santa Cruz",
@@ -2440,7 +2440,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0174",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_33a.jpg",
+    "url": "/photos/2024/4165_33a.jpg",
     "filename": "4165_33a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2454,7 +2454,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0175",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_24a.jpg",
+    "url": "/photos/2024/7419_24a.jpg",
     "filename": "7419_24a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -2468,7 +2468,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0176",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_12a.jpg",
+    "url": "/photos/2024/1846_12a.jpg",
     "filename": "1846_12a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2482,7 +2482,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0177",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_13a.jpg",
+    "url": "/photos/2024/7419_13a.jpg",
     "filename": "7419_13a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2496,7 +2496,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0178",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_21a-1.jpg",
+    "url": "/photos/2024/8410_21a-1.jpg",
     "filename": "8410_21a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2510,7 +2510,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0179",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_08a.jpg",
+    "url": "/photos/2024/4165_08a.jpg",
     "filename": "4165_08a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2524,7 +2524,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0180",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_34a.jpg",
+    "url": "/photos/2024/0709_34a.jpg",
     "filename": "0709_34a.jpg",
     "year": "2024",
     "location": "Minneapolis",
@@ -2538,7 +2538,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0181",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_06a.jpg",
+    "url": "/photos/2024/4165_06a.jpg",
     "filename": "4165_06a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2552,7 +2552,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0182",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_08a.jpg",
+    "url": "/photos/2024/7370_08a.jpg",
     "filename": "7370_08a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -2566,7 +2566,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0183",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_16.jpg",
+    "url": "/photos/2024/7760_16.jpg",
     "filename": "7760_16.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2580,7 +2580,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0184",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_09a.jpg",
+    "url": "/photos/2024/7420_09a.jpg",
     "filename": "7420_09a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2594,7 +2594,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0185",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_25a.jpg",
+    "url": "/photos/2024/0709_25a.jpg",
     "filename": "0709_25a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -2608,7 +2608,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0186",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_16a-1.jpg",
+    "url": "/photos/2024/8411_16a-1.jpg",
     "filename": "8411_16a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -2622,7 +2622,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0187",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_10.jpg",
+    "url": "/photos/2024/7925_10.jpg",
     "filename": "7925_10.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2636,7 +2636,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0188",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_07.jpg",
+    "url": "/photos/2024/7760_07.jpg",
     "filename": "7760_07.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2650,7 +2650,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0189",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_05a.jpg",
+    "url": "/photos/2024/0709_05a.jpg",
     "filename": "0709_05a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2664,7 +2664,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0190",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_35-1.jpg",
+    "url": "/photos/2024/8414_35-1.jpg",
     "filename": "8414_35-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -2678,7 +2678,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0191",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_35a.jpg",
+    "url": "/photos/2024/7420_35a.jpg",
     "filename": "7420_35a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2692,7 +2692,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0192",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_30.jpg",
+    "url": "/photos/2024/7724_30.jpg",
     "filename": "7724_30.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2706,7 +2706,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0193",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_26.jpg",
+    "url": "/photos/2024/7421_26.jpg",
     "filename": "7421_26.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -2720,7 +2720,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0194",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_06a.jpg",
+    "url": "/photos/2024/7370_06a.jpg",
     "filename": "7370_06a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -2734,7 +2734,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0195",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_10a.jpg",
+    "url": "/photos/2024/7420_10a.jpg",
     "filename": "7420_10a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2748,7 +2748,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0196",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_07a.jpg",
+    "url": "/photos/2024/7419_07a.jpg",
     "filename": "7419_07a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2762,7 +2762,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0197",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_03.jpg",
+    "url": "/photos/2024/7724_03.jpg",
     "filename": "7724_03.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2776,7 +2776,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0198",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_36.jpg",
+    "url": "/photos/2024/7421_36.jpg",
     "filename": "7421_36.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -2790,7 +2790,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0199",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_06.jpg",
+    "url": "/photos/2024/7925_06.jpg",
     "filename": "7925_06.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2804,7 +2804,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0200",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_21a.jpg",
+    "url": "/photos/2024/7420_21a.jpg",
     "filename": "7420_21a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2818,7 +2818,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0201",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_33a.jpg",
+    "url": "/photos/2024/0709_33a.jpg",
     "filename": "0709_33a.jpg",
     "year": "2024",
     "location": "Minneapolis",
@@ -2832,7 +2832,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0202",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_31a.jpg",
+    "url": "/photos/2024/7419_31a.jpg",
     "filename": "7419_31a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -2846,7 +2846,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0203",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_31a.jpg",
+    "url": "/photos/2024/7370_31a.jpg",
     "filename": "7370_31a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -2860,7 +2860,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0204",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_36a.jpg",
+    "url": "/photos/2024/4165_36a.jpg",
     "filename": "4165_36a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2874,7 +2874,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0205",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_26a-1.jpg",
+    "url": "/photos/2024/8410_26a-1.jpg",
     "filename": "8410_26a-1.jpg",
     "year": "2024",
     "location": "Santa Cruz",
@@ -2888,7 +2888,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0206",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_17.jpg",
+    "url": "/photos/2024/7421_17.jpg",
     "filename": "7421_17.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -2902,7 +2902,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0207",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_07.jpg",
+    "url": "/photos/2024/7724_07.jpg",
     "filename": "7724_07.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2916,7 +2916,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0208",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_34.jpg",
+    "url": "/photos/2024/7724_34.jpg",
     "filename": "7724_34.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2930,7 +2930,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0209",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_10.jpg",
+    "url": "/photos/2024/7760_10.jpg",
     "filename": "7760_10.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2944,7 +2944,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0210",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_32.jpg",
+    "url": "/photos/2024/7760_32.jpg",
     "filename": "7760_32.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -2958,7 +2958,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0211",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_04a-1.jpg",
+    "url": "/photos/2024/8410_04a-1.jpg",
     "filename": "8410_04a-1.jpg",
     "year": "2024",
     "location": "Dallas",
@@ -2972,7 +2972,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0212",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_03.jpg",
+    "url": "/photos/2024/7925_03.jpg",
     "filename": "7925_03.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -2986,7 +2986,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0213",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_33.jpg",
+    "url": "/photos/2024/7724_33.jpg",
     "filename": "7724_33.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3000,7 +3000,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0214",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_09a-1.jpg",
+    "url": "/photos/2024/8411_09a-1.jpg",
     "filename": "8411_09a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -3014,7 +3014,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0215",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_17a.jpg",
+    "url": "/photos/2024/7419_17a.jpg",
     "filename": "7419_17a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3028,7 +3028,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0216",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_29a.jpg",
+    "url": "/photos/2024/0709_29a.jpg",
     "filename": "0709_29a.jpg",
     "year": "2024",
     "location": "Minneapolis",
@@ -3042,7 +3042,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0217",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_28a.jpg",
+    "url": "/photos/2024/7370_28a.jpg",
     "filename": "7370_28a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -3056,7 +3056,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0218",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_16a.jpg",
+    "url": "/photos/2024/4165_16a.jpg",
     "filename": "4165_16a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3070,7 +3070,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0219",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_22.jpg",
+    "url": "/photos/2024/7925_22.jpg",
     "filename": "7925_22.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3084,7 +3084,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0220",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_20.jpg",
+    "url": "/photos/2024/7421_20.jpg",
     "filename": "7421_20.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -3098,7 +3098,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0221",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_08-1.jpg",
+    "url": "/photos/2024/8414_08-1.jpg",
     "filename": "8414_08-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -3112,7 +3112,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0222",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_24a.jpg",
+    "url": "/photos/2024/4165_24a.jpg",
     "filename": "4165_24a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3126,7 +3126,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0223",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_12a-1.jpg",
+    "url": "/photos/2024/8410_12a-1.jpg",
     "filename": "8410_12a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3140,7 +3140,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0224",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_29a.jpg",
+    "url": "/photos/2024/1846_29a.jpg",
     "filename": "1846_29a.jpg",
     "year": "2024",
     "location": "Los Angeles",
@@ -3154,7 +3154,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0225",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_06a.jpg",
+    "url": "/photos/2024/1846_06a.jpg",
     "filename": "1846_06a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3168,7 +3168,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0226",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_31a-1.jpg",
+    "url": "/photos/2024/8410_31a-1.jpg",
     "filename": "8410_31a-1.jpg",
     "year": "2024",
     "location": "Santa Cruz",
@@ -3182,7 +3182,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0227",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_04.jpg",
+    "url": "/photos/2024/7421_04.jpg",
     "filename": "7421_04.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3196,7 +3196,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0228",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_01-1.jpg",
+    "url": "/photos/2024/8414_01-1.jpg",
     "filename": "8414_01-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -3210,7 +3210,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0229",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_26a.jpg",
+    "url": "/photos/2024/0709_26a.jpg",
     "filename": "0709_26a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -3224,7 +3224,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0230",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709__00a.jpg",
+    "url": "/photos/2024/0709__00a.jpg",
     "filename": "0709__00a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3238,7 +3238,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0231",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_07.jpg",
+    "url": "/photos/2024/7925_07.jpg",
     "filename": "7925_07.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3252,7 +3252,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0232",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_20-1.jpg",
+    "url": "/photos/2024/8414_20-1.jpg",
     "filename": "8414_20-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -3266,7 +3266,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0233",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_20a.jpg",
+    "url": "/photos/2024/4165_20a.jpg",
     "filename": "4165_20a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3280,7 +3280,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0234",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_29.jpg",
+    "url": "/photos/2024/7724_29.jpg",
     "filename": "7724_29.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3294,7 +3294,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0235",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_20a-1.jpg",
+    "url": "/photos/2024/8411_20a-1.jpg",
     "filename": "8411_20a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -3308,7 +3308,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0236",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_04a.jpg",
+    "url": "/photos/2024/7420_04a.jpg",
     "filename": "7420_04a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3322,7 +3322,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0237",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_35a-1.jpg",
+    "url": "/photos/2024/8410_35a-1.jpg",
     "filename": "8410_35a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3336,7 +3336,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0238",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_04-1.jpg",
+    "url": "/photos/2024/8414_04-1.jpg",
     "filename": "8414_04-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -3350,7 +3350,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0239",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_22.jpg",
+    "url": "/photos/2024/7760_22.jpg",
     "filename": "7760_22.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3364,7 +3364,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0240",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_19.jpg",
+    "url": "/photos/2024/7421_19.jpg",
     "filename": "7421_19.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -3378,7 +3378,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0241",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_13a-1.jpg",
+    "url": "/photos/2024/8410_13a-1.jpg",
     "filename": "8410_13a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3392,7 +3392,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0242",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_12a.jpg",
+    "url": "/photos/2024/7419_12a.jpg",
     "filename": "7419_12a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3406,7 +3406,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0243",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_17a.jpg",
+    "url": "/photos/2024/7370_17a.jpg",
     "filename": "7370_17a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -3420,7 +3420,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0244",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_35a.jpg",
+    "url": "/photos/2024/7370_35a.jpg",
     "filename": "7370_35a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -3434,7 +3434,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0245",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_18a.jpg",
+    "url": "/photos/2024/4165_18a.jpg",
     "filename": "4165_18a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3448,7 +3448,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0246",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_21.jpg",
+    "url": "/photos/2024/7724_21.jpg",
     "filename": "7724_21.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3462,7 +3462,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0247",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_27.jpg",
+    "url": "/photos/2024/7760_27.jpg",
     "filename": "7760_27.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3476,7 +3476,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0248",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_36.jpg",
+    "url": "/photos/2024/7724_36.jpg",
     "filename": "7724_36.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3490,7 +3490,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0249",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_25a.jpg",
+    "url": "/photos/2024/7370_25a.jpg",
     "filename": "7370_25a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -3504,7 +3504,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0250",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_08.jpg",
+    "url": "/photos/2024/7421_08.jpg",
     "filename": "7421_08.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -3518,7 +3518,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0251",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_19a.jpg",
+    "url": "/photos/2024/7420_19a.jpg",
     "filename": "7420_19a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3532,7 +3532,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0252",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_12a.jpg",
+    "url": "/photos/2024/7370_12a.jpg",
     "filename": "7370_12a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -3546,7 +3546,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0253",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_05a.jpg",
+    "url": "/photos/2024/7420_05a.jpg",
     "filename": "7420_05a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3560,7 +3560,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0254",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_22a-1.jpg",
+    "url": "/photos/2024/8411_22a-1.jpg",
     "filename": "8411_22a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -3574,7 +3574,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0255",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_18.jpg",
+    "url": "/photos/2024/7760_18.jpg",
     "filename": "7760_18.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3588,7 +3588,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0256",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_11.jpg",
+    "url": "/photos/2024/7724_11.jpg",
     "filename": "7724_11.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3602,7 +3602,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0257",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_32a.jpg",
+    "url": "/photos/2024/1846_32a.jpg",
     "filename": "1846_32a.jpg",
     "year": "2024",
     "location": "Los Angeles",
@@ -3616,7 +3616,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0258",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_21.jpg",
+    "url": "/photos/2024/7760_21.jpg",
     "filename": "7760_21.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3630,7 +3630,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0259",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_22a.jpg",
+    "url": "/photos/2024/1846_22a.jpg",
     "filename": "1846_22a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3644,7 +3644,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0260",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_19a.jpg",
+    "url": "/photos/2024/7419_19a.jpg",
     "filename": "7419_19a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3658,7 +3658,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0261",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_27a.jpg",
+    "url": "/photos/2024/0709_27a.jpg",
     "filename": "0709_27a.jpg",
     "year": "2024",
     "location": "Minneapolis",
@@ -3672,7 +3672,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0262",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_11a.jpg",
+    "url": "/photos/2024/7419_11a.jpg",
     "filename": "7419_11a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3686,7 +3686,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0263",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_03a.jpg",
+    "url": "/photos/2024/7370_03a.jpg",
     "filename": "7370_03a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -3700,7 +3700,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0264",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_20a.jpg",
+    "url": "/photos/2024/7419_20a.jpg",
     "filename": "7419_20a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3714,7 +3714,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0265",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_17a.jpg",
+    "url": "/photos/2024/0709_17a.jpg",
     "filename": "0709_17a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -3728,7 +3728,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0266",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_03.jpg",
+    "url": "/photos/2024/7760_03.jpg",
     "filename": "7760_03.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3742,7 +3742,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0267",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_36a-1.jpg",
+    "url": "/photos/2024/8410_36a-1.jpg",
     "filename": "8410_36a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3756,7 +3756,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0268",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_29-1.jpg",
+    "url": "/photos/2024/8414_29-1.jpg",
     "filename": "8414_29-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -3770,7 +3770,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0269",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_09-1.jpg",
+    "url": "/photos/2024/8414_09-1.jpg",
     "filename": "8414_09-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -3784,7 +3784,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0270",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_17a-1.jpg",
+    "url": "/photos/2024/8410_17a-1.jpg",
     "filename": "8410_17a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3798,7 +3798,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0271",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_23a.jpg",
+    "url": "/photos/2024/4165_23a.jpg",
     "filename": "4165_23a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3812,7 +3812,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0272",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_02.jpg",
+    "url": "/photos/2024/7421_02.jpg",
     "filename": "7421_02.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -3826,7 +3826,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0273",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_11-1.jpg",
+    "url": "/photos/2024/8414_11-1.jpg",
     "filename": "8414_11-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -3840,7 +3840,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0274",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_15a.jpg",
+    "url": "/photos/2024/0709_15a.jpg",
     "filename": "0709_15a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -3854,7 +3854,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0275",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_13a.jpg",
+    "url": "/photos/2024/7420_13a.jpg",
     "filename": "7420_13a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3868,7 +3868,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0276",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_11a.jpg",
+    "url": "/photos/2024/7420_11a.jpg",
     "filename": "7420_11a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3882,7 +3882,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0277",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_17a.jpg",
+    "url": "/photos/2024/1846_17a.jpg",
     "filename": "1846_17a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3896,7 +3896,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0278",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_22a.jpg",
+    "url": "/photos/2024/7370_22a.jpg",
     "filename": "7370_22a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -3910,7 +3910,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0279",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_29.jpg",
+    "url": "/photos/2024/7760_29.jpg",
     "filename": "7760_29.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -3924,7 +3924,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0280",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_20.jpg",
+    "url": "/photos/2024/7925_20.jpg",
     "filename": "7925_20.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3938,7 +3938,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0281",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_02a-1.jpg",
+    "url": "/photos/2024/8410_02a-1.jpg",
     "filename": "8410_02a-1.jpg",
     "year": "2024",
     "location": "Chicago",
@@ -3952,7 +3952,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0282",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_26a.jpg",
+    "url": "/photos/2024/4165_26a.jpg",
     "filename": "4165_26a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3966,7 +3966,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0283",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_14.jpg",
+    "url": "/photos/2024/7760_14.jpg",
     "filename": "7760_14.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -3980,7 +3980,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0284",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_15a.jpg",
+    "url": "/photos/2024/7370_15a.jpg",
     "filename": "7370_15a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -3994,7 +3994,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0285",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_26a-1.jpg",
+    "url": "/photos/2024/8411_26a-1.jpg",
     "filename": "8411_26a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -4008,7 +4008,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0286",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_19a.jpg",
+    "url": "/photos/2024/1846_19a.jpg",
     "filename": "1846_19a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4022,7 +4022,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0287",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_25.jpg",
+    "url": "/photos/2024/7760_25.jpg",
     "filename": "7760_25.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -4036,7 +4036,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0288",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_26a.jpg",
+    "url": "/photos/2024/7419_26a.jpg",
     "filename": "7419_26a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -4050,7 +4050,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0289",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_30a.jpg",
+    "url": "/photos/2024/7419_30a.jpg",
     "filename": "7419_30a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -4064,7 +4064,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0290",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_32a-1.jpg",
+    "url": "/photos/2024/8410_32a-1.jpg",
     "filename": "8410_32a-1.jpg",
     "year": "2024",
     "location": "Santa Cruz",
@@ -4078,7 +4078,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0291",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_14a.jpg",
+    "url": "/photos/2024/7420_14a.jpg",
     "filename": "7420_14a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -4092,7 +4092,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0292",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_14a.jpg",
+    "url": "/photos/2024/4165_14a.jpg",
     "filename": "4165_14a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4106,7 +4106,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0293",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_27a-1.jpg",
+    "url": "/photos/2024/8410_27a-1.jpg",
     "filename": "8410_27a-1.jpg",
     "year": "2024",
     "location": "Santa Cruz",
@@ -4120,7 +4120,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0294",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_35a.jpg",
+    "url": "/photos/2024/1846_35a.jpg",
     "filename": "1846_35a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4134,7 +4134,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0295",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_11a-1.jpg",
+    "url": "/photos/2024/8411_11a-1.jpg",
     "filename": "8411_11a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -4148,7 +4148,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0296",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_09a.jpg",
+    "url": "/photos/2024/7419_09a.jpg",
     "filename": "7419_09a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -4162,7 +4162,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0297",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_26a.jpg",
+    "url": "/photos/2024/1846_26a.jpg",
     "filename": "1846_26a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4176,7 +4176,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0298",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_08a.jpg",
+    "url": "/photos/2024/0709_08a.jpg",
     "filename": "0709_08a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4190,7 +4190,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0299",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_10a-1.jpg",
+    "url": "/photos/2024/8410_10a-1.jpg",
     "filename": "8410_10a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4204,7 +4204,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0300",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_01a-1.jpg",
+    "url": "/photos/2024/8410_01a-1.jpg",
     "filename": "8410_01a-1.jpg",
     "year": "2024",
     "location": "Chicago",
@@ -4218,7 +4218,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0301",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_03a.jpg",
+    "url": "/photos/2024/7420_03a.jpg",
     "filename": "7420_03a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -4232,7 +4232,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0302",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_34a.jpg",
+    "url": "/photos/2024/4165_34a.jpg",
     "filename": "4165_34a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4246,7 +4246,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0303",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_13.jpg",
+    "url": "/photos/2024/7421_13.jpg",
     "filename": "7421_13.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -4260,7 +4260,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0304",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_02a.jpg",
+    "url": "/photos/2024/1846_02a.jpg",
     "filename": "1846_02a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4274,7 +4274,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0305",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_07a.jpg",
+    "url": "/photos/2024/0709_07a.jpg",
     "filename": "0709_07a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4288,7 +4288,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0306",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_14-1.jpg",
+    "url": "/photos/2024/8414_14-1.jpg",
     "filename": "8414_14-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -4302,7 +4302,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0307",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_13a.jpg",
+    "url": "/photos/2024/1846_13a.jpg",
     "filename": "1846_13a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4316,7 +4316,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0308",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_07a.jpg",
+    "url": "/photos/2024/7420_07a.jpg",
     "filename": "7420_07a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -4330,7 +4330,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0309",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_12.jpg",
+    "url": "/photos/2024/7760_12.jpg",
     "filename": "7760_12.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4344,7 +4344,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0310",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_33a-1.jpg",
+    "url": "/photos/2024/8410_33a-1.jpg",
     "filename": "8410_33a-1.jpg",
     "year": "2024",
     "location": "Santa Cruz",
@@ -4358,7 +4358,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0311",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_13-3517251227-e1718340445957.jpg",
+    "url": "/photos/2024/7925_13-3517251227-e1718340445957.jpg",
     "filename": "7925_13-3517251227-e1718340445957.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4372,7 +4372,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0312",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_36a.jpg",
+    "url": "/photos/2024/7370_36a.jpg",
     "filename": "7370_36a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -4386,7 +4386,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0313",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_10a.jpg",
+    "url": "/photos/2024/7370_10a.jpg",
     "filename": "7370_10a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -4400,7 +4400,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0314",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_26a.jpg",
+    "url": "/photos/2024/7370_26a.jpg",
     "filename": "7370_26a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -4414,7 +4414,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0315",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_25a.jpg",
+    "url": "/photos/2024/7419_25a.jpg",
     "filename": "7419_25a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -4428,7 +4428,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0316",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_31.jpg",
+    "url": "/photos/2024/7421_31.jpg",
     "filename": "7421_31.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -4442,7 +4442,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0317",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_05a.jpg",
+    "url": "/photos/2024/1846_05a.jpg",
     "filename": "1846_05a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4456,7 +4456,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0318",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_14a.jpg",
+    "url": "/photos/2024/0709_14a.jpg",
     "filename": "0709_14a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -4470,7 +4470,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0319",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_21.jpg",
+    "url": "/photos/2024/7421_21.jpg",
     "filename": "7421_21.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -4484,7 +4484,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0320",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_11a.jpg",
+    "url": "/photos/2024/7370_11a.jpg",
     "filename": "7370_11a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -4498,7 +4498,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0321",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_09a.jpg",
+    "url": "/photos/2024/1846_09a.jpg",
     "filename": "1846_09a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4512,7 +4512,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0322",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_12a.jpg",
+    "url": "/photos/2024/4165_12a.jpg",
     "filename": "4165_12a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4526,7 +4526,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0323",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_06.jpg",
+    "url": "/photos/2024/7724_06.jpg",
     "filename": "7724_06.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -4540,7 +4540,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0324",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_05-1.jpg",
+    "url": "/photos/2024/8414_05-1.jpg",
     "filename": "8414_05-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -4554,7 +4554,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0325",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_33-1.jpg",
+    "url": "/photos/2024/8414_33-1.jpg",
     "filename": "8414_33-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -4568,7 +4568,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0326",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_19a.jpg",
+    "url": "/photos/2024/7370_19a.jpg",
     "filename": "7370_19a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -4582,7 +4582,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0327",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_23.jpg",
+    "url": "/photos/2024/7724_23.jpg",
     "filename": "7724_23.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -4596,7 +4596,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0328",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_02a.jpg",
+    "url": "/photos/2024/7370_02a.jpg",
     "filename": "7370_02a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -4610,7 +4610,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0329",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_31a-1.jpg",
+    "url": "/photos/2024/8411_31a-1.jpg",
     "filename": "8411_31a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -4624,7 +4624,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0330",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_27.jpg",
+    "url": "/photos/2024/7421_27.jpg",
     "filename": "7421_27.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -4638,7 +4638,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0331",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_02-1.jpg",
+    "url": "/photos/2024/8414_02-1.jpg",
     "filename": "8414_02-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -4652,7 +4652,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0332",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_10a.jpg",
+    "url": "/photos/2024/1846_10a.jpg",
     "filename": "1846_10a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4666,7 +4666,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0333",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_29.jpg",
+    "url": "/photos/2024/7421_29.jpg",
     "filename": "7421_29.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -4680,7 +4680,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0334",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_25.jpg",
+    "url": "/photos/2024/7724_25.jpg",
     "filename": "7724_25.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -4694,7 +4694,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0335",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_19.jpg",
+    "url": "/photos/2024/7760_19.jpg",
     "filename": "7760_19.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4708,7 +4708,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0336",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_16a.jpg",
+    "url": "/photos/2024/0709_16a.jpg",
     "filename": "0709_16a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -4722,7 +4722,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0337",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_26.jpg",
+    "url": "/photos/2024/7724_26.jpg",
     "filename": "7724_26.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -4736,7 +4736,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0338",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_18.jpg",
+    "url": "/photos/2024/7421_18.jpg",
     "filename": "7421_18.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -4750,7 +4750,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0339",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_21.jpg",
+    "url": "/photos/2024/7925_21.jpg",
     "filename": "7925_21.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4764,7 +4764,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0340",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_08.jpg",
+    "url": "/photos/2024/7724_08.jpg",
     "filename": "7724_08.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -4778,7 +4778,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0341",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_32-1.jpg",
+    "url": "/photos/2024/8414_32-1.jpg",
     "filename": "8414_32-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -4792,7 +4792,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0342",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_32.jpg",
+    "url": "/photos/2024/7421_32.jpg",
     "filename": "7421_32.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -4806,7 +4806,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0343",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_18.jpg",
+    "url": "/photos/2024/7724_18.jpg",
     "filename": "7724_18.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -4820,7 +4820,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0344",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_30a-1.jpg",
+    "url": "/photos/2024/8410_30a-1.jpg",
     "filename": "8410_30a-1.jpg",
     "year": "2024",
     "location": "Santa Cruz",
@@ -4834,7 +4834,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0345",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_00a-1.jpg",
+    "url": "/photos/2024/8410_00a-1.jpg",
     "filename": "8410_00a-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -4848,7 +4848,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0346",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_03a-1.jpg",
+    "url": "/photos/2024/8410_03a-1.jpg",
     "filename": "8410_03a-1.jpg",
     "year": "2024",
     "location": "Dallas",
@@ -4862,7 +4862,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0347",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_09a.jpg",
+    "url": "/photos/2024/0709_09a.jpg",
     "filename": "0709_09a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -4876,7 +4876,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0348",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_16a.jpg",
+    "url": "/photos/2024/7419_16a.jpg",
     "filename": "7419_16a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -4890,7 +4890,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0349",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_14a.jpg",
+    "url": "/photos/2024/1846_14a.jpg",
     "filename": "1846_14a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4904,7 +4904,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0350",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_34-1.jpg",
+    "url": "/photos/2024/8414_34-1.jpg",
     "filename": "8414_34-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -4918,7 +4918,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0351",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_09.jpg",
+    "url": "/photos/2024/7421_09.jpg",
     "filename": "7421_09.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -4932,7 +4932,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0352",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_16a.jpg",
+    "url": "/photos/2024/1846_16a.jpg",
     "filename": "1846_16a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4946,7 +4946,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0353",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_18a-1.jpg",
+    "url": "/photos/2024/8410_18a-1.jpg",
     "filename": "8410_18a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -4960,7 +4960,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0354",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_24a.jpg",
+    "url": "/photos/2024/7420_24a.jpg",
     "filename": "7420_24a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -4974,7 +4974,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0355",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_16.jpg",
+    "url": "/photos/2024/7724_16.jpg",
     "filename": "7724_16.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -4988,7 +4988,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0356",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_25-1.jpg",
+    "url": "/photos/2024/8414_25-1.jpg",
     "filename": "8414_25-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -5002,7 +5002,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0357",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_10.jpg",
+    "url": "/photos/2024/7421_10.jpg",
     "filename": "7421_10.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -5016,7 +5016,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0358",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_24-1.jpg",
+    "url": "/photos/2024/8414_24-1.jpg",
     "filename": "8414_24-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -5030,7 +5030,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0359",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_31.jpg",
+    "url": "/photos/2024/7760_31.jpg",
     "filename": "7760_31.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5044,7 +5044,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0360",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_17a-1.jpg",
+    "url": "/photos/2024/8411_17a-1.jpg",
     "filename": "8411_17a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -5058,7 +5058,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0361",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_27a.jpg",
+    "url": "/photos/2024/7419_27a.jpg",
     "filename": "7419_27a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -5072,7 +5072,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0362",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_09.jpg",
+    "url": "/photos/2024/7724_09.jpg",
     "filename": "7724_09.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5086,7 +5086,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0363",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_19-1.jpg",
+    "url": "/photos/2024/8414_19-1.jpg",
     "filename": "8414_19-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -5100,7 +5100,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0364",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_28-1.jpg",
+    "url": "/photos/2024/8414_28-1.jpg",
     "filename": "8414_28-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -5114,7 +5114,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0365",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_35a.jpg",
+    "url": "/photos/2024/0709_35a.jpg",
     "filename": "0709_35a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5128,7 +5128,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0366",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_22a.jpg",
+    "url": "/photos/2024/7420_22a.jpg",
     "filename": "7420_22a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5142,7 +5142,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0367",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_32a.jpg",
+    "url": "/photos/2024/4165_32a.jpg",
     "filename": "4165_32a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5156,7 +5156,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0368",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_01a.jpg",
+    "url": "/photos/2024/1846_01a.jpg",
     "filename": "1846_01a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5170,7 +5170,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0369",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_30a.jpg",
+    "url": "/photos/2024/1846_30a.jpg",
     "filename": "1846_30a.jpg",
     "year": "2024",
     "location": "Los Angeles",
@@ -5184,7 +5184,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0370",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_28a-1.jpg",
+    "url": "/photos/2024/8411_28a-1.jpg",
     "filename": "8411_28a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -5198,7 +5198,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0371",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_28a-1.jpg",
+    "url": "/photos/2024/8410_28a-1.jpg",
     "filename": "8410_28a-1.jpg",
     "year": "2024",
     "location": "Santa Cruz",
@@ -5212,7 +5212,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0372",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_07.jpg",
+    "url": "/photos/2024/7421_07.jpg",
     "filename": "7421_07.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -5226,7 +5226,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0373",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_30a.jpg",
+    "url": "/photos/2024/4165_30a.jpg",
     "filename": "4165_30a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5240,7 +5240,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0374",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_16.jpg",
+    "url": "/photos/2024/7925_16.jpg",
     "filename": "7925_16.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5254,7 +5254,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0375",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_09.jpg",
+    "url": "/photos/2024/7925_09.jpg",
     "filename": "7925_09.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5268,7 +5268,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0376",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_01a.jpg",
+    "url": "/photos/2024/7419_01a.jpg",
     "filename": "7419_01a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5282,7 +5282,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0377",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_23.jpg",
+    "url": "/photos/2024/7760_23.jpg",
     "filename": "7760_23.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5296,7 +5296,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0378",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_21a-1.jpg",
+    "url": "/photos/2024/8411_21a-1.jpg",
     "filename": "8411_21a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -5310,7 +5310,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0379",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_30a.jpg",
+    "url": "/photos/2024/7420_30a.jpg",
     "filename": "7420_30a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5324,7 +5324,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0380",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_34.jpg",
+    "url": "/photos/2024/7760_34.jpg",
     "filename": "7760_34.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5338,7 +5338,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0381",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_23a.jpg",
+    "url": "/photos/2024/7370_23a.jpg",
     "filename": "7370_23a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -5352,7 +5352,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0382",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_31.jpg",
+    "url": "/photos/2024/7724_31.jpg",
     "filename": "7724_31.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5366,7 +5366,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0383",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_25a-1.jpg",
+    "url": "/photos/2024/8411_25a-1.jpg",
     "filename": "8411_25a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -5380,7 +5380,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0384",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_07a.jpg",
+    "url": "/photos/2024/4165_07a.jpg",
     "filename": "4165_07a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5394,7 +5394,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0385",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_09a.jpg",
+    "url": "/photos/2024/4165_09a.jpg",
     "filename": "4165_09a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5408,7 +5408,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0386",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_16-1.jpg",
+    "url": "/photos/2024/8414_16-1.jpg",
     "filename": "8414_16-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -5422,7 +5422,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0387",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_13a-1.jpg",
+    "url": "/photos/2024/8411_13a-1.jpg",
     "filename": "8411_13a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -5436,7 +5436,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0388",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_08a.jpg",
+    "url": "/photos/2024/7419_08a.jpg",
     "filename": "7419_08a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5450,7 +5450,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0389",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_30a.jpg",
+    "url": "/photos/2024/0709_30a.jpg",
     "filename": "0709_30a.jpg",
     "year": "2024",
     "location": "Minneapolis",
@@ -5464,7 +5464,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0390",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_27a.jpg",
+    "url": "/photos/2024/7370_27a.jpg",
     "filename": "7370_27a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -5478,7 +5478,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0391",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_25a.jpg",
+    "url": "/photos/2024/1846_25a.jpg",
     "filename": "1846_25a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5492,7 +5492,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0392",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_11.jpg",
+    "url": "/photos/2024/7925_11.jpg",
     "filename": "7925_11.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5506,7 +5506,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0393",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_28a.jpg",
+    "url": "/photos/2024/7420_28a.jpg",
     "filename": "7420_28a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5520,7 +5520,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0394",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_30.jpg",
+    "url": "/photos/2024/7421_30.jpg",
     "filename": "7421_30.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -5534,7 +5534,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0395",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_23a.jpg",
+    "url": "/photos/2024/7419_23a.jpg",
     "filename": "7419_23a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5548,7 +5548,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0396",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_28.jpg",
+    "url": "/photos/2024/7760_28.jpg",
     "filename": "7760_28.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5562,7 +5562,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0397",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_34a.jpg",
+    "url": "/photos/2024/1846_34a.jpg",
     "filename": "1846_34a.jpg",
     "year": "2024",
     "location": "Los Angeles",
@@ -5576,7 +5576,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0398",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_20.jpg",
+    "url": "/photos/2024/7760_20.jpg",
     "filename": "7760_20.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5590,7 +5590,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0399",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_20a-1.jpg",
+    "url": "/photos/2024/8410_20a-1.jpg",
     "filename": "8410_20a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5604,7 +5604,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0400",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_20a.jpg",
+    "url": "/photos/2024/1846_20a.jpg",
     "filename": "1846_20a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5618,7 +5618,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0401",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_22a.jpg",
+    "url": "/photos/2024/0709_22a.jpg",
     "filename": "0709_22a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -5632,7 +5632,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0402",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_05a.jpg",
+    "url": "/photos/2024/7419_05a.jpg",
     "filename": "7419_05a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5646,7 +5646,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0403",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_35a.jpg",
+    "url": "/photos/2024/7419_35a.jpg",
     "filename": "7419_35a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -5660,7 +5660,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0404",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_19a-1.jpg",
+    "url": "/photos/2024/8410_19a-1.jpg",
     "filename": "8410_19a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5674,7 +5674,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0405",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_06.jpg",
+    "url": "/photos/2024/7760_06.jpg",
     "filename": "7760_06.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5688,7 +5688,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0406",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_31a.jpg",
+    "url": "/photos/2024/4165_31a.jpg",
     "filename": "4165_31a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5702,7 +5702,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0407",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_36a-1.jpg",
+    "url": "/photos/2024/8411_36a-1.jpg",
     "filename": "8411_36a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -5716,7 +5716,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0408",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_34a-1.jpg",
+    "url": "/photos/2024/8411_34a-1.jpg",
     "filename": "8411_34a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -5730,7 +5730,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0409",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_05a.jpg",
+    "url": "/photos/2024/4165_05a.jpg",
     "filename": "4165_05a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5744,7 +5744,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0410",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_31a.jpg",
+    "url": "/photos/2024/7420_31a.jpg",
     "filename": "7420_31a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5758,7 +5758,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0411",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_04a-1.jpg",
+    "url": "/photos/2024/8411_04a-1.jpg",
     "filename": "8411_04a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -5772,7 +5772,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0412",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_20.jpg",
+    "url": "/photos/2024/7724_20.jpg",
     "filename": "7724_20.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5786,7 +5786,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0413",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_29a-1.jpg",
+    "url": "/photos/2024/8411_29a-1.jpg",
     "filename": "8411_29a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -5800,7 +5800,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0414",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_11a.jpg",
+    "url": "/photos/2024/0709_11a.jpg",
     "filename": "0709_11a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -5814,7 +5814,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0415",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_10-1.jpg",
+    "url": "/photos/2024/8414_10-1.jpg",
     "filename": "8414_10-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -5828,7 +5828,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0416",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_10a.jpg",
+    "url": "/photos/2024/4165_10a.jpg",
     "filename": "4165_10a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5842,7 +5842,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0417",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_13.jpg",
+    "url": "/photos/2024/7724_13.jpg",
     "filename": "7724_13.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5856,7 +5856,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0418",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_35a-1.jpg",
+    "url": "/photos/2024/8411_35a-1.jpg",
     "filename": "8411_35a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -5870,7 +5870,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0419",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_19a.jpg",
+    "url": "/photos/2024/4165_19a.jpg",
     "filename": "4165_19a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5884,7 +5884,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0420",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_32a.jpg",
+    "url": "/photos/2024/7419_32a.jpg",
     "filename": "7419_32a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -5898,7 +5898,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0421",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_28.jpg",
+    "url": "/photos/2024/7421_28.jpg",
     "filename": "7421_28.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5912,7 +5912,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0422",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_36a.jpg",
+    "url": "/photos/2024/7420_36a.jpg",
     "filename": "7420_36a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -5926,7 +5926,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0423",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_22a.jpg",
+    "url": "/photos/2024/4165_22a.jpg",
     "filename": "4165_22a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5940,7 +5940,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0424",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_07-1.jpg",
+    "url": "/photos/2024/8414_07-1.jpg",
     "filename": "8414_07-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -5954,7 +5954,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0425",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_21a.jpg",
+    "url": "/photos/2024/1846_21a.jpg",
     "filename": "1846_21a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5968,7 +5968,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0426",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_15.jpg",
+    "url": "/photos/2024/7760_15.jpg",
     "filename": "7760_15.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -5982,7 +5982,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0427",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_05a-1.jpg",
+    "url": "/photos/2024/8410_05a-1.jpg",
     "filename": "8410_05a-1.jpg",
     "year": "2024",
     "location": "Dallas",
@@ -5996,7 +5996,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0428",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_30.jpg",
+    "url": "/photos/2024/7760_30.jpg",
     "filename": "7760_30.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6010,7 +6010,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0429",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_33.jpg",
+    "url": "/photos/2024/7421_33.jpg",
     "filename": "7421_33.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -6024,7 +6024,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0430",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_36a.jpg",
+    "url": "/photos/2024/7419_36a.jpg",
     "filename": "7419_36a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -6038,7 +6038,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0431",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_18a.jpg",
+    "url": "/photos/2024/7370_18a.jpg",
     "filename": "7370_18a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -6052,7 +6052,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0432",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_20a.jpg",
+    "url": "/photos/2024/7370_20a.jpg",
     "filename": "7370_20a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -6066,7 +6066,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0433",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_09a.jpg",
+    "url": "/photos/2024/7370_09a.jpg",
     "filename": "7370_09a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -6080,7 +6080,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0434",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_24.jpg",
+    "url": "/photos/2024/7925_24.jpg",
     "filename": "7925_24.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6094,7 +6094,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0435",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_33a.jpg",
+    "url": "/photos/2024/1846_33a.jpg",
     "filename": "1846_33a.jpg",
     "year": "2024",
     "location": "Los Angeles",
@@ -6108,7 +6108,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0436",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_28a.jpg",
+    "url": "/photos/2024/4165_28a.jpg",
     "filename": "4165_28a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6122,7 +6122,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0437",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_11a-1.jpg",
+    "url": "/photos/2024/8410_11a-1.jpg",
     "filename": "8410_11a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6136,7 +6136,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0438",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_33a-1.jpg",
+    "url": "/photos/2024/8411_33a-1.jpg",
     "filename": "8411_33a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -6150,7 +6150,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0439",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_14.jpg",
+    "url": "/photos/2024/7421_14.jpg",
     "filename": "7421_14.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -6164,7 +6164,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0440",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_36a.jpg",
+    "url": "/photos/2024/1846_36a.jpg",
     "filename": "1846_36a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6178,7 +6178,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0441",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_25.jpg",
+    "url": "/photos/2024/7925_25.jpg",
     "filename": "7925_25.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6192,7 +6192,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0442",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_32.jpg",
+    "url": "/photos/2024/7724_32.jpg",
     "filename": "7724_32.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6206,7 +6206,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0443",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_04a.jpg",
+    "url": "/photos/2024/4165_04a.jpg",
     "filename": "4165_04a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6220,7 +6220,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0444",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_27.jpg",
+    "url": "/photos/2024/7724_27.jpg",
     "filename": "7724_27.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6234,7 +6234,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0445",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_20a.jpg",
+    "url": "/photos/2024/0709_20a.jpg",
     "filename": "0709_20a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -6248,7 +6248,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0446",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_19a.jpg",
+    "url": "/photos/2024/0709_19a.jpg",
     "filename": "0709_19a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -6262,7 +6262,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0447",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_11.jpg",
+    "url": "/photos/2024/7421_11.jpg",
     "filename": "7421_11.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -6276,7 +6276,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0448",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_33a.jpg",
+    "url": "/photos/2024/7420_33a.jpg",
     "filename": "7420_33a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6290,7 +6290,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0449",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_17.jpg",
+    "url": "/photos/2024/7925_17.jpg",
     "filename": "7925_17.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6304,7 +6304,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0450",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_15a-1.jpg",
+    "url": "/photos/2024/8411_15a-1.jpg",
     "filename": "8411_15a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -6318,7 +6318,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0451",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_13a.jpg",
+    "url": "/photos/2024/4165_13a.jpg",
     "filename": "4165_13a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6332,7 +6332,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0452",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_24.jpg",
+    "url": "/photos/2024/7760_24.jpg",
     "filename": "7760_24.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6346,7 +6346,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0453",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_12.jpg",
+    "url": "/photos/2024/7925_12.jpg",
     "filename": "7925_12.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6360,7 +6360,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0454",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_29a.jpg",
+    "url": "/photos/2024/7370_29a.jpg",
     "filename": "7370_29a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -6374,7 +6374,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0455",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_22.jpg",
+    "url": "/photos/2024/7724_22.jpg",
     "filename": "7724_22.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6388,7 +6388,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0456",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_04.jpg",
+    "url": "/photos/2024/7925_04.jpg",
     "filename": "7925_04.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6402,7 +6402,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0457",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_15a.jpg",
+    "url": "/photos/2024/7419_15a.jpg",
     "filename": "7419_15a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6416,7 +6416,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0458",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_22a.jpg",
+    "url": "/photos/2024/7419_22a.jpg",
     "filename": "7419_22a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6430,7 +6430,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0459",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_03a.jpg",
+    "url": "/photos/2024/4165_03a.jpg",
     "filename": "4165_03a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6444,7 +6444,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0460",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_19.jpg",
+    "url": "/photos/2024/7724_19.jpg",
     "filename": "7724_19.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6458,7 +6458,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0461",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_15.jpg",
+    "url": "/photos/2024/7421_15.jpg",
     "filename": "7421_15.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -6472,7 +6472,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0462",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7760_33.jpg",
+    "url": "/photos/2024/7760_33.jpg",
     "filename": "7760_33.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6486,7 +6486,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0463",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_28a.jpg",
+    "url": "/photos/2024/7419_28a.jpg",
     "filename": "7419_28a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -6500,7 +6500,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0464",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7370_14a.jpg",
+    "url": "/photos/2024/7370_14a.jpg",
     "filename": "7370_14a.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -6514,7 +6514,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0465",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_16.jpg",
+    "url": "/photos/2024/7421_16.jpg",
     "filename": "7421_16.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -6528,7 +6528,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0466",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_08.jpg",
+    "url": "/photos/2024/7925_08.jpg",
     "filename": "7925_08.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6542,7 +6542,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0467",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_21a.jpg",
+    "url": "/photos/2024/4165_21a.jpg",
     "filename": "4165_21a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6556,7 +6556,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0468",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/03/7925_01.jpg",
+    "url": "/photos/2024/7925_01.jpg",
     "filename": "7925_01.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6570,7 +6570,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0469",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_05.jpg",
+    "url": "/photos/2024/7724_05.jpg",
     "filename": "7724_05.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6584,7 +6584,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0470",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_12a-1.jpg",
+    "url": "/photos/2024/8411_12a-1.jpg",
     "filename": "8411_12a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -6598,7 +6598,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0471",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_32a.jpg",
+    "url": "/photos/2024/7420_32a.jpg",
     "filename": "7420_32a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6612,7 +6612,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0472",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_20a.jpg",
+    "url": "/photos/2024/7420_20a.jpg",
     "filename": "7420_20a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6626,7 +6626,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0473",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_17.jpg",
+    "url": "/photos/2024/7724_17.jpg",
     "filename": "7724_17.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6640,7 +6640,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0474",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7421_34.jpg",
+    "url": "/photos/2024/7421_34.jpg",
     "filename": "7421_34.jpg",
     "year": "2024",
     "location": "Taiwan",
@@ -6654,7 +6654,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0475",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_06a-1.jpg",
+    "url": "/photos/2024/8411_06a-1.jpg",
     "filename": "8411_06a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -6668,7 +6668,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0476",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_12a.jpg",
+    "url": "/photos/2024/0709_12a.jpg",
     "filename": "0709_12a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -6682,7 +6682,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0477",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_31a.jpg",
+    "url": "/photos/2024/0709_31a.jpg",
     "filename": "0709_31a.jpg",
     "year": "2024",
     "location": "Minneapolis",
@@ -6696,7 +6696,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0478",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_31-1.jpg",
+    "url": "/photos/2024/8414_31-1.jpg",
     "filename": "8414_31-1.jpg",
     "year": "2024",
     "location": "Orange County",
@@ -6710,7 +6710,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0479",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_12-1.jpg",
+    "url": "/photos/2024/8414_12-1.jpg",
     "filename": "8414_12-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -6724,7 +6724,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0480",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_28a.jpg",
+    "url": "/photos/2024/0709_28a.jpg",
     "filename": "0709_28a.jpg",
     "year": "2024",
     "location": "Minneapolis",
@@ -6738,7 +6738,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0481",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_10a.jpg",
+    "url": "/photos/2024/7419_10a.jpg",
     "filename": "7419_10a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6752,7 +6752,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0482",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8414_03-1.jpg",
+    "url": "/photos/2024/8414_03-1.jpg",
     "filename": "8414_03-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -6766,7 +6766,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0483",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_03a.jpg",
+    "url": "/photos/2024/0709_03a.jpg",
     "filename": "0709_03a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6780,7 +6780,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0484",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_25a-1.jpg",
+    "url": "/photos/2024/8410_25a-1.jpg",
     "filename": "8410_25a-1.jpg",
     "year": "2024",
     "location": "Santa Cruz",
@@ -6794,7 +6794,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0485",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_14a.jpg",
+    "url": "/photos/2024/7419_14a.jpg",
     "filename": "7419_14a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6808,7 +6808,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0486",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_21a.jpg",
+    "url": "/photos/2024/7419_21a.jpg",
     "filename": "7419_21a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6822,7 +6822,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0487",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_15a-1.jpg",
+    "url": "/photos/2024/8410_15a-1.jpg",
     "filename": "8410_15a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6836,7 +6836,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0488",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7724_28.jpg",
+    "url": "/photos/2024/7724_28.jpg",
     "filename": "7724_28.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6850,7 +6850,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0489",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8411_02a-1.jpg",
+    "url": "/photos/2024/8411_02a-1.jpg",
     "filename": "8411_02a-1.jpg",
     "year": "2024",
     "location": "Hong Kong",
@@ -6864,7 +6864,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0490",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/06/0709_13a.jpg",
+    "url": "/photos/2024/0709_13a.jpg",
     "filename": "0709_13a.jpg",
     "year": "2024",
     "location": "Louisville",
@@ -6878,7 +6878,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0491",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_07a.jpg",
+    "url": "/photos/2024/1846_07a.jpg",
     "filename": "1846_07a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6892,7 +6892,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0492",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7420_16a.jpg",
+    "url": "/photos/2024/7420_16a.jpg",
     "filename": "7420_16a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6906,7 +6906,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0493",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/08/4165_35a.jpg",
+    "url": "/photos/2024/4165_35a.jpg",
     "filename": "4165_35a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6920,7 +6920,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0494",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/8410_06a-1.jpg",
+    "url": "/photos/2024/8410_06a-1.jpg",
     "filename": "8410_06a-1.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6934,7 +6934,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0495",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/1846_00a.jpg",
+    "url": "/photos/2024/1846_00a.jpg",
     "filename": "1846_00a.jpg",
     "year": "2024",
     "location": "San Francisco",
@@ -6948,7 +6948,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2024_0496",
-    "url": "https://depresthetics.com/wp-content/uploads/2024/10/7419_00a.jpg",
+    "url": "/photos/2024/7419_00a.jpg",
     "filename": "7419_00a.jpg",
     "year": "2024",
     "location": "Singapore",
@@ -6962,7 +6962,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0497",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260028_26.jpg",
+    "url": "/photos/2025/000069260028_26.jpg",
     "filename": "000069260028_26.jpg",
     "year": "2025",
     "location": "Seattle",
@@ -6976,7 +6976,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0498",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900035_34.jpg",
+    "url": "/photos/2025/000097900035_34.jpg",
     "filename": "000097900035_34.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -6990,7 +6990,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0499",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870030_29.jpg",
+    "url": "/photos/2025/000097870030_29.jpg",
     "filename": "000097870030_29.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -7004,7 +7004,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0500",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_29a.jpg",
+    "url": "/photos/2025/4230_29a.jpg",
     "filename": "4230_29a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7018,7 +7018,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0501",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860021_19.jpg",
+    "url": "/photos/2025/000097860021_19.jpg",
     "filename": "000097860021_19.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -7032,7 +7032,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0502",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530003_2.jpg",
+    "url": "/photos/2025/000041530003_2.jpg",
     "filename": "000041530003_2.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7046,7 +7046,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0503",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_32a.jpg",
+    "url": "/photos/2025/4230_32a.jpg",
     "filename": "4230_32a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7060,7 +7060,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0504",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860020_18.jpg",
+    "url": "/photos/2025/000097860020_18.jpg",
     "filename": "000097860020_18.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -7074,7 +7074,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0505",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_20a.jpg",
+    "url": "/photos/2025/4228_20a.jpg",
     "filename": "4228_20a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7088,7 +7088,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0506",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540009_11a.jpg",
+    "url": "/photos/2025/000041540009_11a.jpg",
     "filename": "000041540009_11a.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -7102,7 +7102,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0507",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530018_17.jpg",
+    "url": "/photos/2025/000041530018_17.jpg",
     "filename": "000041530018_17.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7116,7 +7116,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0508",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910008_8a.jpg",
+    "url": "/photos/2025/000097910008_8a.jpg",
     "filename": "000097910008_8a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -7130,7 +7130,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0509",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530011_10.jpg",
+    "url": "/photos/2025/000041530011_10.jpg",
     "filename": "000041530011_10.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7144,7 +7144,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0510",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_05a.jpg",
+    "url": "/photos/2025/4230_05a.jpg",
     "filename": "4230_05a.jpg",
     "year": "2025",
     "location": "Budapest",
@@ -7158,7 +7158,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0511",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880005_3a.jpg",
+    "url": "/photos/2025/000097880005_3a.jpg",
     "filename": "000097880005_3a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -7172,7 +7172,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0512",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_27a.jpg",
+    "url": "/photos/2025/4230_27a.jpg",
     "filename": "4230_27a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7186,7 +7186,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0513",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_13.jpg",
+    "url": "/photos/2025/4229_13.jpg",
     "filename": "4229_13.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7200,7 +7200,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0514",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890012_10.jpg",
+    "url": "/photos/2025/000097890012_10.jpg",
     "filename": "000097890012_10.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7214,7 +7214,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0515",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_34a.jpg",
+    "url": "/photos/2025/4228_34a.jpg",
     "filename": "4228_34a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7228,7 +7228,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0516",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180020_20.jpg",
+    "url": "/photos/2025/006084180020_20.jpg",
     "filename": "006084180020_20.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7242,7 +7242,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0517",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890007_5.jpg",
+    "url": "/photos/2025/000097890007_5.jpg",
     "filename": "000097890007_5.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7256,7 +7256,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0518",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260036_34.jpg",
+    "url": "/photos/2025/000069260036_34.jpg",
     "filename": "000069260036_34.jpg",
     "year": "2025",
     "location": "Orcas Island",
@@ -7270,7 +7270,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0519",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540031_34a.jpg",
+    "url": "/photos/2025/000041540031_34a.jpg",
     "filename": "000041540031_34a.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7284,7 +7284,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0520",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530020_19.jpg",
+    "url": "/photos/2025/000041530020_19.jpg",
     "filename": "000041530020_19.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7298,7 +7298,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0521",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530025_24.jpg",
+    "url": "/photos/2025/000041530025_24.jpg",
     "filename": "000041530025_24.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7312,7 +7312,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0522",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_21a.jpg",
+    "url": "/photos/2025/4228_21a.jpg",
     "filename": "4228_21a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7326,7 +7326,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0523",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860029_27.jpg",
+    "url": "/photos/2025/000097860029_27.jpg",
     "filename": "000097860029_27.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -7340,7 +7340,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0524",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_16.jpg",
+    "url": "/photos/2025/4293_16.jpg",
     "filename": "4293_16.jpg",
     "year": "2025",
     "location": "Romania",
@@ -7354,7 +7354,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0525",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_03.jpg",
+    "url": "/photos/2025/4293_03.jpg",
     "filename": "4293_03.jpg",
     "year": "2025",
     "location": "Romania",
@@ -7368,7 +7368,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0526",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260025_23.jpg",
+    "url": "/photos/2025/000069260025_23.jpg",
     "filename": "000069260025_23.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7382,7 +7382,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0527",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870005_4.jpg",
+    "url": "/photos/2025/000097870005_4.jpg",
     "filename": "000097870005_4.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -7396,7 +7396,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0528",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_02.jpg",
+    "url": "/photos/2025/4231_02.jpg",
     "filename": "4231_02.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7410,7 +7410,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0529",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750037_e.jpg",
+    "url": "/photos/2025/000045750037_e.jpg",
     "filename": "000045750037_e.jpg",
     "year": "2025",
     "location": "Philadelphia",
@@ -7424,7 +7424,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0530",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910004_4a.jpg",
+    "url": "/photos/2025/000097910004_4a.jpg",
     "filename": "000097910004_4a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -7438,7 +7438,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0531",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_17.jpg",
+    "url": "/photos/2025/4229_17.jpg",
     "filename": "4229_17.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7452,7 +7452,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0532",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610032_29.jpg",
+    "url": "/photos/2025/000045610032_29.jpg",
     "filename": "000045610032_29.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -7466,7 +7466,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0533",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610025_22.jpg",
+    "url": "/photos/2025/000045610025_22.jpg",
     "filename": "000045610025_22.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -7480,7 +7480,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0534",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890029_27.jpg",
+    "url": "/photos/2025/000097890029_27.jpg",
     "filename": "000097890029_27.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7494,7 +7494,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0535",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_18a.jpg",
+    "url": "/photos/2025/4232_18a.jpg",
     "filename": "4232_18a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -7508,7 +7508,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0536",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900029_28.jpg",
+    "url": "/photos/2025/000097900029_28.jpg",
     "filename": "000097900029_28.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -7522,7 +7522,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0537",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860002_0.jpg",
+    "url": "/photos/2025/000097860002_0.jpg",
     "filename": "000097860002_0.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -7536,7 +7536,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0538",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530017_16.jpg",
+    "url": "/photos/2025/000041530017_16.jpg",
     "filename": "000041530017_16.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7550,7 +7550,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0539",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_06.jpg",
+    "url": "/photos/2025/4231_06.jpg",
     "filename": "4231_06.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7564,7 +7564,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0540",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890020_18.jpg",
+    "url": "/photos/2025/000097890020_18.jpg",
     "filename": "000097890020_18.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7578,7 +7578,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0541",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910011_11a.jpg",
+    "url": "/photos/2025/000097910011_11a.jpg",
     "filename": "000097910011_11a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -7592,7 +7592,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0542",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_13.jpg",
+    "url": "/photos/2025/4293_13.jpg",
     "filename": "4293_13.jpg",
     "year": "2025",
     "location": "Romania",
@@ -7606,7 +7606,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0543",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_02.jpg",
+    "url": "/photos/2025/4292_02.jpg",
     "filename": "4292_02.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -7620,7 +7620,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0544",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900038_36a.jpg",
+    "url": "/photos/2025/000097900038_36a.jpg",
     "filename": "000097900038_36a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -7634,7 +7634,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0545",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_33.jpg",
+    "url": "/photos/2025/4229_33.jpg",
     "filename": "4229_33.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7648,7 +7648,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0546",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610026_23.jpg",
+    "url": "/photos/2025/000045610026_23.jpg",
     "filename": "000045610026_23.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -7662,7 +7662,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0547",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_32.jpg",
+    "url": "/photos/2025/4229_32.jpg",
     "filename": "4229_32.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7676,7 +7676,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0548",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260005_3.jpg",
+    "url": "/photos/2025/000069260005_3.jpg",
     "filename": "000069260005_3.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7690,7 +7690,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0549",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_17.jpg",
+    "url": "/photos/2025/4293_17.jpg",
     "filename": "4293_17.jpg",
     "year": "2025",
     "location": "Romania",
@@ -7704,7 +7704,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0550",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_15a.jpg",
+    "url": "/photos/2025/4232_15a.jpg",
     "filename": "4232_15a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -7718,7 +7718,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0551",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_19a.jpg",
+    "url": "/photos/2025/4232_19a.jpg",
     "filename": "4232_19a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -7732,7 +7732,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0552",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_14.jpg",
+    "url": "/photos/2025/4292_14.jpg",
     "filename": "4292_14.jpg",
     "year": "2025",
     "location": "Scottsdale",
@@ -7746,7 +7746,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0553",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540021_24a.jpg",
+    "url": "/photos/2025/000041540021_24a.jpg",
     "filename": "000041540021_24a.jpg",
     "year": "2025",
     "location": "Miami",
@@ -7760,7 +7760,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0554",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_19.jpg",
+    "url": "/photos/2025/4292_19.jpg",
     "filename": "4292_19.jpg",
     "year": "2025",
     "location": "Scottsdale",
@@ -7774,7 +7774,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0555",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_24.jpg",
+    "url": "/photos/2025/4293_24.jpg",
     "filename": "4293_24.jpg",
     "year": "2025",
     "location": "Romania",
@@ -7788,7 +7788,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0556",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_11.jpg",
+    "url": "/photos/2025/4292_11.jpg",
     "filename": "4292_11.jpg",
     "year": "2025",
     "location": "New York",
@@ -7802,7 +7802,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0557",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_03a.jpg",
+    "url": "/photos/2025/4232_03a.jpg",
     "filename": "4232_03a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -7816,7 +7816,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0558",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_32a.jpg",
+    "url": "/photos/2025/4228_32a.jpg",
     "filename": "4228_32a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7830,7 +7830,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0559",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_00.jpg",
+    "url": "/photos/2025/4231_00.jpg",
     "filename": "4231_00.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7844,7 +7844,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0560",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150026_24.jpg",
+    "url": "/photos/2025/000041150026_24.jpg",
     "filename": "000041150026_24.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7858,7 +7858,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0561",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610035_32.jpg",
+    "url": "/photos/2025/000045610035_32.jpg",
     "filename": "000045610035_32.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -7872,7 +7872,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0562",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_30.jpg",
+    "url": "/photos/2025/4292_30.jpg",
     "filename": "4292_30.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7886,7 +7886,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0563",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_03a.jpg",
+    "url": "/photos/2025/4228_03a.jpg",
     "filename": "4228_03a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7900,7 +7900,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0564",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180009_9.jpg",
+    "url": "/photos/2025/006084180009_9.jpg",
     "filename": "006084180009_9.jpg",
     "year": "2025",
     "location": "San Francisco Bay Area",
@@ -7914,7 +7914,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0565",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870008_7.jpg",
+    "url": "/photos/2025/000097870008_7.jpg",
     "filename": "000097870008_7.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -7928,7 +7928,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0566",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900006_4.jpg",
+    "url": "/photos/2025/000097900006_4.jpg",
     "filename": "000097900006_4.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -7942,7 +7942,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0567",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_12a.jpg",
+    "url": "/photos/2025/4230_12a.jpg",
     "filename": "4230_12a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7956,7 +7956,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0568",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890005_3.jpg",
+    "url": "/photos/2025/000097890005_3.jpg",
     "filename": "000097890005_3.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -7970,7 +7970,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0569",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_18.jpg",
+    "url": "/photos/2025/4229_18.jpg",
     "filename": "4229_18.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -7984,7 +7984,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0570",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_22.jpg",
+    "url": "/photos/2025/4293_22.jpg",
     "filename": "4293_22.jpg",
     "year": "2025",
     "location": "Romania",
@@ -7998,7 +7998,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0571",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530028_27.jpg",
+    "url": "/photos/2025/000041530028_27.jpg",
     "filename": "000041530028_27.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8012,7 +8012,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0572",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540016_19a.jpg",
+    "url": "/photos/2025/000041540016_19a.jpg",
     "filename": "000041540016_19a.jpg",
     "year": "2025",
     "location": "Miami",
@@ -8026,7 +8026,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0573",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860036_34.jpg",
+    "url": "/photos/2025/000097860036_34.jpg",
     "filename": "000097860036_34.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -8040,7 +8040,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0574",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870036_35.jpg",
+    "url": "/photos/2025/000097870036_35.jpg",
     "filename": "000097870036_35.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -8054,7 +8054,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0575",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910029_29a.jpg",
+    "url": "/photos/2025/000097910029_29a.jpg",
     "filename": "000097910029_29a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -8068,7 +8068,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0576",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260023_21.jpg",
+    "url": "/photos/2025/000069260023_21.jpg",
     "filename": "000069260023_21.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8082,7 +8082,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0577",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530008_7.jpg",
+    "url": "/photos/2025/000041530008_7.jpg",
     "filename": "000041530008_7.jpg",
     "year": "2025",
     "location": "",
@@ -8096,7 +8096,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0578",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750022_22.jpg",
+    "url": "/photos/2025/000045750022_22.jpg",
     "filename": "000045750022_22.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8110,7 +8110,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0579",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530021_20.jpg",
+    "url": "/photos/2025/000041530021_20.jpg",
     "filename": "000041530021_20.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8124,7 +8124,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0580",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_35.jpg",
+    "url": "/photos/2025/4293_35.jpg",
     "filename": "4293_35.jpg",
     "year": "2025",
     "location": "Romania",
@@ -8138,7 +8138,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0581",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180012_12.jpg",
+    "url": "/photos/2025/006084180012_12.jpg",
     "filename": "006084180012_12.jpg",
     "year": "2025",
     "location": "San Francisco Bay Area",
@@ -8152,7 +8152,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0582",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_12.jpg",
+    "url": "/photos/2025/4293_12.jpg",
     "filename": "4293_12.jpg",
     "year": "2025",
     "location": "Romania",
@@ -8166,7 +8166,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0583",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910019_19a.jpg",
+    "url": "/photos/2025/000097910019_19a.jpg",
     "filename": "000097910019_19a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -8180,7 +8180,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0584",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750034_34.jpg",
+    "url": "/photos/2025/000045750034_34.jpg",
     "filename": "000045750034_34.jpg",
     "year": "2025",
     "location": "Philadelphia",
@@ -8194,7 +8194,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0585",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870029_28.jpg",
+    "url": "/photos/2025/000097870029_28.jpg",
     "filename": "000097870029_28.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -8208,7 +8208,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0586",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530002_1.jpg",
+    "url": "/photos/2025/000041530002_1.jpg",
     "filename": "000041530002_1.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8222,7 +8222,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0587",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870035_34.jpg",
+    "url": "/photos/2025/000097870035_34.jpg",
     "filename": "000097870035_34.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -8236,7 +8236,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0588",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900024_23.jpg",
+    "url": "/photos/2025/000097900024_23.jpg",
     "filename": "000097900024_23.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -8250,7 +8250,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0589",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260001_00.jpg",
+    "url": "/photos/2025/000069260001_00.jpg",
     "filename": "000069260001_00.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8264,7 +8264,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0590",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880014_12a.jpg",
+    "url": "/photos/2025/000097880014_12a.jpg",
     "filename": "000097880014_12a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -8278,7 +8278,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0591",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900010_8.jpg",
+    "url": "/photos/2025/000097900010_8.jpg",
     "filename": "000097900010_8.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -8292,7 +8292,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0592",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_00a.jpg",
+    "url": "/photos/2025/4232_00a.jpg",
     "filename": "4232_00a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -8306,7 +8306,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0593",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530019_18.jpg",
+    "url": "/photos/2025/000041530019_18.jpg",
     "filename": "000041530019_18.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8320,7 +8320,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0594",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180003_3.jpg",
+    "url": "/photos/2025/006084180003_3.jpg",
     "filename": "006084180003_3.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8334,7 +8334,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0595",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_23a.jpg",
+    "url": "/photos/2025/4230_23a.jpg",
     "filename": "4230_23a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -8348,7 +8348,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0596",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870009_8.jpg",
+    "url": "/photos/2025/000097870009_8.jpg",
     "filename": "000097870009_8.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -8362,7 +8362,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0597",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180002_2.jpg",
+    "url": "/photos/2025/006084180002_2.jpg",
     "filename": "006084180002_2.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8376,7 +8376,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0598",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000090700009_22a.jpg",
+    "url": "/photos/2025/000090700009_22a.jpg",
     "filename": "000090700009_22a.jpg",
     "year": "2025",
     "location": "Philadelphia",
@@ -8390,7 +8390,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0599",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910016_16a.jpg",
+    "url": "/photos/2025/000097910016_16a.jpg",
     "filename": "000097910016_16a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -8404,7 +8404,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0600",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_15.jpg",
+    "url": "/photos/2025/4231_15.jpg",
     "filename": "4231_15.jpg",
     "year": "2025",
     "location": "Bosnia and Herzegovina",
@@ -8418,7 +8418,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0601",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150015_13.jpg",
+    "url": "/photos/2025/000041150015_13.jpg",
     "filename": "000041150015_13.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8432,7 +8432,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0602",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_36.jpg",
+    "url": "/photos/2025/4229_36.jpg",
     "filename": "4229_36.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -8446,7 +8446,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0603",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_23a.jpg",
+    "url": "/photos/2025/4228_23a.jpg",
     "filename": "4228_23a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -8460,7 +8460,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0604",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_28a.jpg",
+    "url": "/photos/2025/4228_28a.jpg",
     "filename": "4228_28a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -8474,7 +8474,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0605",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260029_27.jpg",
+    "url": "/photos/2025/000069260029_27.jpg",
     "filename": "000069260029_27.jpg",
     "year": "2025",
     "location": "Seattle",
@@ -8488,7 +8488,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0606",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530012_11.jpg",
+    "url": "/photos/2025/000041530012_11.jpg",
     "filename": "000041530012_11.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8502,7 +8502,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0607",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750009_9.jpg",
+    "url": "/photos/2025/000045750009_9.jpg",
     "filename": "000045750009_9.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -8516,7 +8516,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0608",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910017_17a.jpg",
+    "url": "/photos/2025/000097910017_17a.jpg",
     "filename": "000097910017_17a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -8530,7 +8530,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0609",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910021_21a.jpg",
+    "url": "/photos/2025/000097910021_21a.jpg",
     "filename": "000097910021_21a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -8544,7 +8544,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0610",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530033_32.jpg",
+    "url": "/photos/2025/000041530033_32.jpg",
     "filename": "000041530033_32.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8558,7 +8558,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0611",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_00.jpg",
+    "url": "/photos/2025/4292_00.jpg",
     "filename": "4292_00.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8572,7 +8572,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0612",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880002_0a.jpg",
+    "url": "/photos/2025/000097880002_0a.jpg",
     "filename": "000097880002_0a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -8586,7 +8586,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0613",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870028_27.jpg",
+    "url": "/photos/2025/000097870028_27.jpg",
     "filename": "000097870028_27.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -8600,7 +8600,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0614",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750028_28.jpg",
+    "url": "/photos/2025/000045750028_28.jpg",
     "filename": "000045750028_28.jpg",
     "year": "2025",
     "location": "San Francisco Bay Area",
@@ -8614,7 +8614,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0615",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530036_35.jpg",
+    "url": "/photos/2025/000041530036_35.jpg",
     "filename": "000041530036_35.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8628,7 +8628,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0616",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910025_25a.jpg",
+    "url": "/photos/2025/000097910025_25a.jpg",
     "filename": "000097910025_25a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -8642,7 +8642,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0617",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910018_18a.jpg",
+    "url": "/photos/2025/000097910018_18a.jpg",
     "filename": "000097910018_18a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -8656,7 +8656,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0618",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150034_32.jpg",
+    "url": "/photos/2025/000041150034_32.jpg",
     "filename": "000041150034_32.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8670,7 +8670,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0619",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_35a.jpg",
+    "url": "/photos/2025/4230_35a.jpg",
     "filename": "4230_35a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -8684,7 +8684,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0620",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000090700006_15a.jpg",
+    "url": "/photos/2025/000090700006_15a.jpg",
     "filename": "000090700006_15a.jpg",
     "year": "2025",
     "location": "Philadelphia",
@@ -8698,7 +8698,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0621",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750015_15.jpg",
+    "url": "/photos/2025/000045750015_15.jpg",
     "filename": "000045750015_15.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -8712,7 +8712,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0622",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870011_10.jpg",
+    "url": "/photos/2025/000097870011_10.jpg",
     "filename": "000097870011_10.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -8726,7 +8726,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0623",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540010_12a.jpg",
+    "url": "/photos/2025/000041540010_12a.jpg",
     "filename": "000041540010_12a.jpg",
     "year": "2025",
     "location": "Miami",
@@ -8740,7 +8740,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0624",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610031_28.jpg",
+    "url": "/photos/2025/000045610031_28.jpg",
     "filename": "000045610031_28.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -8754,7 +8754,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0625",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_11a.jpg",
+    "url": "/photos/2025/4230_11a.jpg",
     "filename": "4230_11a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -8768,7 +8768,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0626",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_15a.jpg",
+    "url": "/photos/2025/4230_15a.jpg",
     "filename": "4230_15a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -8782,7 +8782,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0627",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540006_8a.jpg",
+    "url": "/photos/2025/000041540006_8a.jpg",
     "filename": "000041540006_8a.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -8796,7 +8796,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0628",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_23.jpg",
+    "url": "/photos/2025/4229_23.jpg",
     "filename": "4229_23.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -8810,7 +8810,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0629",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_03.jpg",
+    "url": "/photos/2025/4231_03.jpg",
     "filename": "4231_03.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -8824,7 +8824,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0630",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880031_29a.jpg",
+    "url": "/photos/2025/000097880031_29a.jpg",
     "filename": "000097880031_29a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -8838,7 +8838,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0631",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150004_2.jpg",
+    "url": "/photos/2025/000041150004_2.jpg",
     "filename": "000041150004_2.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8852,7 +8852,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0632",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260039_36a.jpg",
+    "url": "/photos/2025/000069260039_36a.jpg",
     "filename": "000069260039_36a.jpg",
     "year": "2025",
     "location": "Orcas Island",
@@ -8866,7 +8866,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0633",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_32.jpg",
+    "url": "/photos/2025/4292_32.jpg",
     "filename": "4292_32.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8880,7 +8880,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0634",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910014_14a.jpg",
+    "url": "/photos/2025/000097910014_14a.jpg",
     "filename": "000097910014_14a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -8894,7 +8894,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0635",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870017_16.jpg",
+    "url": "/photos/2025/000097870017_16.jpg",
     "filename": "000097870017_16.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -8908,7 +8908,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0636",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890003_1.jpg",
+    "url": "/photos/2025/000097890003_1.jpg",
     "filename": "000097890003_1.jpg",
     "year": "2025",
     "location": "Dallas",
@@ -8922,7 +8922,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0637",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_35.jpg",
+    "url": "/photos/2025/4229_35.jpg",
     "filename": "4229_35.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -8936,7 +8936,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0638",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_01a.jpg",
+    "url": "/photos/2025/4228_01a.jpg",
     "filename": "4228_01a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -8950,7 +8950,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0639",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610038_35.jpg",
+    "url": "/photos/2025/000045610038_35.jpg",
     "filename": "000045610038_35.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -8964,7 +8964,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0640",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150036_34.jpg",
+    "url": "/photos/2025/000041150036_34.jpg",
     "filename": "000041150036_34.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -8978,7 +8978,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0641",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_33.jpg",
+    "url": "/photos/2025/4293_33.jpg",
     "filename": "4293_33.jpg",
     "year": "2025",
     "location": "Romania",
@@ -8992,7 +8992,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0642",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880009_7a.jpg",
+    "url": "/photos/2025/000097880009_7a.jpg",
     "filename": "000097880009_7a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -9006,7 +9006,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0643",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610033_30.jpg",
+    "url": "/photos/2025/000045610033_30.jpg",
     "filename": "000045610033_30.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -9020,7 +9020,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0644",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860024_22.jpg",
+    "url": "/photos/2025/000097860024_22.jpg",
     "filename": "000097860024_22.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -9034,7 +9034,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0645",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610021_18.jpg",
+    "url": "/photos/2025/000045610021_18.jpg",
     "filename": "000045610021_18.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -9048,7 +9048,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0646",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890018_16.jpg",
+    "url": "/photos/2025/000097890018_16.jpg",
     "filename": "000097890018_16.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9062,7 +9062,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0647",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150017_15.jpg",
+    "url": "/photos/2025/000041150017_15.jpg",
     "filename": "000041150017_15.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9076,7 +9076,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0648",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_16.jpg",
+    "url": "/photos/2025/4229_16.jpg",
     "filename": "4229_16.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -9090,7 +9090,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0649",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150028_26.jpg",
+    "url": "/photos/2025/000041150028_26.jpg",
     "filename": "000041150028_26.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9104,7 +9104,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0650",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180021_21.jpg",
+    "url": "/photos/2025/006084180021_21.jpg",
     "filename": "006084180021_21.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9118,7 +9118,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0651",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_07a.jpg",
+    "url": "/photos/2025/4232_07a.jpg",
     "filename": "4232_07a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -9132,7 +9132,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0652",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_16.jpg",
+    "url": "/photos/2025/4292_16.jpg",
     "filename": "4292_16.jpg",
     "year": "2025",
     "location": "Scottsdale",
@@ -9146,7 +9146,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0653",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880027_25a.jpg",
+    "url": "/photos/2025/000097880027_25a.jpg",
     "filename": "000097880027_25a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -9160,7 +9160,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0654",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540028_31a.jpg",
+    "url": "/photos/2025/000041540028_31a.jpg",
     "filename": "000041540028_31a.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9174,7 +9174,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0655",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910027_27a.jpg",
+    "url": "/photos/2025/000097910027_27a.jpg",
     "filename": "000097910027_27a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -9188,7 +9188,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0656",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_07a.jpg",
+    "url": "/photos/2025/4230_07a.jpg",
     "filename": "4230_07a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -9202,7 +9202,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0657",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910010_10a.jpg",
+    "url": "/photos/2025/000097910010_10a.jpg",
     "filename": "000097910010_10a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -9216,7 +9216,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0658",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900021_20.jpg",
+    "url": "/photos/2025/000097900021_20.jpg",
     "filename": "000097900021_20.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -9230,7 +9230,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0659",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900023_22.jpg",
+    "url": "/photos/2025/000097900023_22.jpg",
     "filename": "000097900023_22.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -9244,7 +9244,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0660",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_28.jpg",
+    "url": "/photos/2025/4229_28.jpg",
     "filename": "4229_28.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -9258,7 +9258,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0661",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150030_28.jpg",
+    "url": "/photos/2025/000041150030_28.jpg",
     "filename": "000041150030_28.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9272,7 +9272,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0662",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530031_30.jpg",
+    "url": "/photos/2025/000041530031_30.jpg",
     "filename": "000041530031_30.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9286,7 +9286,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0663",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150018_16.jpg",
+    "url": "/photos/2025/000041150018_16.jpg",
     "filename": "000041150018_16.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9300,7 +9300,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0664",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_33a.jpg",
+    "url": "/photos/2025/4230_33a.jpg",
     "filename": "4230_33a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -9314,7 +9314,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0665",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150014_12.jpg",
+    "url": "/photos/2025/000041150014_12.jpg",
     "filename": "000041150014_12.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9328,7 +9328,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0666",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_31.jpg",
+    "url": "/photos/2025/4292_31.jpg",
     "filename": "4292_31.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9342,7 +9342,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0667",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870025_24.jpg",
+    "url": "/photos/2025/000097870025_24.jpg",
     "filename": "000097870025_24.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -9356,7 +9356,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0668",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_09.jpg",
+    "url": "/photos/2025/4292_09.jpg",
     "filename": "4292_09.jpg",
     "year": "2025",
     "location": "New York",
@@ -9370,7 +9370,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0669",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750017_17.jpg",
+    "url": "/photos/2025/000045750017_17.jpg",
     "filename": "000045750017_17.jpg",
     "year": "2025",
     "location": "Napa",
@@ -9384,7 +9384,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0670",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_25.jpg",
+    "url": "/photos/2025/4229_25.jpg",
     "filename": "4229_25.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -9398,7 +9398,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0671",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_04.jpg",
+    "url": "/photos/2025/4292_04.jpg",
     "filename": "4292_04.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9412,7 +9412,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0672",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910003_3a.jpg",
+    "url": "/photos/2025/000097910003_3a.jpg",
     "filename": "000097910003_3a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -9426,7 +9426,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0673",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_14a.jpg",
+    "url": "/photos/2025/4228_14a.jpg",
     "filename": "4228_14a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -9440,7 +9440,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0674",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530005_4.jpg",
+    "url": "/photos/2025/000041530005_4.jpg",
     "filename": "000041530005_4.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9454,7 +9454,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0675",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890024_22.jpg",
+    "url": "/photos/2025/000097890024_22.jpg",
     "filename": "000097890024_22.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9468,7 +9468,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0676",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_29a.jpg",
+    "url": "/photos/2025/4228_29a.jpg",
     "filename": "4228_29a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -9482,7 +9482,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0677",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530014_13.jpg",
+    "url": "/photos/2025/000041530014_13.jpg",
     "filename": "000041530014_13.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9496,7 +9496,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0678",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530010_9.jpg",
+    "url": "/photos/2025/000041530010_9.jpg",
     "filename": "000041530010_9.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9510,7 +9510,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0679",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_09a.jpg",
+    "url": "/photos/2025/4228_09a.jpg",
     "filename": "4228_09a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -9524,7 +9524,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0680",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_08.jpg",
+    "url": "/photos/2025/4293_08.jpg",
     "filename": "4293_08.jpg",
     "year": "2025",
     "location": "Romania",
@@ -9538,7 +9538,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0681",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_26.jpg",
+    "url": "/photos/2025/4292_26.jpg",
     "filename": "4292_26.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9552,7 +9552,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0682",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890033_31.jpg",
+    "url": "/photos/2025/000097890033_31.jpg",
     "filename": "000097890033_31.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -9566,7 +9566,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0683",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180006_6.jpg",
+    "url": "/photos/2025/006084180006_6.jpg",
     "filename": "006084180006_6.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9580,7 +9580,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0684",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_10.jpg",
+    "url": "/photos/2025/4231_10.jpg",
     "filename": "4231_10.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -9594,7 +9594,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0685",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_22a.jpg",
+    "url": "/photos/2025/4228_22a.jpg",
     "filename": "4228_22a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -9608,7 +9608,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0686",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150016_14.jpg",
+    "url": "/photos/2025/000041150016_14.jpg",
     "filename": "000041150016_14.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9622,7 +9622,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0687",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150022_20.jpg",
+    "url": "/photos/2025/000041150022_20.jpg",
     "filename": "000041150022_20.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9636,7 +9636,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0688",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860023_21.jpg",
+    "url": "/photos/2025/000097860023_21.jpg",
     "filename": "000097860023_21.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -9650,7 +9650,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0689",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880034_32a.jpg",
+    "url": "/photos/2025/000097880034_32a.jpg",
     "filename": "000097880034_32a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -9664,7 +9664,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0690",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_32.jpg",
+    "url": "/photos/2025/4293_32.jpg",
     "filename": "4293_32.jpg",
     "year": "2025",
     "location": "Romania",
@@ -9678,7 +9678,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0691",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540032_35a.jpg",
+    "url": "/photos/2025/000041540032_35a.jpg",
     "filename": "000041540032_35a.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9692,7 +9692,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0692",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_01.jpg",
+    "url": "/photos/2025/4292_01.jpg",
     "filename": "4292_01.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9706,7 +9706,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0693",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_17.jpg",
+    "url": "/photos/2025/4231_17.jpg",
     "filename": "4231_17.jpg",
     "year": "2025",
     "location": "Bosnia and Herzegovina",
@@ -9720,7 +9720,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0694",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_29.jpg",
+    "url": "/photos/2025/4292_29.jpg",
     "filename": "4292_29.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9734,7 +9734,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0695",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860022_20.jpg",
+    "url": "/photos/2025/000097860022_20.jpg",
     "filename": "000097860022_20.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -9748,7 +9748,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0696",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260022_20.jpg",
+    "url": "/photos/2025/000069260022_20.jpg",
     "filename": "000069260022_20.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9762,7 +9762,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0697",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_25a.jpg",
+    "url": "/photos/2025/4228_25a.jpg",
     "filename": "4228_25a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -9776,7 +9776,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0698",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750033_33.jpg",
+    "url": "/photos/2025/000045750033_33.jpg",
     "filename": "000045750033_33.jpg",
     "year": "2025",
     "location": "Philadelphia",
@@ -9790,7 +9790,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0699",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_25.jpg",
+    "url": "/photos/2025/4292_25.jpg",
     "filename": "4292_25.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9804,7 +9804,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0700",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_23.jpg",
+    "url": "/photos/2025/4293_23.jpg",
     "filename": "4293_23.jpg",
     "year": "2025",
     "location": "Romania",
@@ -9818,7 +9818,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0701",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_31.jpg",
+    "url": "/photos/2025/4229_31.jpg",
     "filename": "4229_31.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -9832,7 +9832,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0702",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000090700001_6a.jpg",
+    "url": "/photos/2025/000090700001_6a.jpg",
     "filename": "000090700001_6a.jpg",
     "year": "2025",
     "location": "Philadelphia",
@@ -9846,7 +9846,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0703",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_31.jpg",
+    "url": "/photos/2025/4293_31.jpg",
     "filename": "4293_31.jpg",
     "year": "2025",
     "location": "Romania",
@@ -9860,7 +9860,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0704",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540007_9a.jpg",
+    "url": "/photos/2025/000041540007_9a.jpg",
     "filename": "000041540007_9a.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -9874,7 +9874,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0705",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_16.jpg",
+    "url": "/photos/2025/4231_16.jpg",
     "filename": "4231_16.jpg",
     "year": "2025",
     "location": "Bosnia and Herzegovina",
@@ -9888,7 +9888,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0706",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910006_6a.jpg",
+    "url": "/photos/2025/000097910006_6a.jpg",
     "filename": "000097910006_6a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -9902,7 +9902,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0707",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750019_19.jpg",
+    "url": "/photos/2025/000045750019_19.jpg",
     "filename": "000045750019_19.jpg",
     "year": "2025",
     "location": "Napa",
@@ -9916,7 +9916,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0708",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_19a.jpg",
+    "url": "/photos/2025/4228_19a.jpg",
     "filename": "4228_19a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -9930,7 +9930,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0709",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000090700005_10a.jpg",
+    "url": "/photos/2025/000090700005_10a.jpg",
     "filename": "000090700005_10a.jpg",
     "year": "2025",
     "location": "Philadelphia",
@@ -9944,7 +9944,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0710",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_15.jpg",
+    "url": "/photos/2025/4229_15.jpg",
     "filename": "4229_15.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -9958,7 +9958,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0711",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260026_24.jpg",
+    "url": "/photos/2025/000069260026_24.jpg",
     "filename": "000069260026_24.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -9972,7 +9972,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0712",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_13a.jpg",
+    "url": "/photos/2025/4228_13a.jpg",
     "filename": "4228_13a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -9986,7 +9986,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0713",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_16a.jpg",
+    "url": "/photos/2025/4228_16a.jpg",
     "filename": "4228_16a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -10000,7 +10000,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0714",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260017_15.jpg",
+    "url": "/photos/2025/000069260017_15.jpg",
     "filename": "000069260017_15.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10014,7 +10014,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0715",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_25.jpg",
+    "url": "/photos/2025/4293_25.jpg",
     "filename": "4293_25.jpg",
     "year": "2025",
     "location": "Romania",
@@ -10028,7 +10028,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0716",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260024_22.jpg",
+    "url": "/photos/2025/000069260024_22.jpg",
     "filename": "000069260024_22.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10042,7 +10042,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0717",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610024_21.jpg",
+    "url": "/photos/2025/000045610024_21.jpg",
     "filename": "000045610024_21.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -10056,7 +10056,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0718",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540011_13a.jpg",
+    "url": "/photos/2025/000041540011_13a.jpg",
     "filename": "000041540011_13a.jpg",
     "year": "2025",
     "location": "Miami",
@@ -10070,7 +10070,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0719",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890028_26.jpg",
+    "url": "/photos/2025/000097890028_26.jpg",
     "filename": "000097890028_26.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10084,7 +10084,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0720",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_24.jpg",
+    "url": "/photos/2025/4292_24.jpg",
     "filename": "4292_24.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10098,7 +10098,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0721",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260030_28.jpg",
+    "url": "/photos/2025/000069260030_28.jpg",
     "filename": "000069260030_28.jpg",
     "year": "2025",
     "location": "Seattle",
@@ -10112,7 +10112,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0722",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610030_27.jpg",
+    "url": "/photos/2025/000045610030_27.jpg",
     "filename": "000045610030_27.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -10126,7 +10126,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0723",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530035_34.jpg",
+    "url": "/photos/2025/000041530035_34.jpg",
     "filename": "000041530035_34.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10140,7 +10140,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0724",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_20a.jpg",
+    "url": "/photos/2025/4232_20a.jpg",
     "filename": "4232_20a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -10154,7 +10154,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0725",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_12a.jpg",
+    "url": "/photos/2025/4227_12a.jpg",
     "filename": "4227_12a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -10168,7 +10168,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0726",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860012_10.jpg",
+    "url": "/photos/2025/000097860012_10.jpg",
     "filename": "000097860012_10.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -10182,7 +10182,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0727",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260009_7.jpg",
+    "url": "/photos/2025/000069260009_7.jpg",
     "filename": "000069260009_7.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10196,7 +10196,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0728",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530007_6.jpg",
+    "url": "/photos/2025/000041530007_6.jpg",
     "filename": "000041530007_6.jpg",
     "year": "2025",
     "location": "",
@@ -10210,7 +10210,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0729",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860011_9.jpg",
+    "url": "/photos/2025/000097860011_9.jpg",
     "filename": "000097860011_9.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -10224,7 +10224,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0730",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_09a.jpg",
+    "url": "/photos/2025/4230_09a.jpg",
     "filename": "4230_09a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -10238,7 +10238,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0731",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_05.jpg",
+    "url": "/photos/2025/4229_05.jpg",
     "filename": "4229_05.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -10252,7 +10252,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0732",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540025_28a.jpg",
+    "url": "/photos/2025/000041540025_28a.jpg",
     "filename": "000041540025_28a.jpg",
     "year": "2025",
     "location": "New York",
@@ -10266,7 +10266,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0733",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860014_12.jpg",
+    "url": "/photos/2025/000097860014_12.jpg",
     "filename": "000097860014_12.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -10280,7 +10280,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0734",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910031_31a.jpg",
+    "url": "/photos/2025/000097910031_31a.jpg",
     "filename": "000097910031_31a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -10294,7 +10294,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0735",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180015_15.jpg",
+    "url": "/photos/2025/006084180015_15.jpg",
     "filename": "006084180015_15.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10308,7 +10308,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0736",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_36.jpg",
+    "url": "/photos/2025/4293_36.jpg",
     "filename": "4293_36.jpg",
     "year": "2025",
     "location": "Romania",
@@ -10322,7 +10322,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0737",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610022_19.jpg",
+    "url": "/photos/2025/000045610022_19.jpg",
     "filename": "000045610022_19.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -10336,7 +10336,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0738",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000090700002_7a.jpg",
+    "url": "/photos/2025/000090700002_7a.jpg",
     "filename": "000090700002_7a.jpg",
     "year": "2025",
     "location": "Philadelphia",
@@ -10350,7 +10350,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0739",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180005_5.jpg",
+    "url": "/photos/2025/006084180005_5.jpg",
     "filename": "006084180005_5.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10364,7 +10364,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0740",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540019_22a.jpg",
+    "url": "/photos/2025/000041540019_22a.jpg",
     "filename": "000041540019_22a.jpg",
     "year": "2025",
     "location": "Miami",
@@ -10378,7 +10378,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0741",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260013_11.jpg",
+    "url": "/photos/2025/000069260013_11.jpg",
     "filename": "000069260013_11.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10392,7 +10392,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0742",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540018_21a.jpg",
+    "url": "/photos/2025/000041540018_21a.jpg",
     "filename": "000041540018_21a.jpg",
     "year": "2025",
     "location": "Miami",
@@ -10406,7 +10406,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0743",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860019_17.jpg",
+    "url": "/photos/2025/000097860019_17.jpg",
     "filename": "000097860019_17.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -10420,7 +10420,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0744",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_08.jpg",
+    "url": "/photos/2025/4292_08.jpg",
     "filename": "4292_08.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10434,7 +10434,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0745",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_27a.jpg",
+    "url": "/photos/2025/4228_27a.jpg",
     "filename": "4228_27a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -10448,7 +10448,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0746",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_20.jpg",
+    "url": "/photos/2025/4229_20.jpg",
     "filename": "4229_20.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -10462,7 +10462,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0747",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260034_32.jpg",
+    "url": "/photos/2025/000069260034_32.jpg",
     "filename": "000069260034_32.jpg",
     "year": "2025",
     "location": "Orcas Island",
@@ -10476,7 +10476,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0748",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880019_17a.jpg",
+    "url": "/photos/2025/000097880019_17a.jpg",
     "filename": "000097880019_17a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -10490,7 +10490,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0749",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530013_12.jpg",
+    "url": "/photos/2025/000041530013_12.jpg",
     "filename": "000041530013_12.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10504,7 +10504,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0750",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_01a.jpg",
+    "url": "/photos/2025/4232_01a.jpg",
     "filename": "4232_01a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -10518,7 +10518,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0751",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_18a.jpg",
+    "url": "/photos/2025/4230_18a.jpg",
     "filename": "4230_18a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -10532,7 +10532,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0752",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910035_35a.jpg",
+    "url": "/photos/2025/000097910035_35a.jpg",
     "filename": "000097910035_35a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -10546,7 +10546,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0753",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530034_33.jpg",
+    "url": "/photos/2025/000041530034_33.jpg",
     "filename": "000041530034_33.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10560,7 +10560,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0754",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540014_16a.jpg",
+    "url": "/photos/2025/000041540014_16a.jpg",
     "filename": "000041540014_16a.jpg",
     "year": "2025",
     "location": "Miami",
@@ -10574,7 +10574,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0755",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150037_35.jpg",
+    "url": "/photos/2025/000041150037_35.jpg",
     "filename": "000041150037_35.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10588,7 +10588,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0756",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_27.jpg",
+    "url": "/photos/2025/4229_27.jpg",
     "filename": "4229_27.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -10602,7 +10602,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0757",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880038_36a.jpg",
+    "url": "/photos/2025/000097880038_36a.jpg",
     "filename": "000097880038_36a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -10616,7 +10616,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0758",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880025_23a.jpg",
+    "url": "/photos/2025/000097880025_23a.jpg",
     "filename": "000097880025_23a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -10630,7 +10630,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0759",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910012_12a.jpg",
+    "url": "/photos/2025/000097910012_12a.jpg",
     "filename": "000097910012_12a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -10644,7 +10644,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0760",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_17a.jpg",
+    "url": "/photos/2025/4227_17a.jpg",
     "filename": "4227_17a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -10658,7 +10658,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0761",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_06a.jpg",
+    "url": "/photos/2025/4230_06a.jpg",
     "filename": "4230_06a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -10672,7 +10672,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0762",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_24.jpg",
+    "url": "/photos/2025/4229_24.jpg",
     "filename": "4229_24.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -10686,7 +10686,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0763",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540023_26a.jpg",
+    "url": "/photos/2025/000041540023_26a.jpg",
     "filename": "000041540023_26a.jpg",
     "year": "2025",
     "location": "Miami",
@@ -10700,7 +10700,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0764",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540020_23a.jpg",
+    "url": "/photos/2025/000041540020_23a.jpg",
     "filename": "000041540020_23a.jpg",
     "year": "2025",
     "location": "Miami",
@@ -10714,7 +10714,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0765",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_15a.jpg",
+    "url": "/photos/2025/4228_15a.jpg",
     "filename": "4228_15a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -10728,7 +10728,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0766",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_36a.jpg",
+    "url": "/photos/2025/4230_36a.jpg",
     "filename": "4230_36a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -10742,7 +10742,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0767",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880035_33a.jpg",
+    "url": "/photos/2025/000097880035_33a.jpg",
     "filename": "000097880035_33a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -10756,7 +10756,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0768",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750026_26.jpg",
+    "url": "/photos/2025/000045750026_26.jpg",
     "filename": "000045750026_26.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10770,7 +10770,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0769",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530022_21.jpg",
+    "url": "/photos/2025/000041530022_21.jpg",
     "filename": "000041530022_21.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10784,7 +10784,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0770",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_29.jpg",
+    "url": "/photos/2025/4293_29.jpg",
     "filename": "4293_29.jpg",
     "year": "2025",
     "location": "Romania",
@@ -10798,7 +10798,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0771",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_23.jpg",
+    "url": "/photos/2025/4292_23.jpg",
     "filename": "4292_23.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10812,7 +10812,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0772",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530024_23.jpg",
+    "url": "/photos/2025/000041530024_23.jpg",
     "filename": "000041530024_23.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10826,7 +10826,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0773",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750029_29.jpg",
+    "url": "/photos/2025/000045750029_29.jpg",
     "filename": "000045750029_29.jpg",
     "year": "2025",
     "location": "San Francisco Bay Area",
@@ -10840,7 +10840,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0774",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_07a.jpg",
+    "url": "/photos/2025/4228_07a.jpg",
     "filename": "4228_07a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -10854,7 +10854,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0775",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900018_16.jpg",
+    "url": "/photos/2025/000097900018_16.jpg",
     "filename": "000097900018_16.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -10868,7 +10868,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0776",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880030_28a.jpg",
+    "url": "/photos/2025/000097880030_28a.jpg",
     "filename": "000097880030_28a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -10882,7 +10882,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0777",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900031_30.jpg",
+    "url": "/photos/2025/000097900031_30.jpg",
     "filename": "000097900031_30.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -10896,7 +10896,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0778",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870038_e.jpg",
+    "url": "/photos/2025/000097870038_e.jpg",
     "filename": "000097870038_e.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -10910,7 +10910,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0779",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530038_37.jpg",
+    "url": "/photos/2025/000041530038_37.jpg",
     "filename": "000041530038_37.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10924,7 +10924,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0780",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260004_2.jpg",
+    "url": "/photos/2025/000069260004_2.jpg",
     "filename": "000069260004_2.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -10938,7 +10938,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0781",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180013_13.jpg",
+    "url": "/photos/2025/006084180013_13.jpg",
     "filename": "006084180013_13.jpg",
     "year": "2025",
     "location": "San Francisco Bay Area",
@@ -10952,7 +10952,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0782",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870014_13.jpg",
+    "url": "/photos/2025/000097870014_13.jpg",
     "filename": "000097870014_13.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -10966,7 +10966,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0783",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_09.jpg",
+    "url": "/photos/2025/4293_09.jpg",
     "filename": "4293_09.jpg",
     "year": "2025",
     "location": "Romania",
@@ -10980,7 +10980,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0784",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870003_2.jpg",
+    "url": "/photos/2025/000097870003_2.jpg",
     "filename": "000097870003_2.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -10994,7 +10994,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0785",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180025_25.jpg",
+    "url": "/photos/2025/006084180025_25.jpg",
     "filename": "006084180025_25.jpg",
     "year": "2025",
     "location": "San Francisco Bay Area",
@@ -11008,7 +11008,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0786",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150025_23.jpg",
+    "url": "/photos/2025/000041150025_23.jpg",
     "filename": "000041150025_23.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11022,7 +11022,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0787",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540013_15a.jpg",
+    "url": "/photos/2025/000041540013_15a.jpg",
     "filename": "000041540013_15a.jpg",
     "year": "2025",
     "location": "Miami",
@@ -11036,7 +11036,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0788",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530001_0.jpg",
+    "url": "/photos/2025/000041530001_0.jpg",
     "filename": "000041530001_0.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11050,7 +11050,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0789",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_21a.jpg",
+    "url": "/photos/2025/4232_21a.jpg",
     "filename": "4232_21a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -11064,7 +11064,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0790",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870031_30.jpg",
+    "url": "/photos/2025/000097870031_30.jpg",
     "filename": "000097870031_30.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11078,7 +11078,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0791",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750018_18.jpg",
+    "url": "/photos/2025/000045750018_18.jpg",
     "filename": "000045750018_18.jpg",
     "year": "2025",
     "location": "Napa",
@@ -11092,7 +11092,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0792",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530015_14.jpg",
+    "url": "/photos/2025/000041530015_14.jpg",
     "filename": "000041530015_14.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11106,7 +11106,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0793",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_16a.jpg",
+    "url": "/photos/2025/4232_16a.jpg",
     "filename": "4232_16a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -11120,7 +11120,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0794",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750003_3.jpg",
+    "url": "/photos/2025/000045750003_3.jpg",
     "filename": "000045750003_3.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11134,7 +11134,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0795",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150002_0.jpg",
+    "url": "/photos/2025/000041150002_0.jpg",
     "filename": "000041150002_0.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11148,7 +11148,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0796",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180011_11.jpg",
+    "url": "/photos/2025/006084180011_11.jpg",
     "filename": "006084180011_11.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11162,7 +11162,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0797",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_05a.jpg",
+    "url": "/photos/2025/4228_05a.jpg",
     "filename": "4228_05a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -11176,7 +11176,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0798",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260014_12.jpg",
+    "url": "/photos/2025/000069260014_12.jpg",
     "filename": "000069260014_12.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11190,7 +11190,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0799",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180007_7.jpg",
+    "url": "/photos/2025/006084180007_7.jpg",
     "filename": "006084180007_7.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11204,7 +11204,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0800",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150012_10.jpg",
+    "url": "/photos/2025/000041150012_10.jpg",
     "filename": "000041150012_10.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11218,7 +11218,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0801",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900009_7.jpg",
+    "url": "/photos/2025/000097900009_7.jpg",
     "filename": "000097900009_7.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11232,7 +11232,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0802",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880015_13a.jpg",
+    "url": "/photos/2025/000097880015_13a.jpg",
     "filename": "000097880015_13a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11246,7 +11246,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0803",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540004_6a.jpg",
+    "url": "/photos/2025/000041540004_6a.jpg",
     "filename": "000041540004_6a.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -11260,7 +11260,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0804",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_16a.jpg",
+    "url": "/photos/2025/4227_16a.jpg",
     "filename": "4227_16a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -11274,7 +11274,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0805",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_28a.jpg",
+    "url": "/photos/2025/4230_28a.jpg",
     "filename": "4230_28a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -11288,7 +11288,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0806",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610028_25.jpg",
+    "url": "/photos/2025/000045610028_25.jpg",
     "filename": "000045610028_25.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -11302,7 +11302,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0807",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_13a.jpg",
+    "url": "/photos/2025/4230_13a.jpg",
     "filename": "4230_13a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -11316,7 +11316,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0808",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540029_32a.jpg",
+    "url": "/photos/2025/000041540029_32a.jpg",
     "filename": "000041540029_32a.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11330,7 +11330,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0809",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180019_19.jpg",
+    "url": "/photos/2025/006084180019_19.jpg",
     "filename": "006084180019_19.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11344,7 +11344,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0810",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900026_25.jpg",
+    "url": "/photos/2025/000097900026_25.jpg",
     "filename": "000097900026_25.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11358,7 +11358,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0811",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_21a.jpg",
+    "url": "/photos/2025/4230_21a.jpg",
     "filename": "4230_21a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -11372,7 +11372,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0812",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_11a.jpg",
+    "url": "/photos/2025/4232_11a.jpg",
     "filename": "4232_11a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -11386,7 +11386,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0813",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880017_15a.jpg",
+    "url": "/photos/2025/000097880017_15a.jpg",
     "filename": "000097880017_15a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11400,7 +11400,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0814",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860007_5.jpg",
+    "url": "/photos/2025/000097860007_5.jpg",
     "filename": "000097860007_5.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11414,7 +11414,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0815",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_09.jpg",
+    "url": "/photos/2025/4229_09.jpg",
     "filename": "4229_09.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -11428,7 +11428,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0816",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_08a.jpg",
+    "url": "/photos/2025/4230_08a.jpg",
     "filename": "4230_08a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -11442,7 +11442,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0817",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_04.jpg",
+    "url": "/photos/2025/4229_04.jpg",
     "filename": "4229_04.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -11456,7 +11456,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0818",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_18a.jpg",
+    "url": "/photos/2025/4228_18a.jpg",
     "filename": "4228_18a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -11470,7 +11470,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0819",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900014_12.jpg",
+    "url": "/photos/2025/000097900014_12.jpg",
     "filename": "000097900014_12.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11484,7 +11484,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0820",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_09a.jpg",
+    "url": "/photos/2025/4227_09a.jpg",
     "filename": "4227_09a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -11498,7 +11498,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0821",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_04a.jpg",
+    "url": "/photos/2025/4227_04a.jpg",
     "filename": "4227_04a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -11512,7 +11512,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0822",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880020_18a.jpg",
+    "url": "/photos/2025/000097880020_18a.jpg",
     "filename": "000097880020_18a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11526,7 +11526,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0823",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_06.jpg",
+    "url": "/photos/2025/4292_06.jpg",
     "filename": "4292_06.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11540,7 +11540,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0824",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_21a.jpg",
+    "url": "/photos/2025/4227_21a.jpg",
     "filename": "4227_21a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -11554,7 +11554,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0825",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000090700003_8a.jpg",
+    "url": "/photos/2025/000090700003_8a.jpg",
     "filename": "000090700003_8a.jpg",
     "year": "2025",
     "location": "Philadelphia",
@@ -11568,7 +11568,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0826",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750016_16.jpg",
+    "url": "/photos/2025/000045750016_16.jpg",
     "filename": "000045750016_16.jpg",
     "year": "2025",
     "location": "Napa",
@@ -11582,7 +11582,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0827",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260011_9.jpg",
+    "url": "/photos/2025/000069260011_9.jpg",
     "filename": "000069260011_9.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11596,7 +11596,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0828",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_12a.jpg",
+    "url": "/photos/2025/4228_12a.jpg",
     "filename": "4228_12a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -11610,7 +11610,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0829",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880013_11a.jpg",
+    "url": "/photos/2025/000097880013_11a.jpg",
     "filename": "000097880013_11a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11624,7 +11624,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0830",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880016_14a.jpg",
+    "url": "/photos/2025/000097880016_14a.jpg",
     "filename": "000097880016_14a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11638,7 +11638,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0831",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_31a.jpg",
+    "url": "/photos/2025/4228_31a.jpg",
     "filename": "4228_31a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -11652,7 +11652,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0832",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_27.jpg",
+    "url": "/photos/2025/4292_27.jpg",
     "filename": "4292_27.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11666,7 +11666,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0833",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900008_6.jpg",
+    "url": "/photos/2025/000097900008_6.jpg",
     "filename": "000097900008_6.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11680,7 +11680,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0834",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880006_4a.jpg",
+    "url": "/photos/2025/000097880006_4a.jpg",
     "filename": "000097880006_4a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11694,7 +11694,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0835",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890016_14.jpg",
+    "url": "/photos/2025/000097890016_14.jpg",
     "filename": "000097890016_14.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11708,7 +11708,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0836",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900016_14.jpg",
+    "url": "/photos/2025/000097900016_14.jpg",
     "filename": "000097900016_14.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11722,7 +11722,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0837",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890013_11.jpg",
+    "url": "/photos/2025/000097890013_11.jpg",
     "filename": "000097890013_11.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11736,7 +11736,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0838",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530027_26.jpg",
+    "url": "/photos/2025/000041530027_26.jpg",
     "filename": "000041530027_26.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11750,7 +11750,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0839",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890019_17.jpg",
+    "url": "/photos/2025/000097890019_17.jpg",
     "filename": "000097890019_17.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11764,7 +11764,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0840",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890027_25.jpg",
+    "url": "/photos/2025/000097890027_25.jpg",
     "filename": "000097890027_25.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11778,7 +11778,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0841",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750024_24.jpg",
+    "url": "/photos/2025/000045750024_24.jpg",
     "filename": "000045750024_24.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11792,7 +11792,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0842",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860025_23.jpg",
+    "url": "/photos/2025/000097860025_23.jpg",
     "filename": "000097860025_23.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11806,7 +11806,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0843",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900027_26.jpg",
+    "url": "/photos/2025/000097900027_26.jpg",
     "filename": "000097900027_26.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11820,7 +11820,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0844",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750030_30.jpg",
+    "url": "/photos/2025/000045750030_30.jpg",
     "filename": "000045750030_30.jpg",
     "year": "2025",
     "location": "San Francisco Bay Area",
@@ -11834,7 +11834,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0845",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750007_7.jpg",
+    "url": "/photos/2025/000045750007_7.jpg",
     "filename": "000045750007_7.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11848,7 +11848,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0846",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_20a.jpg",
+    "url": "/photos/2025/4230_20a.jpg",
     "filename": "4230_20a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -11862,7 +11862,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0847",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910036_36a.jpg",
+    "url": "/photos/2025/000097910036_36a.jpg",
     "filename": "000097910036_36a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -11876,7 +11876,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0848",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180022_22.jpg",
+    "url": "/photos/2025/006084180022_22.jpg",
     "filename": "006084180022_22.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11890,7 +11890,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0849",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880029_27a.jpg",
+    "url": "/photos/2025/000097880029_27a.jpg",
     "filename": "000097880029_27a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11904,7 +11904,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0850",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900020_19.jpg",
+    "url": "/photos/2025/000097900020_19.jpg",
     "filename": "000097900020_19.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11918,7 +11918,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0851",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540022_25a.jpg",
+    "url": "/photos/2025/000041540022_25a.jpg",
     "filename": "000041540022_25a.jpg",
     "year": "2025",
     "location": "Miami",
@@ -11932,7 +11932,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0852",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880023_21a.jpg",
+    "url": "/photos/2025/000097880023_21a.jpg",
     "filename": "000097880023_21a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -11946,7 +11946,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0853",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_26a.jpg",
+    "url": "/photos/2025/4228_26a.jpg",
     "filename": "4228_26a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -11960,7 +11960,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0854",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750027_27.jpg",
+    "url": "/photos/2025/000045750027_27.jpg",
     "filename": "000045750027_27.jpg",
     "year": "2025",
     "location": "San Francisco Bay Area",
@@ -11974,7 +11974,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0855",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150035_33.jpg",
+    "url": "/photos/2025/000041150035_33.jpg",
     "filename": "000041150035_33.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -11988,7 +11988,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0856",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150013_11.jpg",
+    "url": "/photos/2025/000041150013_11.jpg",
     "filename": "000041150013_11.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12002,7 +12002,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0857",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890022_20.jpg",
+    "url": "/photos/2025/000097890022_20.jpg",
     "filename": "000097890022_20.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12016,7 +12016,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0858",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_00.jpg",
+    "url": "/photos/2025/4293_00.jpg",
     "filename": "4293_00.jpg",
     "year": "2025",
     "location": "Romania",
@@ -12030,7 +12030,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0859",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880028_26a.jpg",
+    "url": "/photos/2025/000097880028_26a.jpg",
     "filename": "000097880028_26a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12044,7 +12044,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0860",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870034_33.jpg",
+    "url": "/photos/2025/000097870034_33.jpg",
     "filename": "000097870034_33.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12058,7 +12058,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0861",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_14.jpg",
+    "url": "/photos/2025/4229_14.jpg",
     "filename": "4229_14.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -12072,7 +12072,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0862",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_30a.jpg",
+    "url": "/photos/2025/4228_30a.jpg",
     "filename": "4228_30a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -12086,7 +12086,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0863",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_19.jpg",
+    "url": "/photos/2025/4293_19.jpg",
     "filename": "4293_19.jpg",
     "year": "2025",
     "location": "Romania",
@@ -12100,7 +12100,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0864",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910024_24a.jpg",
+    "url": "/photos/2025/000097910024_24a.jpg",
     "filename": "000097910024_24a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -12114,7 +12114,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0865",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890023_21.jpg",
+    "url": "/photos/2025/000097890023_21.jpg",
     "filename": "000097890023_21.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12128,7 +12128,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0866",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900032_31.jpg",
+    "url": "/photos/2025/000097900032_31.jpg",
     "filename": "000097900032_31.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12142,7 +12142,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0867",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890035_33.jpg",
+    "url": "/photos/2025/000097890035_33.jpg",
     "filename": "000097890035_33.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12156,7 +12156,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0868",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_06a.jpg",
+    "url": "/photos/2025/4228_06a.jpg",
     "filename": "4228_06a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -12170,7 +12170,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0869",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_05.jpg",
+    "url": "/photos/2025/4231_05.jpg",
     "filename": "4231_05.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -12184,7 +12184,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0870",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260021_19.jpg",
+    "url": "/photos/2025/000069260021_19.jpg",
     "filename": "000069260021_19.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12198,7 +12198,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0871",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900012_10.jpg",
+    "url": "/photos/2025/000097900012_10.jpg",
     "filename": "000097900012_10.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12212,7 +12212,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0872",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260038_36.jpg",
+    "url": "/photos/2025/000069260038_36.jpg",
     "filename": "000069260038_36.jpg",
     "year": "2025",
     "location": "Orcas Island",
@@ -12226,7 +12226,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0873",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870021_20.jpg",
+    "url": "/photos/2025/000097870021_20.jpg",
     "filename": "000097870021_20.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12240,7 +12240,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0874",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150011_9.jpg",
+    "url": "/photos/2025/000041150011_9.jpg",
     "filename": "000041150011_9.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12254,7 +12254,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0875",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530030_29.jpg",
+    "url": "/photos/2025/000041530030_29.jpg",
     "filename": "000041530030_29.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12268,7 +12268,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0876",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860033_31.jpg",
+    "url": "/photos/2025/000097860033_31.jpg",
     "filename": "000097860033_31.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12282,7 +12282,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0877",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_25a.jpg",
+    "url": "/photos/2025/4230_25a.jpg",
     "filename": "4230_25a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -12296,7 +12296,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0878",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870026_25.jpg",
+    "url": "/photos/2025/000097870026_25.jpg",
     "filename": "000097870026_25.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12310,7 +12310,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0879",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870013_12.jpg",
+    "url": "/photos/2025/000097870013_12.jpg",
     "filename": "000097870013_12.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12324,7 +12324,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0880",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900036_35.jpg",
+    "url": "/photos/2025/000097900036_35.jpg",
     "filename": "000097900036_35.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12338,7 +12338,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0881",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150024_22.jpg",
+    "url": "/photos/2025/000041150024_22.jpg",
     "filename": "000041150024_22.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12352,7 +12352,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0882",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860013_11.jpg",
+    "url": "/photos/2025/000097860013_11.jpg",
     "filename": "000097860013_11.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12366,7 +12366,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0883",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260031_29.jpg",
+    "url": "/photos/2025/000069260031_29.jpg",
     "filename": "000069260031_29.jpg",
     "year": "2025",
     "location": "Seattle",
@@ -12380,7 +12380,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0884",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_13.jpg",
+    "url": "/photos/2025/4231_13.jpg",
     "filename": "4231_13.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -12394,7 +12394,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0885",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_04.jpg",
+    "url": "/photos/2025/4231_04.jpg",
     "filename": "4231_04.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -12408,7 +12408,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0886",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750014_14.jpg",
+    "url": "/photos/2025/000045750014_14.jpg",
     "filename": "000045750014_14.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12422,7 +12422,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0887",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860003_1.jpg",
+    "url": "/photos/2025/000097860003_1.jpg",
     "filename": "000097860003_1.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12436,7 +12436,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0888",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_17.jpg",
+    "url": "/photos/2025/4292_17.jpg",
     "filename": "4292_17.jpg",
     "year": "2025",
     "location": "Scottsdale",
@@ -12450,7 +12450,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0889",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750011_11.jpg",
+    "url": "/photos/2025/000045750011_11.jpg",
     "filename": "000045750011_11.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12464,7 +12464,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0890",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260035_33.jpg",
+    "url": "/photos/2025/000069260035_33.jpg",
     "filename": "000069260035_33.jpg",
     "year": "2025",
     "location": "Orcas Island",
@@ -12478,7 +12478,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0891",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910028_28a.jpg",
+    "url": "/photos/2025/000097910028_28a.jpg",
     "filename": "000097910028_28a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -12492,7 +12492,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0892",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150019_17.jpg",
+    "url": "/photos/2025/000041150019_17.jpg",
     "filename": "000041150019_17.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12506,7 +12506,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0893",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890014_12.jpg",
+    "url": "/photos/2025/000097890014_12.jpg",
     "filename": "000097890014_12.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12520,7 +12520,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0894",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_24a.jpg",
+    "url": "/photos/2025/4228_24a.jpg",
     "filename": "4228_24a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -12534,7 +12534,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0895",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910001_1a.jpg",
+    "url": "/photos/2025/000097910001_1a.jpg",
     "filename": "000097910001_1a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -12548,7 +12548,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0896",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870019_18.jpg",
+    "url": "/photos/2025/000097870019_18.jpg",
     "filename": "000097870019_18.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12562,7 +12562,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0897",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890032_30.jpg",
+    "url": "/photos/2025/000097890032_30.jpg",
     "filename": "000097890032_30.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12576,7 +12576,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0898",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260018_16.jpg",
+    "url": "/photos/2025/000069260018_16.jpg",
     "filename": "000069260018_16.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12590,7 +12590,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0899",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_00a.jpg",
+    "url": "/photos/2025/4230_00a.jpg",
     "filename": "4230_00a.jpg",
     "year": "2025",
     "location": "Budapest",
@@ -12604,7 +12604,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0900",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_10a.jpg",
+    "url": "/photos/2025/4228_10a.jpg",
     "filename": "4228_10a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -12618,7 +12618,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0901",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880011_9a.jpg",
+    "url": "/photos/2025/000097880011_9a.jpg",
     "filename": "000097880011_9a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12632,7 +12632,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0902",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260007_5.jpg",
+    "url": "/photos/2025/000069260007_5.jpg",
     "filename": "000069260007_5.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12646,7 +12646,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0903",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_11.jpg",
+    "url": "/photos/2025/4229_11.jpg",
     "filename": "4229_11.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -12660,7 +12660,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0904",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530016_15.jpg",
+    "url": "/photos/2025/000041530016_15.jpg",
     "filename": "000041530016_15.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12674,7 +12674,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0905",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610029_26.jpg",
+    "url": "/photos/2025/000045610029_26.jpg",
     "filename": "000045610029_26.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -12688,7 +12688,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0906",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860010_8.jpg",
+    "url": "/photos/2025/000097860010_8.jpg",
     "filename": "000097860010_8.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12702,7 +12702,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0907",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150007_5.jpg",
+    "url": "/photos/2025/000041150007_5.jpg",
     "filename": "000041150007_5.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12716,7 +12716,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0908",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260033_31.jpg",
+    "url": "/photos/2025/000069260033_31.jpg",
     "filename": "000069260033_31.jpg",
     "year": "2025",
     "location": "Seattle",
@@ -12730,7 +12730,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0909",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_12.jpg",
+    "url": "/photos/2025/4231_12.jpg",
     "filename": "4231_12.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -12744,7 +12744,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0910",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870020_19.jpg",
+    "url": "/photos/2025/000097870020_19.jpg",
     "filename": "000097870020_19.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12758,7 +12758,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0911",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540027_30a.jpg",
+    "url": "/photos/2025/000041540027_30a.jpg",
     "filename": "000041540027_30a.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12772,7 +12772,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0912",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150029_27.jpg",
+    "url": "/photos/2025/000041150029_27.jpg",
     "filename": "000041150029_27.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12786,7 +12786,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0913",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540005_7a.jpg",
+    "url": "/photos/2025/000041540005_7a.jpg",
     "filename": "000041540005_7a.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -12800,7 +12800,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0914",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_03a.jpg",
+    "url": "/photos/2025/4230_03a.jpg",
     "filename": "4230_03a.jpg",
     "year": "2025",
     "location": "Budapest",
@@ -12814,7 +12814,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0915",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000090700011_25a.jpg",
+    "url": "/photos/2025/000090700011_25a.jpg",
     "filename": "000090700011_25a.jpg",
     "year": "2025",
     "location": "",
@@ -12828,7 +12828,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0916",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150032_30.jpg",
+    "url": "/photos/2025/000041150032_30.jpg",
     "filename": "000041150032_30.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12842,7 +12842,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0917",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860032_30.jpg",
+    "url": "/photos/2025/000097860032_30.jpg",
     "filename": "000097860032_30.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12856,7 +12856,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0918",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_34a.jpg",
+    "url": "/photos/2025/4230_34a.jpg",
     "filename": "4230_34a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -12870,7 +12870,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0919",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150020_18.jpg",
+    "url": "/photos/2025/000041150020_18.jpg",
     "filename": "000041150020_18.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12884,7 +12884,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0920",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_09a.jpg",
+    "url": "/photos/2025/4232_09a.jpg",
     "filename": "4232_09a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -12898,7 +12898,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0921",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860015_13.jpg",
+    "url": "/photos/2025/000097860015_13.jpg",
     "filename": "000097860015_13.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -12912,7 +12912,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0922",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910013_13a.jpg",
+    "url": "/photos/2025/000097910013_13a.jpg",
     "filename": "000097910013_13a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -12926,7 +12926,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0923",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_15.jpg",
+    "url": "/photos/2025/4292_15.jpg",
     "filename": "4292_15.jpg",
     "year": "2025",
     "location": "Scottsdale",
@@ -12940,7 +12940,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0924",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_17a.jpg",
+    "url": "/photos/2025/4232_17a.jpg",
     "filename": "4232_17a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -12954,7 +12954,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0925",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_07a.jpg",
+    "url": "/photos/2025/4227_07a.jpg",
     "filename": "4227_07a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -12968,7 +12968,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0926",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_20.jpg",
+    "url": "/photos/2025/4292_20.jpg",
     "filename": "4292_20.jpg",
     "year": "2025",
     "location": "Scottsdale",
@@ -12982,7 +12982,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0927",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530026_25.jpg",
+    "url": "/photos/2025/000041530026_25.jpg",
     "filename": "000041530026_25.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -12996,7 +12996,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0928",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_19.jpg",
+    "url": "/photos/2025/4229_19.jpg",
     "filename": "4229_19.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -13010,7 +13010,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0929",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890015_13.jpg",
+    "url": "/photos/2025/000097890015_13.jpg",
     "filename": "000097890015_13.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13024,7 +13024,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0930",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_26.jpg",
+    "url": "/photos/2025/4229_26.jpg",
     "filename": "4229_26.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -13038,7 +13038,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0931",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180024_24.jpg",
+    "url": "/photos/2025/006084180024_24.jpg",
     "filename": "006084180024_24.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13052,7 +13052,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0932",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890002_0.jpg",
+    "url": "/photos/2025/000097890002_0.jpg",
     "filename": "000097890002_0.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13066,7 +13066,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0933",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260020_18.jpg",
+    "url": "/photos/2025/000069260020_18.jpg",
     "filename": "000069260020_18.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13080,7 +13080,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0934",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890030_28.jpg",
+    "url": "/photos/2025/000097890030_28.jpg",
     "filename": "000097890030_28.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13094,7 +13094,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0935",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870015_14.jpg",
+    "url": "/photos/2025/000097870015_14.jpg",
     "filename": "000097870015_14.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13108,7 +13108,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0936",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610037_34.jpg",
+    "url": "/photos/2025/000045610037_34.jpg",
     "filename": "000045610037_34.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -13122,7 +13122,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0937",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890010_8.jpg",
+    "url": "/photos/2025/000097890010_8.jpg",
     "filename": "000097890010_8.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13136,7 +13136,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0938",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750008_8.jpg",
+    "url": "/photos/2025/000045750008_8.jpg",
     "filename": "000045750008_8.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13150,7 +13150,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0939",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_17a.jpg",
+    "url": "/photos/2025/4228_17a.jpg",
     "filename": "4228_17a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -13164,7 +13164,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0940",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900034_33.jpg",
+    "url": "/photos/2025/000097900034_33.jpg",
     "filename": "000097900034_33.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13178,7 +13178,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0941",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_05.jpg",
+    "url": "/photos/2025/4292_05.jpg",
     "filename": "4292_05.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13192,7 +13192,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0942",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_06a.jpg",
+    "url": "/photos/2025/4227_06a.jpg",
     "filename": "4227_06a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -13206,7 +13206,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0943",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_37.jpg",
+    "url": "/photos/2025/4293_37.jpg",
     "filename": "4293_37.jpg",
     "year": "2025",
     "location": "Romania",
@@ -13220,7 +13220,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0944",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880037_35a.jpg",
+    "url": "/photos/2025/000097880037_35a.jpg",
     "filename": "000097880037_35a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13234,7 +13234,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0945",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150003_1.jpg",
+    "url": "/photos/2025/000041150003_1.jpg",
     "filename": "000041150003_1.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13248,7 +13248,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0946",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_22.jpg",
+    "url": "/photos/2025/4292_22.jpg",
     "filename": "4292_22.jpg",
     "year": "2025",
     "location": "Scottsdale",
@@ -13262,7 +13262,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0947",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_11.jpg",
+    "url": "/photos/2025/4293_11.jpg",
     "filename": "4293_11.jpg",
     "year": "2025",
     "location": "Romania",
@@ -13276,7 +13276,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0948",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610027_24.jpg",
+    "url": "/photos/2025/000045610027_24.jpg",
     "filename": "000045610027_24.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -13290,7 +13290,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0949",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910026_26a.jpg",
+    "url": "/photos/2025/000097910026_26a.jpg",
     "filename": "000097910026_26a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -13304,7 +13304,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0950",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870024_23.jpg",
+    "url": "/photos/2025/000097870024_23.jpg",
     "filename": "000097870024_23.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13318,7 +13318,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0951",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_22a.jpg",
+    "url": "/photos/2025/4230_22a.jpg",
     "filename": "4230_22a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -13332,7 +13332,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0952",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_12.jpg",
+    "url": "/photos/2025/4229_12.jpg",
     "filename": "4229_12.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -13346,7 +13346,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0953",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150031_29.jpg",
+    "url": "/photos/2025/000041150031_29.jpg",
     "filename": "000041150031_29.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13360,7 +13360,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0954",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000090700007_18a.jpg",
+    "url": "/photos/2025/000090700007_18a.jpg",
     "filename": "000090700007_18a.jpg",
     "year": "2025",
     "location": "Philadelphia",
@@ -13374,7 +13374,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0955",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260002_0.jpg",
+    "url": "/photos/2025/000069260002_0.jpg",
     "filename": "000069260002_0.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13388,7 +13388,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0956",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260003_1.jpg",
+    "url": "/photos/2025/000069260003_1.jpg",
     "filename": "000069260003_1.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13402,7 +13402,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0957",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530029_28.jpg",
+    "url": "/photos/2025/000041530029_28.jpg",
     "filename": "000041530029_28.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13416,7 +13416,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0958",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880032_30a.jpg",
+    "url": "/photos/2025/000097880032_30a.jpg",
     "filename": "000097880032_30a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13430,7 +13430,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0959",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150006_4.jpg",
+    "url": "/photos/2025/000041150006_4.jpg",
     "filename": "000041150006_4.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13444,7 +13444,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0960",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_22.jpg",
+    "url": "/photos/2025/4229_22.jpg",
     "filename": "4229_22.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -13458,7 +13458,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0961",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_10a.jpg",
+    "url": "/photos/2025/4227_10a.jpg",
     "filename": "4227_10a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -13472,7 +13472,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0962",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260010_8.jpg",
+    "url": "/photos/2025/000069260010_8.jpg",
     "filename": "000069260010_8.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13486,7 +13486,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0963",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750012_12.jpg",
+    "url": "/photos/2025/000045750012_12.jpg",
     "filename": "000045750012_12.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13500,7 +13500,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0964",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_10a.jpg",
+    "url": "/photos/2025/4230_10a.jpg",
     "filename": "4230_10a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -13514,7 +13514,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0965",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880022_20a.jpg",
+    "url": "/photos/2025/000097880022_20a.jpg",
     "filename": "000097880022_20a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13528,7 +13528,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0966",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870007_6.jpg",
+    "url": "/photos/2025/000097870007_6.jpg",
     "filename": "000097870007_6.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13542,7 +13542,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0967",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530006_5.jpg",
+    "url": "/photos/2025/000041530006_5.jpg",
     "filename": "000041530006_5.jpg",
     "year": "2025",
     "location": "",
@@ -13556,7 +13556,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0968",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910007_7a.jpg",
+    "url": "/photos/2025/000097910007_7a.jpg",
     "filename": "000097910007_7a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -13570,7 +13570,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0969",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_16a.jpg",
+    "url": "/photos/2025/4230_16a.jpg",
     "filename": "4230_16a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -13584,7 +13584,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0970",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860034_32.jpg",
+    "url": "/photos/2025/000097860034_32.jpg",
     "filename": "000097860034_32.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13598,7 +13598,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0971",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_30.jpg",
+    "url": "/photos/2025/4229_30.jpg",
     "filename": "4229_30.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -13612,7 +13612,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0972",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890038_36.jpg",
+    "url": "/photos/2025/000097890038_36.jpg",
     "filename": "000097890038_36.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13626,7 +13626,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0973",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890036_34.jpg",
+    "url": "/photos/2025/000097890036_34.jpg",
     "filename": "000097890036_34.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13640,7 +13640,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0974",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880036_34a.jpg",
+    "url": "/photos/2025/000097880036_34a.jpg",
     "filename": "000097880036_34a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13654,7 +13654,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0975",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_28.jpg",
+    "url": "/photos/2025/4292_28.jpg",
     "filename": "4292_28.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13668,7 +13668,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0976",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_14.jpg",
+    "url": "/photos/2025/4293_14.jpg",
     "filename": "4293_14.jpg",
     "year": "2025",
     "location": "Romania",
@@ -13682,7 +13682,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0977",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860037_35.jpg",
+    "url": "/photos/2025/000097860037_35.jpg",
     "filename": "000097860037_35.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13696,7 +13696,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0978",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_02.jpg",
+    "url": "/photos/2025/4229_02.jpg",
     "filename": "4229_02.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -13710,7 +13710,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0979",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_20.jpg",
+    "url": "/photos/2025/4293_20.jpg",
     "filename": "4293_20.jpg",
     "year": "2025",
     "location": "Romania",
@@ -13724,7 +13724,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0980",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260006_4.jpg",
+    "url": "/photos/2025/000069260006_4.jpg",
     "filename": "000069260006_4.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13738,7 +13738,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0981",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_03.jpg",
+    "url": "/photos/2025/4229_03.jpg",
     "filename": "4229_03.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -13752,7 +13752,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0982",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150009_7.jpg",
+    "url": "/photos/2025/000041150009_7.jpg",
     "filename": "000041150009_7.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13766,7 +13766,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0983",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_34.jpg",
+    "url": "/photos/2025/4229_34.jpg",
     "filename": "4229_34.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -13780,7 +13780,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0984",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750020_20.jpg",
+    "url": "/photos/2025/000045750020_20.jpg",
     "filename": "000045750020_20.jpg",
     "year": "2025",
     "location": "Napa",
@@ -13794,7 +13794,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0985",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_08a.jpg",
+    "url": "/photos/2025/4228_08a.jpg",
     "filename": "4228_08a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -13808,7 +13808,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0986",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890021_19.jpg",
+    "url": "/photos/2025/000097890021_19.jpg",
     "filename": "000097890021_19.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13822,7 +13822,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0987",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900019_18.jpg",
+    "url": "/photos/2025/000097900019_18.jpg",
     "filename": "000097900019_18.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13836,7 +13836,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0988",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870001_0.jpg",
+    "url": "/photos/2025/000097870001_0.jpg",
     "filename": "000097870001_0.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13850,7 +13850,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0989",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540003_5a.jpg",
+    "url": "/photos/2025/000041540003_5a.jpg",
     "filename": "000041540003_5a.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -13864,7 +13864,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0990",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_13.jpg",
+    "url": "/photos/2025/4292_13.jpg",
     "filename": "4292_13.jpg",
     "year": "2025",
     "location": "New York",
@@ -13878,7 +13878,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0991",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530023_22.jpg",
+    "url": "/photos/2025/000041530023_22.jpg",
     "filename": "000041530023_22.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13892,7 +13892,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0992",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_04a.jpg",
+    "url": "/photos/2025/4232_04a.jpg",
     "filename": "4232_04a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -13906,7 +13906,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0993",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_05a.jpg",
+    "url": "/photos/2025/4232_05a.jpg",
     "filename": "4232_05a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -13920,7 +13920,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0994",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_18.jpg",
+    "url": "/photos/2025/4292_18.jpg",
     "filename": "4292_18.jpg",
     "year": "2025",
     "location": "Scottsdale",
@@ -13934,7 +13934,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0995",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900005_3.jpg",
+    "url": "/photos/2025/000097900005_3.jpg",
     "filename": "000097900005_3.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13948,7 +13948,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0996",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180010_10.jpg",
+    "url": "/photos/2025/006084180010_10.jpg",
     "filename": "006084180010_10.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -13962,7 +13962,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0997",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750013_13.jpg",
+    "url": "/photos/2025/000045750013_13.jpg",
     "filename": "000045750013_13.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13976,7 +13976,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0998",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860039_e.jpg",
+    "url": "/photos/2025/000097860039_e.jpg",
     "filename": "000097860039_e.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -13990,7 +13990,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_0999",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150027_25.jpg",
+    "url": "/photos/2025/000041150027_25.jpg",
     "filename": "000041150027_25.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -14004,7 +14004,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1000",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180008_8.jpg",
+    "url": "/photos/2025/006084180008_8.jpg",
     "filename": "006084180008_8.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -14018,7 +14018,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1001",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_37.jpg",
+    "url": "/photos/2025/4229_37.jpg",
     "filename": "4229_37.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -14032,7 +14032,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1002",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860005_3.jpg",
+    "url": "/photos/2025/000097860005_3.jpg",
     "filename": "000097860005_3.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14046,7 +14046,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1003",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_14a.jpg",
+    "url": "/photos/2025/4227_14a.jpg",
     "filename": "4227_14a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -14060,7 +14060,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1004",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150038_35a.jpg",
+    "url": "/photos/2025/000041150038_35a.jpg",
     "filename": "000041150038_35a.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -14074,7 +14074,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1005",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880033_31a.jpg",
+    "url": "/photos/2025/000097880033_31a.jpg",
     "filename": "000097880033_31a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14088,7 +14088,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1006",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_30a.jpg",
+    "url": "/photos/2025/4230_30a.jpg",
     "filename": "4230_30a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -14102,7 +14102,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1007",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_02a.jpg",
+    "url": "/photos/2025/4232_02a.jpg",
     "filename": "4232_02a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -14116,7 +14116,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1008",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_36a.jpg",
+    "url": "/photos/2025/4228_36a.jpg",
     "filename": "4228_36a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -14130,7 +14130,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1009",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_28.jpg",
+    "url": "/photos/2025/4293_28.jpg",
     "filename": "4293_28.jpg",
     "year": "2025",
     "location": "Romania",
@@ -14144,7 +14144,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1010",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_07.jpg",
+    "url": "/photos/2025/4231_07.jpg",
     "filename": "4231_07.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -14158,7 +14158,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1011",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750001_1.jpg",
+    "url": "/photos/2025/000045750001_1.jpg",
     "filename": "000045750001_1.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14172,7 +14172,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1012",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260027_25.jpg",
+    "url": "/photos/2025/000069260027_25.jpg",
     "filename": "000069260027_25.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -14186,7 +14186,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1013",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890011_9.jpg",
+    "url": "/photos/2025/000097890011_9.jpg",
     "filename": "000097890011_9.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -14200,7 +14200,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1014",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880026_24a.jpg",
+    "url": "/photos/2025/000097880026_24a.jpg",
     "filename": "000097880026_24a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14214,7 +14214,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1015",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870004_3.jpg",
+    "url": "/photos/2025/000097870004_3.jpg",
     "filename": "000097870004_3.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14228,7 +14228,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1016",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750021_21.jpg",
+    "url": "/photos/2025/000045750021_21.jpg",
     "filename": "000045750021_21.jpg",
     "year": "2025",
     "location": "Napa",
@@ -14242,7 +14242,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1017",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610023_20.jpg",
+    "url": "/photos/2025/000045610023_20.jpg",
     "filename": "000045610023_20.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -14256,7 +14256,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1018",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_06.jpg",
+    "url": "/photos/2025/4293_06.jpg",
     "filename": "4293_06.jpg",
     "year": "2025",
     "location": "Romania",
@@ -14270,7 +14270,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1019",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_30.jpg",
+    "url": "/photos/2025/4293_30.jpg",
     "filename": "4293_30.jpg",
     "year": "2025",
     "location": "Romania",
@@ -14284,7 +14284,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1020",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750032_32.jpg",
+    "url": "/photos/2025/000045750032_32.jpg",
     "filename": "000045750032_32.jpg",
     "year": "2025",
     "location": "San Francisco Bay Area",
@@ -14298,7 +14298,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1021",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540024_27a.jpg",
+    "url": "/photos/2025/000041540024_27a.jpg",
     "filename": "000041540024_27a.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -14312,7 +14312,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1022",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750036_36.jpg",
+    "url": "/photos/2025/000045750036_36.jpg",
     "filename": "000045750036_36.jpg",
     "year": "2025",
     "location": "Philadelphia",
@@ -14326,7 +14326,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1023",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890008_6.jpg",
+    "url": "/photos/2025/000097890008_6.jpg",
     "filename": "000097890008_6.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -14340,7 +14340,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1024",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_02a.jpg",
+    "url": "/photos/2025/4230_02a.jpg",
     "filename": "4230_02a.jpg",
     "year": "2025",
     "location": "Budapest",
@@ -14354,7 +14354,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1025",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_01.jpg",
+    "url": "/photos/2025/4293_01.jpg",
     "filename": "4293_01.jpg",
     "year": "2025",
     "location": "Romania",
@@ -14368,7 +14368,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1026",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900002_0.jpg",
+    "url": "/photos/2025/000097900002_0.jpg",
     "filename": "000097900002_0.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14382,7 +14382,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1027",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860027_25.jpg",
+    "url": "/photos/2025/000097860027_25.jpg",
     "filename": "000097860027_25.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14396,7 +14396,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1028",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870010_9.jpg",
+    "url": "/photos/2025/000097870010_9.jpg",
     "filename": "000097870010_9.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14410,7 +14410,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1029",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180004_4.jpg",
+    "url": "/photos/2025/006084180004_4.jpg",
     "filename": "006084180004_4.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -14424,7 +14424,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1030",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910022_22a.jpg",
+    "url": "/photos/2025/000097910022_22a.jpg",
     "filename": "000097910022_22a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -14438,7 +14438,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1031",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870037_36.jpg",
+    "url": "/photos/2025/000097870037_36.jpg",
     "filename": "000097870037_36.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14452,7 +14452,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1032",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900022_21.jpg",
+    "url": "/photos/2025/000097900022_21.jpg",
     "filename": "000097900022_21.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14466,7 +14466,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1033",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_17a.jpg",
+    "url": "/photos/2025/4230_17a.jpg",
     "filename": "4230_17a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -14480,7 +14480,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1034",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910032_32a.jpg",
+    "url": "/photos/2025/000097910032_32a.jpg",
     "filename": "000097910032_32a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -14494,7 +14494,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1035",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750031_31.jpg",
+    "url": "/photos/2025/000045750031_31.jpg",
     "filename": "000045750031_31.jpg",
     "year": "2025",
     "location": "San Francisco Bay Area",
@@ -14508,7 +14508,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1036",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_24a.jpg",
+    "url": "/photos/2025/4230_24a.jpg",
     "filename": "4230_24a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -14522,7 +14522,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1037",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900013_11.jpg",
+    "url": "/photos/2025/000097900013_11.jpg",
     "filename": "000097900013_11.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14536,7 +14536,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1038",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870033_32.jpg",
+    "url": "/photos/2025/000097870033_32.jpg",
     "filename": "000097870033_32.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14550,7 +14550,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1039",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150039_36a.jpg",
+    "url": "/photos/2025/000041150039_36a.jpg",
     "filename": "000041150039_36a.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -14564,7 +14564,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1040",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910033_33a.jpg",
+    "url": "/photos/2025/000097910033_33a.jpg",
     "filename": "000097910033_33a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -14578,7 +14578,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1041",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_07.jpg",
+    "url": "/photos/2025/4229_07.jpg",
     "filename": "4229_07.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -14592,7 +14592,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1042",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900033_32.jpg",
+    "url": "/photos/2025/000097900033_32.jpg",
     "filename": "000097900033_32.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14606,7 +14606,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1043",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890026_24.jpg",
+    "url": "/photos/2025/000097890026_24.jpg",
     "filename": "000097890026_24.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -14620,7 +14620,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1044",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610036_33.jpg",
+    "url": "/photos/2025/000045610036_33.jpg",
     "filename": "000045610036_33.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -14634,7 +14634,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1045",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880007_5a.jpg",
+    "url": "/photos/2025/000097880007_5a.jpg",
     "filename": "000097880007_5a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14648,7 +14648,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1046",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180018_18.jpg",
+    "url": "/photos/2025/006084180018_18.jpg",
     "filename": "006084180018_18.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -14662,7 +14662,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1047",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910023_23a.jpg",
+    "url": "/photos/2025/000097910023_23a.jpg",
     "filename": "000097910023_23a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -14676,7 +14676,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1048",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_18.jpg",
+    "url": "/photos/2025/4293_18.jpg",
     "filename": "4293_18.jpg",
     "year": "2025",
     "location": "Romania",
@@ -14690,7 +14690,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1049",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_02.jpg",
+    "url": "/photos/2025/4293_02.jpg",
     "filename": "4293_02.jpg",
     "year": "2025",
     "location": "Romania",
@@ -14704,7 +14704,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1050",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_06a.jpg",
+    "url": "/photos/2025/4232_06a.jpg",
     "filename": "4232_06a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -14718,7 +14718,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1051",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150021_19.jpg",
+    "url": "/photos/2025/000041150021_19.jpg",
     "filename": "000041150021_19.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -14732,7 +14732,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1052",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900003_1.jpg",
+    "url": "/photos/2025/000097900003_1.jpg",
     "filename": "000097900003_1.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14746,7 +14746,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1053",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880012_10a.jpg",
+    "url": "/photos/2025/000097880012_10a.jpg",
     "filename": "000097880012_10a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14760,7 +14760,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1054",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910002_2a.jpg",
+    "url": "/photos/2025/000097910002_2a.jpg",
     "filename": "000097910002_2a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -14774,7 +14774,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1055",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860017_15.jpg",
+    "url": "/photos/2025/000097860017_15.jpg",
     "filename": "000097860017_15.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14788,7 +14788,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1056",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_19a.jpg",
+    "url": "/photos/2025/4230_19a.jpg",
     "filename": "4230_19a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -14802,7 +14802,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1057",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900037_36.jpg",
+    "url": "/photos/2025/000097900037_36.jpg",
     "filename": "000097900037_36.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14816,7 +14816,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1058",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910034_34a.jpg",
+    "url": "/photos/2025/000097910034_34a.jpg",
     "filename": "000097910034_34a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -14830,7 +14830,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1059",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900028_27.jpg",
+    "url": "/photos/2025/000097900028_27.jpg",
     "filename": "000097900028_27.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14844,7 +14844,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1060",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860026_24.jpg",
+    "url": "/photos/2025/000097860026_24.jpg",
     "filename": "000097860026_24.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14858,7 +14858,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1061",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860018_16.jpg",
+    "url": "/photos/2025/000097860018_16.jpg",
     "filename": "000097860018_16.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14872,7 +14872,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1062",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_09.jpg",
+    "url": "/photos/2025/4231_09.jpg",
     "filename": "4231_09.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -14886,7 +14886,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1063",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_08.jpg",
+    "url": "/photos/2025/4231_08.jpg",
     "filename": "4231_08.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -14900,7 +14900,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1064",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540017_20a.jpg",
+    "url": "/photos/2025/000041540017_20a.jpg",
     "filename": "000041540017_20a.jpg",
     "year": "2025",
     "location": "Miami",
@@ -14914,7 +14914,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1065",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870016_15.jpg",
+    "url": "/photos/2025/000097870016_15.jpg",
     "filename": "000097870016_15.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14928,7 +14928,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1066",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_04a.jpg",
+    "url": "/photos/2025/4228_04a.jpg",
     "filename": "4228_04a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -14942,7 +14942,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1067",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540034_37a.jpg",
+    "url": "/photos/2025/000041540034_37a.jpg",
     "filename": "000041540034_37a.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -14956,7 +14956,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1068",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_10.jpg",
+    "url": "/photos/2025/4229_10.jpg",
     "filename": "4229_10.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -14970,7 +14970,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1069",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890037_35.jpg",
+    "url": "/photos/2025/000097890037_35.jpg",
     "filename": "000097890037_35.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14984,7 +14984,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1070",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890031_29.jpg",
+    "url": "/photos/2025/000097890031_29.jpg",
     "filename": "000097890031_29.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -14998,7 +14998,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1071",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860030_28.jpg",
+    "url": "/photos/2025/000097860030_28.jpg",
     "filename": "000097860030_28.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15012,7 +15012,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1072",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_11a.jpg",
+    "url": "/photos/2025/4227_11a.jpg",
     "filename": "4227_11a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -15026,7 +15026,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1073",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910015_15a.jpg",
+    "url": "/photos/2025/000097910015_15a.jpg",
     "filename": "000097910015_15a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -15040,7 +15040,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1074",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_21.jpg",
+    "url": "/photos/2025/4229_21.jpg",
     "filename": "4229_21.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -15054,7 +15054,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1075",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_02a.jpg",
+    "url": "/photos/2025/4228_02a.jpg",
     "filename": "4228_02a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -15068,7 +15068,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1076",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900001_00.jpg",
+    "url": "/photos/2025/000097900001_00.jpg",
     "filename": "000097900001_00.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15082,7 +15082,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1077",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870023_22.jpg",
+    "url": "/photos/2025/000097870023_22.jpg",
     "filename": "000097870023_22.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15096,7 +15096,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1078",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_27.jpg",
+    "url": "/photos/2025/4293_27.jpg",
     "filename": "4293_27.jpg",
     "year": "2025",
     "location": "Romania",
@@ -15110,7 +15110,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1079",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880021_19a.jpg",
+    "url": "/photos/2025/000097880021_19a.jpg",
     "filename": "000097880021_19a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15124,7 +15124,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1080",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540033_36a.jpg",
+    "url": "/photos/2025/000041540033_36a.jpg",
     "filename": "000041540033_36a.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -15138,7 +15138,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1081",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_03.jpg",
+    "url": "/photos/2025/4292_03.jpg",
     "filename": "4292_03.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -15152,7 +15152,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1082",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260015_13.jpg",
+    "url": "/photos/2025/000069260015_13.jpg",
     "filename": "000069260015_13.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -15166,7 +15166,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1083",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860008_6.jpg",
+    "url": "/photos/2025/000097860008_6.jpg",
     "filename": "000097860008_6.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15180,7 +15180,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1084",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900017_15.jpg",
+    "url": "/photos/2025/000097900017_15.jpg",
     "filename": "000097900017_15.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15194,7 +15194,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1085",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900004_2.jpg",
+    "url": "/photos/2025/000097900004_2.jpg",
     "filename": "000097900004_2.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15208,7 +15208,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1086",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900030_29.jpg",
+    "url": "/photos/2025/000097900030_29.jpg",
     "filename": "000097900030_29.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15222,7 +15222,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1087",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910030_30a.jpg",
+    "url": "/photos/2025/000097910030_30a.jpg",
     "filename": "000097910030_30a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -15236,7 +15236,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1088",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260008_6.jpg",
+    "url": "/photos/2025/000069260008_6.jpg",
     "filename": "000069260008_6.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -15250,7 +15250,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1089",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_05.jpg",
+    "url": "/photos/2025/4293_05.jpg",
     "filename": "4293_05.jpg",
     "year": "2025",
     "location": "Romania",
@@ -15264,7 +15264,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1090",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900011_9.jpg",
+    "url": "/photos/2025/000097900011_9.jpg",
     "filename": "000097900011_9.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15278,7 +15278,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1091",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260019_17.jpg",
+    "url": "/photos/2025/000069260019_17.jpg",
     "filename": "000069260019_17.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -15292,7 +15292,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1092",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150008_6.jpg",
+    "url": "/photos/2025/000041150008_6.jpg",
     "filename": "000041150008_6.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -15306,7 +15306,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1093",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_01.jpg",
+    "url": "/photos/2025/4229_01.jpg",
     "filename": "4229_01.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -15320,7 +15320,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1094",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180001_1.jpg",
+    "url": "/photos/2025/006084180001_1.jpg",
     "filename": "006084180001_1.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -15334,7 +15334,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1095",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890039_36a.jpg",
+    "url": "/photos/2025/000097890039_36a.jpg",
     "filename": "000097890039_36a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15348,7 +15348,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1096",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860016_14.jpg",
+    "url": "/photos/2025/000097860016_14.jpg",
     "filename": "000097860016_14.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15362,7 +15362,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1097",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540012_14a.jpg",
+    "url": "/photos/2025/000041540012_14a.jpg",
     "filename": "000041540012_14a.jpg",
     "year": "2025",
     "location": "Miami",
@@ -15376,7 +15376,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1098",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180016_16.jpg",
+    "url": "/photos/2025/006084180016_16.jpg",
     "filename": "006084180016_16.jpg",
     "year": "2025",
     "location": "San Francisco Bay Area",
@@ -15390,7 +15390,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1099",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900007_5.jpg",
+    "url": "/photos/2025/000097900007_5.jpg",
     "filename": "000097900007_5.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15404,7 +15404,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1100",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890017_15.jpg",
+    "url": "/photos/2025/000097890017_15.jpg",
     "filename": "000097890017_15.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -15418,7 +15418,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1101",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150010_8.jpg",
+    "url": "/photos/2025/000041150010_8.jpg",
     "filename": "000041150010_8.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -15432,7 +15432,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1102",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_10a.jpg",
+    "url": "/photos/2025/4232_10a.jpg",
     "filename": "4232_10a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -15446,7 +15446,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1103",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880004_2a.jpg",
+    "url": "/photos/2025/000097880004_2a.jpg",
     "filename": "000097880004_2a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15460,7 +15460,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1104",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870012_11.jpg",
+    "url": "/photos/2025/000097870012_11.jpg",
     "filename": "000097870012_11.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15474,7 +15474,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1105",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750035_35.jpg",
+    "url": "/photos/2025/000045750035_35.jpg",
     "filename": "000045750035_35.jpg",
     "year": "2025",
     "location": "Philadelphia",
@@ -15488,7 +15488,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1106",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530004_3.jpg",
+    "url": "/photos/2025/000041530004_3.jpg",
     "filename": "000041530004_3.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -15502,7 +15502,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1107",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_00a.jpg",
+    "url": "/photos/2025/4228_00a.jpg",
     "filename": "4228_00a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -15516,7 +15516,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1108",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097900025_24.jpg",
+    "url": "/photos/2025/000097900025_24.jpg",
     "filename": "000097900025_24.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15530,7 +15530,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1109",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150001_00.jpg",
+    "url": "/photos/2025/000041150001_00.jpg",
     "filename": "000041150001_00.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -15544,7 +15544,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1110",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_02a.jpg",
+    "url": "/photos/2025/4227_02a.jpg",
     "filename": "4227_02a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -15558,7 +15558,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1111",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890004_2.jpg",
+    "url": "/photos/2025/000097890004_2.jpg",
     "filename": "000097890004_2.jpg",
     "year": "2025",
     "location": "Dallas",
@@ -15572,7 +15572,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1112",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750004_4.jpg",
+    "url": "/photos/2025/000045750004_4.jpg",
     "filename": "000045750004_4.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15586,7 +15586,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1113",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045610034_31.jpg",
+    "url": "/photos/2025/000045610034_31.jpg",
     "filename": "000045610034_31.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -15600,7 +15600,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1114",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260012_10.jpg",
+    "url": "/photos/2025/000069260012_10.jpg",
     "filename": "000069260012_10.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -15614,7 +15614,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1115",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750005_5.jpg",
+    "url": "/photos/2025/000045750005_5.jpg",
     "filename": "000045750005_5.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15628,7 +15628,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1116",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_21.jpg",
+    "url": "/photos/2025/4293_21.jpg",
     "filename": "4293_21.jpg",
     "year": "2025",
     "location": "Romania",
@@ -15642,7 +15642,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1117",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860004_2.jpg",
+    "url": "/photos/2025/000097860004_2.jpg",
     "filename": "000097860004_2.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15656,7 +15656,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1118",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_15a.jpg",
+    "url": "/photos/2025/4227_15a.jpg",
     "filename": "4227_15a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -15670,7 +15670,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1119",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890009_7.jpg",
+    "url": "/photos/2025/000097890009_7.jpg",
     "filename": "000097890009_7.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -15684,7 +15684,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1120",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750025_25.jpg",
+    "url": "/photos/2025/000045750025_25.jpg",
     "filename": "000045750025_25.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -15698,7 +15698,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1121",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_35a.jpg",
+    "url": "/photos/2025/4228_35a.jpg",
     "filename": "4228_35a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -15712,7 +15712,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1122",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880003_1a.jpg",
+    "url": "/photos/2025/000097880003_1a.jpg",
     "filename": "000097880003_1a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15726,7 +15726,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1123",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860031_29.jpg",
+    "url": "/photos/2025/000097860031_29.jpg",
     "filename": "000097860031_29.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15740,7 +15740,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1124",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_13a.jpg",
+    "url": "/photos/2025/4227_13a.jpg",
     "filename": "4227_13a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -15754,7 +15754,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1125",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860006_4.jpg",
+    "url": "/photos/2025/000097860006_4.jpg",
     "filename": "000097860006_4.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15768,7 +15768,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1126",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870002_1.jpg",
+    "url": "/photos/2025/000097870002_1.jpg",
     "filename": "000097870002_1.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15782,7 +15782,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1127",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180017_17.jpg",
+    "url": "/photos/2025/006084180017_17.jpg",
     "filename": "006084180017_17.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -15796,7 +15796,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1128",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860038_36.jpg",
+    "url": "/photos/2025/000097860038_36.jpg",
     "filename": "000097860038_36.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15810,7 +15810,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1129",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_01a.jpg",
+    "url": "/photos/2025/4230_01a.jpg",
     "filename": "4230_01a.jpg",
     "year": "2025",
     "location": "Budapest",
@@ -15824,7 +15824,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1130",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000090700010_23a.jpg",
+    "url": "/photos/2025/000090700010_23a.jpg",
     "filename": "000090700010_23a.jpg",
     "year": "2025",
     "location": "Philadelphia",
@@ -15838,7 +15838,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1131",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_05a.jpg",
+    "url": "/photos/2025/4227_05a.jpg",
     "filename": "4227_05a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -15852,7 +15852,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1132",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880001_00a.jpg",
+    "url": "/photos/2025/000097880001_00a.jpg",
     "filename": "000097880001_00a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15866,7 +15866,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1133",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860028_26.jpg",
+    "url": "/photos/2025/000097860028_26.jpg",
     "filename": "000097860028_26.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15880,7 +15880,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1134",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000090700004_9a.jpg",
+    "url": "/photos/2025/000090700004_9a.jpg",
     "filename": "000090700004_9a.jpg",
     "year": "2025",
     "location": "Philadelphia",
@@ -15894,7 +15894,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1135",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860035_33.jpg",
+    "url": "/photos/2025/000097860035_33.jpg",
     "filename": "000097860035_33.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15908,7 +15908,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1136",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_31a.jpg",
+    "url": "/photos/2025/4230_31a.jpg",
     "filename": "4230_31a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -15922,7 +15922,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1137",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_10.jpg",
+    "url": "/photos/2025/4293_10.jpg",
     "filename": "4293_10.jpg",
     "year": "2025",
     "location": "Romania",
@@ -15936,7 +15936,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1138",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910020_20a.jpg",
+    "url": "/photos/2025/000097910020_20a.jpg",
     "filename": "000097910020_20a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -15950,7 +15950,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1139",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_01.jpg",
+    "url": "/photos/2025/4231_01.jpg",
     "filename": "4231_01.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -15964,7 +15964,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1140",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880010_8a.jpg",
+    "url": "/photos/2025/000097880010_8a.jpg",
     "filename": "000097880010_8a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -15978,7 +15978,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1141",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180023_23.jpg",
+    "url": "/photos/2025/006084180023_23.jpg",
     "filename": "006084180023_23.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -15992,7 +15992,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1142",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260037_35.jpg",
+    "url": "/photos/2025/000069260037_35.jpg",
     "filename": "000069260037_35.jpg",
     "year": "2025",
     "location": "Orcas Island",
@@ -16006,7 +16006,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1143",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_08.jpg",
+    "url": "/photos/2025/4229_08.jpg",
     "filename": "4229_08.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -16020,7 +16020,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1144",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150033_31.jpg",
+    "url": "/photos/2025/000041150033_31.jpg",
     "filename": "000041150033_31.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -16034,7 +16034,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1145",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_10.jpg",
+    "url": "/photos/2025/4292_10.jpg",
     "filename": "4292_10.jpg",
     "year": "2025",
     "location": "New York",
@@ -16048,7 +16048,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1146",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890001_00.jpg",
+    "url": "/photos/2025/000097890001_00.jpg",
     "filename": "000097890001_00.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -16062,7 +16062,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1147",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_12.jpg",
+    "url": "/photos/2025/4292_12.jpg",
     "filename": "4292_12.jpg",
     "year": "2025",
     "location": "New York",
@@ -16076,7 +16076,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1148",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260032_30.jpg",
+    "url": "/photos/2025/000069260032_30.jpg",
     "filename": "000069260032_30.jpg",
     "year": "2025",
     "location": "Seattle",
@@ -16090,7 +16090,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1149",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_07.jpg",
+    "url": "/photos/2025/4293_07.jpg",
     "filename": "4293_07.jpg",
     "year": "2025",
     "location": "Romania",
@@ -16104,7 +16104,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1150",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870006_5.jpg",
+    "url": "/photos/2025/000097870006_5.jpg",
     "filename": "000097870006_5.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -16118,7 +16118,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1151",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_07.jpg",
+    "url": "/photos/2025/4292_07.jpg",
     "filename": "4292_07.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -16132,7 +16132,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1152",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4292_21.jpg",
+    "url": "/photos/2025/4292_21.jpg",
     "filename": "4292_21.jpg",
     "year": "2025",
     "location": "Scottsdale",
@@ -16146,7 +16146,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1153",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000069260016_14.jpg",
+    "url": "/photos/2025/000069260016_14.jpg",
     "filename": "000069260016_14.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -16160,7 +16160,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1154",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870027_26.jpg",
+    "url": "/photos/2025/000097870027_26.jpg",
     "filename": "000097870027_26.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -16174,7 +16174,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1155",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150023_21.jpg",
+    "url": "/photos/2025/000041150023_21.jpg",
     "filename": "000041150023_21.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -16188,7 +16188,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1156",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_08a.jpg",
+    "url": "/photos/2025/4232_08a.jpg",
     "filename": "4232_08a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -16202,7 +16202,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1157",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_08a.jpg",
+    "url": "/photos/2025/4227_08a.jpg",
     "filename": "4227_08a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -16216,7 +16216,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1158",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880008_6a.jpg",
+    "url": "/photos/2025/000097880008_6a.jpg",
     "filename": "000097880008_6a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -16230,7 +16230,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1159",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860001_00.jpg",
+    "url": "/photos/2025/000097860001_00.jpg",
     "filename": "000097860001_00.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -16244,7 +16244,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1160",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_11a.jpg",
+    "url": "/photos/2025/4228_11a.jpg",
     "filename": "4228_11a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -16258,7 +16258,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1161",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_14a.jpg",
+    "url": "/photos/2025/4230_14a.jpg",
     "filename": "4230_14a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -16272,7 +16272,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1162",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880024_22a.jpg",
+    "url": "/photos/2025/000097880024_22a.jpg",
     "filename": "000097880024_22a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -16286,7 +16286,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1163",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540002_4a.jpg",
+    "url": "/photos/2025/000041540002_4a.jpg",
     "filename": "000041540002_4a.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -16300,7 +16300,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1164",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_04.jpg",
+    "url": "/photos/2025/4293_04.jpg",
     "filename": "4293_04.jpg",
     "year": "2025",
     "location": "Romania",
@@ -16314,7 +16314,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1165",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_18a.jpg",
+    "url": "/photos/2025/4227_18a.jpg",
     "filename": "4227_18a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -16328,7 +16328,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1166",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870018_17.jpg",
+    "url": "/photos/2025/000097870018_17.jpg",
     "filename": "000097870018_17.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -16342,7 +16342,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1167",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_01a.jpg",
+    "url": "/photos/2025/4227_01a.jpg",
     "filename": "4227_01a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -16356,7 +16356,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1168",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540001_3a.jpg",
+    "url": "/photos/2025/000041540001_3a.jpg",
     "filename": "000041540001_3a.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -16370,7 +16370,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1169",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/006084180014_14.jpg",
+    "url": "/photos/2025/006084180014_14.jpg",
     "filename": "006084180014_14.jpg",
     "year": "2025",
     "location": "San Francisco Bay Area",
@@ -16384,7 +16384,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1170",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_15.jpg",
+    "url": "/photos/2025/4293_15.jpg",
     "filename": "4293_15.jpg",
     "year": "2025",
     "location": "Romania",
@@ -16398,7 +16398,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1171",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097880018_16a.jpg",
+    "url": "/photos/2025/000097880018_16a.jpg",
     "filename": "000097880018_16a.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -16412,7 +16412,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1172",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540030_33a.jpg",
+    "url": "/photos/2025/000041540030_33a.jpg",
     "filename": "000041540030_33a.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -16426,7 +16426,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1173",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890034_32.jpg",
+    "url": "/photos/2025/000097890034_32.jpg",
     "filename": "000097890034_32.jpg",
     "year": "2025",
     "location": "",
@@ -16440,7 +16440,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1174",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_13a.jpg",
+    "url": "/photos/2025/4232_13a.jpg",
     "filename": "4232_13a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -16454,7 +16454,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1175",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_14a.jpg",
+    "url": "/photos/2025/4232_14a.jpg",
     "filename": "4232_14a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -16468,7 +16468,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1176",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750023_23.jpg",
+    "url": "/photos/2025/000045750023_23.jpg",
     "filename": "000045750023_23.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -16482,7 +16482,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1177",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750006_6.jpg",
+    "url": "/photos/2025/000045750006_6.jpg",
     "filename": "000045750006_6.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -16496,7 +16496,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1178",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_26.jpg",
+    "url": "/photos/2025/4293_26.jpg",
     "filename": "4293_26.jpg",
     "year": "2025",
     "location": "Romania",
@@ -16510,7 +16510,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1179",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/12/000090700008_19a.jpg",
+    "url": "/photos/2025/000090700008_19a.jpg",
     "filename": "000090700008_19a.jpg",
     "year": "2025",
     "location": "Philadelphia",
@@ -16524,7 +16524,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1180",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_14.jpg",
+    "url": "/photos/2025/4231_14.jpg",
     "filename": "4231_14.jpg",
     "year": "2025",
     "location": "Bosnia and Herzegovina",
@@ -16538,7 +16538,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1181",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4232_12a.jpg",
+    "url": "/photos/2025/4232_12a.jpg",
     "filename": "4232_12a.jpg",
     "year": "2025",
     "location": "Romania",
@@ -16552,7 +16552,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1182",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530037_36.jpg",
+    "url": "/photos/2025/000041530037_36.jpg",
     "filename": "000041530037_36.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -16566,7 +16566,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1183",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097860009_7.jpg",
+    "url": "/photos/2025/000097860009_7.jpg",
     "filename": "000097860009_7.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -16580,7 +16580,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1184",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4228_33a.jpg",
+    "url": "/photos/2025/4228_33a.jpg",
     "filename": "4228_33a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -16594,7 +16594,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1185",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890006_4.jpg",
+    "url": "/photos/2025/000097890006_4.jpg",
     "filename": "000097890006_4.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -16608,7 +16608,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1186",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_03a.jpg",
+    "url": "/photos/2025/4227_03a.jpg",
     "filename": "4227_03a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -16622,7 +16622,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1187",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_06.jpg",
+    "url": "/photos/2025/4229_06.jpg",
     "filename": "4229_06.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -16636,7 +16636,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1188",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870032_31.jpg",
+    "url": "/photos/2025/000097870032_31.jpg",
     "filename": "000097870032_31.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -16650,7 +16650,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1189",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_04a.jpg",
+    "url": "/photos/2025/4230_04a.jpg",
     "filename": "4230_04a.jpg",
     "year": "2025",
     "location": "Budapest",
@@ -16664,7 +16664,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1190",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750002_2.jpg",
+    "url": "/photos/2025/000045750002_2.jpg",
     "filename": "000045750002_2.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -16678,7 +16678,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1191",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_00a.jpg",
+    "url": "/photos/2025/4227_00a.jpg",
     "filename": "4227_00a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -16692,7 +16692,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1192",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_19a.jpg",
+    "url": "/photos/2025/4227_19a.jpg",
     "filename": "4227_19a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -16706,7 +16706,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1193",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4230_26a.jpg",
+    "url": "/photos/2025/4230_26a.jpg",
     "filename": "4230_26a.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -16720,7 +16720,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1194",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4229_29.jpg",
+    "url": "/photos/2025/4229_29.jpg",
     "filename": "4229_29.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -16734,7 +16734,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1195",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540008_10a.jpg",
+    "url": "/photos/2025/000041540008_10a.jpg",
     "filename": "000041540008_10a.jpg",
     "year": "2025",
     "location": "Bulgaria",
@@ -16748,7 +16748,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1196",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097910005_5a.jpg",
+    "url": "/photos/2025/000097910005_5a.jpg",
     "filename": "000097910005_5a.jpg",
     "year": "2025",
     "location": "Serbia",
@@ -16762,7 +16762,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1197",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540015_17a.jpg",
+    "url": "/photos/2025/000041540015_17a.jpg",
     "filename": "000041540015_17a.jpg",
     "year": "2025",
     "location": "Miami",
@@ -16776,7 +16776,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1198",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4293_34.jpg",
+    "url": "/photos/2025/4293_34.jpg",
     "filename": "4293_34.jpg",
     "year": "2025",
     "location": "Romania",
@@ -16790,7 +16790,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1199",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/06/000045750010_10.jpg",
+    "url": "/photos/2025/000045750010_10.jpg",
     "filename": "000045750010_10.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -16804,7 +16804,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1200",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041150005_3.jpg",
+    "url": "/photos/2025/000041150005_3.jpg",
     "filename": "000041150005_3.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -16818,7 +16818,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1201",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4227_20a.jpg",
+    "url": "/photos/2025/4227_20a.jpg",
     "filename": "4227_20a.jpg",
     "year": "2025",
     "location": "Orlando",
@@ -16832,7 +16832,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1202",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097890025_23.jpg",
+    "url": "/photos/2025/000097890025_23.jpg",
     "filename": "000097890025_23.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -16846,7 +16846,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1203",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/05/000097870022_21.jpg",
+    "url": "/photos/2025/000097870022_21.jpg",
     "filename": "000097870022_21.jpg",
     "year": "2025",
     "location": "Mexico City",
@@ -16860,7 +16860,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1204",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530032_31.jpg",
+    "url": "/photos/2025/000041530032_31.jpg",
     "filename": "000041530032_31.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -16874,7 +16874,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1205",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041530009_8.jpg",
+    "url": "/photos/2025/000041530009_8.jpg",
     "filename": "000041530009_8.jpg",
     "year": "2025",
     "location": "San Francisco",
@@ -16888,7 +16888,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1206",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/01/4231_11.jpg",
+    "url": "/photos/2025/4231_11.jpg",
     "filename": "4231_11.jpg",
     "year": "2025",
     "location": "Croatia",
@@ -16902,7 +16902,7 @@ export const photos: Photo[] =
   },
   {
     "id": "2025_1207",
-    "url": "https://depresthetics.com/wp-content/uploads/2025/10/000041540026_29a.jpg",
+    "url": "/photos/2025/000041540026_29a.jpg",
     "filename": "000041540026_29a.jpg",
     "year": "2025",
     "location": "San Francisco",

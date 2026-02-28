@@ -1,7 +1,29 @@
-const WIDTHS = [300, 600, 1024, 1600];
+const BLOB_BASE = "https://qw0bipg9gyrnmqx2.public.blob.vercel-storage.com";
+
+function resolveUrl(url: string): string {
+  if (url.startsWith("http")) return url;
+  // /photos/2023/file.jpg → https://blob.../photos/2023/file.jpg
+  return `${BLOB_BASE}${url}`;
+}
+
+function splitUrl(url: string): { base: string; ext: string } {
+  const i = url.lastIndexOf(".");
+  return { base: url.slice(0, i), ext: url.slice(i) };
+}
+
+export function thumbUrl(url: string, width = 600): string {
+  const { base, ext } = splitUrl(resolveUrl(url));
+  return `${base}.${width}w${ext}`;
+}
+
+export function fullUrl(url: string): string {
+  return resolveUrl(url);
+}
 
 export function srcSet(url: string): string {
-  return WIDTHS.map((w) => `${url}?w=${w} ${w}w`).join(", ");
+  const resolved = resolveUrl(url);
+  const { base, ext } = splitUrl(resolved);
+  return `${base}.300w${ext} 300w, ${base}.600w${ext} 600w, ${resolved} 1600w`;
 }
 
 export function sizes(role: "feature" | "pair" | "dense" | "solo"): string {
@@ -15,14 +37,6 @@ export function sizes(role: "feature" | "pair" | "dense" | "solo"): string {
     case "solo":
       return "(max-width: 768px) 100vw, 60vw";
   }
-}
-
-export function thumbUrl(url: string, width = 600): string {
-  return `${url}?w=${width}`;
-}
-
-export function fullUrl(url: string): string {
-  return `${url}?w=1600`;
 }
 
 const DISPOSABLE_LOCATIONS = new Set(["Costa Rica", "Iceland"]);

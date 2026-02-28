@@ -98,7 +98,7 @@ export function Lightbox({ photos, index, onClose, onNavigate }: LightboxProps) 
 
           <img
             src={fullUrl(photo.url)}
-            srcSet={`${thumbUrl(photo.url, 1024)} 1024w, ${fullUrl(photo.url)} 1600w`}
+            srcSet={`${thumbUrl(photo.url, 600)} 600w, ${fullUrl(photo.url)} 1600w`}
             sizes="90vw"
             alt={`${photo.location || "Untitled"} — ${photo.filmStock || "Film"}`}
             className="lightbox__img"

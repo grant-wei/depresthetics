@@ -1,3 +1,7 @@
 node_modules
 dist
 .vite
+.vercel
+public/photos/**/*.300w.jpg
+public/photos/**/*.600w.jpg
+.env*.local

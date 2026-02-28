@@ -1,6 +1,6 @@
 import { useCallback, useRef } from "react";
 import type { Photo } from "../types";
-import { srcSet, getCamera } from "../utils/image";
+import { thumbUrl, srcSet, getCamera } from "../utils/image";
 
 interface PhotoCardProps {
   photo: Photo;
@@ -29,7 +29,7 @@ export function PhotoCard({ photo, onClick }: PhotoCardProps) {
         style={{ aspectRatio: `${photo.width} / ${photo.height}` }}
       >
         <img
-          src={`${photo.url}?w=600`}
+          src={thumbUrl(photo.url)}
           srcSet={srcSet(photo.url)}
           sizes="(max-width: 600px) 100vw, (max-width: 1024px) 50vw, 33vw"
           alt={`${photo.location || "Untitled"} — ${photo.filmStock || "Film"}`}

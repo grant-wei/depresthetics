@@ -191,26 +191,31 @@ export function Home() {
     };
   }, [lightboxIndex]);
 
-  /* --- Combined mouse handler: parallax + trail --- */
+  /* --- Combined mouse handler: parallax + trail (rAF-throttled) --- */
+  const rafId = useRef(0);
   const handleMouseMove = useCallback(
     (e: React.MouseEvent<HTMLDivElement>) => {
+      const clientX = e.clientX;
+      const clientY = e.clientY;
       const rect = e.currentTarget.getBoundingClientRect();
-      const mx = (e.clientX - rect.left) / rect.width - 0.5; // -0.5 to 0.5
-      const my = (e.clientY - rect.top) / rect.height - 0.5;
 
-      // Update depth layers
-      for (let l = 0; l < 3; l++) {
-        const el = layerRefs[l].current;
-        if (!el) continue;
-        const factor = (1 - DEPTH_FACTORS[l]) * 20;
-        el.style.transform = `translate(${mx * factor}px, ${my * factor}px)`;
-      }
+      cancelAnimationFrame(rafId.current);
+      rafId.current = requestAnimationFrame(() => {
+        const mx = (clientX - rect.left) / rect.width - 0.5;
+        const my = (clientY - rect.top) / rect.height - 0.5;
 
-      // Update cursor trail
-      if (trailRef.current) {
-        trailRef.current.style.left = `${e.clientX}px`;
-        trailRef.current.style.top = `${e.clientY}px`;
-      }
+        for (let l = 0; l < 3; l++) {
+          const el = layerRefs[l].current;
+          if (!el) continue;
+          const factor = (1 - DEPTH_FACTORS[l]) * 20;
+          el.style.transform = `translate(${mx * factor}px, ${my * factor}px)`;
+        }
+
+        if (trailRef.current) {
+          trailRef.current.style.left = `${clientX}px`;
+          trailRef.current.style.top = `${clientY}px`;
+        }
+      });
     },
     [],
   );
