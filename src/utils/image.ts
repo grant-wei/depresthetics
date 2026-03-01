@@ -1,9 +1,6 @@
-const BLOB_BASE = "https://qw0bipg9gyrnmqx2.public.blob.vercel-storage.com";
-
 function resolveUrl(url: string): string {
   if (url.startsWith("http")) return url;
-  // /photos/2023/file.jpg → https://blob.../photos/2023/file.jpg
-  return `${BLOB_BASE}${url}`;
+  return url;
 }
 
 function splitUrl(url: string): { base: string; ext: string } {
