@@ -13,9 +13,9 @@ export function Header() {
   const visibleClass = !isHome || scrollDir === "up" ? "header--visible" : "";
 
   function handleWordmarkClick(e: React.MouseEvent) {
-    if (location.pathname === "/photos") {
+    if (location.pathname !== "/") {
       e.preventDefault();
-      startTransition("/", 600);
+      startTransition("/", "up");
     }
   }
 

@@ -76,7 +76,7 @@ function computeLayout(i: number, total: number) {
   const left = 50 + radius * Math.cos(angle);
   const top = 50 + radius * Math.sin(angle);
   const rotation = ((i * 7) % 15) - 7;
-  const duration = 15 + ((i * 3) % 11);
+  const duration = 35 + ((i * 3) % 15);
   const delay = -(i * 2.3);
   const drift = DRIFT_NAMES[i % 3];
 
@@ -110,11 +110,8 @@ export function Home() {
   plungingRef.current = plunging;
 
   /* --- Refs for parallax + trail (no re-renders) --- */
-  const layerRefs = [
-    useRef<HTMLDivElement>(null),
-    useRef<HTMLDivElement>(null),
-    useRef<HTMLDivElement>(null),
-  ];
+  const layerRefsContainer = useRef<(HTMLDivElement | null)[]>([null, null, null]);
+  const layerRefs = layerRefsContainer.current;
   const trailRef = useRef<HTMLDivElement>(null);
 
   /* --- Lightbox open / close --- */
@@ -154,15 +151,15 @@ export function Home() {
 
       const currentPool = poolRef.current;
       const slot = Math.floor(Math.random() * currentPool.length);
-      const spec = PENSIEVE_SPECS[slot];
-      if (!spec) return;
+      const currentPhoto = currentPool[slot];
+      if (!currentPhoto) return;
 
       // Find eligible replacement: same location + orientation, not in pool, not hidden
       const poolIds = new Set(currentPool.map((p) => p.id));
       const candidates = photos.filter(
         (p) =>
-          p.location === spec.location &&
-          p.orientation === spec.orientation &&
+          p.location === currentPhoto.location &&
+          p.orientation === currentPhoto.orientation &&
           !p.hidden &&
           !poolIds.has(p.id),
       );
@@ -206,7 +203,7 @@ export function Home() {
         const my = (clientY - rect.top) / rect.height - 0.5;
 
         for (let l = 0; l < 3; l++) {
-          const el = layerRefs[l].current;
+          const el = layerRefs[l];
           if (!el) continue;
           const factor = (1 - DEPTH_FACTORS[l]) * 20;
           el.style.transform = `translate(${mx * factor}px, ${my * factor}px)`;
@@ -231,7 +228,7 @@ export function Home() {
     stopAmbient();
     // Reset parallax layers
     for (let l = 0; l < 3; l++) {
-      const el = layerRefs[l].current;
+      const el = layerRefs[l];
       if (el) el.style.transform = "translate(0px, 0px)";
     }
   }, [stopAmbient]);
@@ -295,7 +292,7 @@ export function Home() {
         {layers.map((bucket, layerIdx) => (
           <div
             key={layerIdx}
-            ref={layerRefs[layerIdx]}
+            ref={(el) => { layerRefs[layerIdx] = el; }}
             className={`pensieve__depth-layer pensieve__depth-layer--${layerIdx}`}
           >
             {bucket.map(({ photo, originalIndex }) => {
@@ -367,7 +364,7 @@ export function Home() {
         onClick={(e) => {
           e.preventDefault();
           setPlunging(true);
-          startTransition("/photos", 1000);
+          startTransition("/photos", "down");
         }}
       >
         dive in

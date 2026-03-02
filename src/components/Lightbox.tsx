@@ -8,9 +8,10 @@ interface LightboxProps {
   index: number;
   onClose: () => void;
   onNavigate: (index: number) => void;
+  fromPull?: boolean;
 }
 
-export function Lightbox({ photos, index, onClose, onNavigate }: LightboxProps) {
+export function Lightbox({ photos, index, onClose, onNavigate, fromPull }: LightboxProps) {
   const dialogRef = useRef<HTMLDialogElement>(null);
   const photo = photos[index];
 
@@ -68,15 +69,41 @@ export function Lightbox({ photos, index, onClose, onNavigate }: LightboxProps) 
     if (!cursorVisible) setCursorVisible(true);
   }, [cursorVisible]);
 
+  // Touch swipe gestures for mobile navigation
+  const touchStart = useRef<{ x: number; y: number } | null>(null);
+
+  const onTouchStart = useCallback((e: React.TouchEvent) => {
+    touchStart.current = { x: e.touches[0].clientX, y: e.touches[0].clientY };
+  }, []);
+
+  const onTouchEnd = useCallback((e: React.TouchEvent) => {
+    if (!touchStart.current) return;
+    const dx = e.changedTouches[0].clientX - touchStart.current.x;
+    const dy = e.changedTouches[0].clientY - touchStart.current.y;
+    touchStart.current = null;
+
+    // Horizontal swipe (min 50px, mostly horizontal)
+    if (Math.abs(dx) > 50 && Math.abs(dy) < Math.abs(dx) * 0.7) {
+      if (dx > 0) goPrev();
+      else goNext();
+    }
+    // Downward swipe to close
+    else if (dy > 80 && Math.abs(dx) < 50) {
+      onClose();
+    }
+  }, [goPrev, goNext, onClose]);
+
   if (!photo) return null;
 
   return (
     <dialog
       ref={dialogRef}
-      className="lightbox custom-cursor-area"
+      className={`lightbox custom-cursor-area${fromPull ? " lightbox--from-pull" : ""}`}
       onClick={onBackdropClick}
       onMouseMove={onLightboxMouseMove}
       onMouseLeave={() => setCursorVisible(false)}
+      onTouchStart={onTouchStart}
+      onTouchEnd={onTouchEnd}
     >
       <div
         className={`custom-cursor ${cursorVisible ? "custom-cursor--visible" : ""}`}

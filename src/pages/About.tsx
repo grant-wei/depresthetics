@@ -4,16 +4,24 @@ export function About() {
       <div className="about__content">
         <h1 className="about__title">about</h1>
         <p className="about__text">
-          memorializing my late twenties on film.
+          a place looked like this, a moment felt like that, and then
+          it was over. depresthetics is a collection of those moments —
+          my late twenties on film.
         </p>
         <p className="about__text">
-          shot on an olympus xa2, fujifilm quicksnap, and a minolta vectis.
-          mostly kodak ultramax 400 and fujifilm 400, with some ilford hp5
-          when the mood calls for black and white.
+          film enforces a constraint i need: thirty-six exposures and
+          whatever the light gives you. no retakes. the photos get
+          chosen and arranged, but the moments themselves are
+          unrecoverable. that's the thing worth keeping.
         </p>
         <p className="about__text">
-          photos from mexico city, croatia, singapore, hong kong, taiwan,
-          morocco, romania, costa rica, bulgaria, iceland, and san francisco.
+          the grain, the blown highlights, the frames where nothing
+          quite lines up. those aren't mistakes. they're what it
+          actually looked like to be there.
+        </p>
+        <p className="about__text about__text--details">
+          mostly shot on olympus xa2 using kodak ultramax 400,
+          fujifilm 400, and ilford hp5.
         </p>
         <div className="about__links">
           <a

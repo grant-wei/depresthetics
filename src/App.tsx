@@ -7,141 +7,107 @@ import { Gallery } from "./pages/Gallery";
 import { About } from "./pages/About";
 
 /* ========================================
-   Shared transition veil
-   Lives at App level so it persists across route changes.
+   Plunge transitions — "diving in / surfacing"
+
+   Instead of a flat black cut, the departing page zooms forward + blurs
+   (like falling into the pensieve), and the arriving page rises into view.
    ======================================== */
 
-type VeilPhase = "idle" | "fade-in" | "opaque" | "fade-out";
+type PlungePhase = "idle" | "plunge-out" | "swap" | "plunge-in";
+type PlungeDir = "down" | "up"; // down = Home→Gallery, up = Gallery→Home
 
 interface TransitionContext {
-  startTransition: (to: string, duration?: number) => void;
+  startTransition: (to: string, dir?: PlungeDir) => void;
 }
 
 export const TransitionCtx = createContext<TransitionContext>({
   startTransition: () => {},
 });
 
-function TransitionVeil({
-  phase,
-  duration,
-}: {
-  phase: VeilPhase;
-  duration: number;
-}) {
-  if (phase === "idle") return null;
-
-  const opacity = phase === "fade-in" ? 1 : phase === "opaque" ? 1 : 0;
-
-  return (
-    <div
-      className="transition-veil"
-      style={{
-        opacity,
-        transitionDuration: phase === "fade-in" ? `${duration}ms` : "400ms",
-      }}
-    />
-  );
-}
-
-/* Fade wrapper — skips fade for plunge transitions (/ <-> /photos) */
-function AnimatedRoutes() {
+function AppShell() {
   const location = useLocation();
   const navigate = useNavigate();
+  const cursorRef = useRef<HTMLDivElement>(null);
   const [displayLocation, setDisplayLocation] = useState(location);
   const [fadeClass, setFadeClass] = useState("page-fade");
-  const prevPath = useRef(location.pathname);
 
-  /* --- Veil state --- */
-  const [veilPhase, setVeilPhase] = useState<VeilPhase>("idle");
-  const [veilDuration, setVeilDuration] = useState(800);
+  /* --- Plunge state --- */
+  const [phase, setPhase] = useState<PlungePhase>("idle");
+  const [dir, setDir] = useState<PlungeDir>("down");
   const pendingNav = useRef<string | null>(null);
+  const plungeActive = useRef(false);
 
   const startTransition = useCallback(
-    (to: string, duration = 800) => {
-      if (veilPhase !== "idle") return;
+    (to: string, direction: PlungeDir = "down") => {
+      if (phase !== "idle") return;
       pendingNav.current = to;
-      setVeilDuration(duration);
-      setVeilPhase("fade-in");
+      plungeActive.current = true;
+      setDir(direction);
+      setPhase("plunge-out");
     },
-    [veilPhase],
+    [phase],
   );
 
-  /* Drive the veil state machine */
+  /* Drive the plunge state machine */
   useEffect(() => {
-    if (veilPhase === "fade-in") {
-      // Wait for fade-in to complete, then navigate
+    if (phase === "plunge-out") {
       const timer = setTimeout(() => {
-        setVeilPhase("opaque");
         if (pendingNav.current) {
           navigate(pendingNav.current);
           pendingNav.current = null;
         }
-      }, veilDuration);
+        setPhase("swap");
+      }, 900);
       return () => clearTimeout(timer);
     }
 
-    if (veilPhase === "opaque") {
-      // Give the new page a frame to render, then fade out
+    if (phase === "swap") {
+      const raf = requestAnimationFrame(() => {
+        setPhase("plunge-in");
+      });
+      return () => cancelAnimationFrame(raf);
+    }
+
+    if (phase === "plunge-in") {
       const timer = setTimeout(() => {
-        setVeilPhase("fade-out");
-      }, 80);
+        setPhase("idle");
+        plungeActive.current = false;
+      }, 800);
       return () => clearTimeout(timer);
     }
+  }, [phase, navigate]);
 
-    if (veilPhase === "fade-out") {
-      const timer = setTimeout(() => {
-        setVeilPhase("idle");
-      }, 450);
-      return () => clearTimeout(timer);
-    }
-  }, [veilPhase, veilDuration, navigate]);
-
-  /* Handle non-plunge route changes (e.g. Gallery <-> About) */
+  /* Handle non-plunge route changes (Gallery <-> About, etc.) */
   useEffect(() => {
     if (location.pathname === displayLocation.pathname) return;
 
-    const from = prevPath.current;
-    const to = location.pathname;
-
-    // Plunge transitions are handled by the veil — just swap immediately
-    const isPlunge =
-      (from === "/" && to === "/photos") ||
-      (from === "/photos" && to === "/");
-
-    if (isPlunge) {
+    if (plungeActive.current) {
       setDisplayLocation(location);
-      prevPath.current = to;
+
       return;
     }
 
-    // Fade out → swap → fade in
+    // Simple crossfade for non-plunge
     setFadeClass("page-fade page-fade--out");
 
     const timer = setTimeout(() => {
       setDisplayLocation(location);
       setFadeClass("page-fade page-fade--in");
-      prevPath.current = to;
+
     }, 300);
 
     return () => clearTimeout(timer);
   }, [location, displayLocation.pathname]);
 
-  return (
-    <TransitionCtx.Provider value={{ startTransition }}>
-      <TransitionVeil phase={veilPhase} duration={veilDuration} />
-      <div className={fadeClass}>
-        <Routes location={displayLocation}>
-          <Route path="/" element={<Home />} />
-          <Route path="/photos" element={<Gallery />} />
-          <Route path="/about" element={<About />} />
-        </Routes>
-      </div>
-    </TransitionCtx.Provider>
-  );
-}
-
-export function App() {
-  const cursorRef = useRef<HTMLDivElement>(null);
+  /* Build the CSS class for plunge effect */
+  let plungeClass = "";
+  if (phase === "plunge-out") {
+    plungeClass = dir === "down" ? "plunge plunge--dive-out" : "plunge plunge--surface-out";
+  } else if (phase === "swap") {
+    plungeClass = dir === "down" ? "plunge plunge--dive-out" : "plunge plunge--surface-out";
+  } else if (phase === "plunge-in") {
+    plungeClass = dir === "down" ? "plunge plunge--dive-in" : "plunge plunge--surface-in";
+  }
 
   const onMouseMove = useCallback((e: React.MouseEvent) => {
     if (cursorRef.current) {
@@ -159,7 +125,7 @@ export function App() {
   }, []);
 
   return (
-    <BrowserRouter>
+    <TransitionCtx.Provider value={{ startTransition }}>
       <div
         className="app custom-cursor-area"
         onMouseMove={onMouseMove}
@@ -168,9 +134,23 @@ export function App() {
       >
         <div className="custom-cursor" ref={cursorRef} />
         <Header />
-        <AnimatedRoutes />
+        <div className={`${fadeClass} ${plungeClass}`}>
+          <Routes location={displayLocation}>
+            <Route path="/" element={<Home />} />
+            <Route path="/photos" element={<Gallery />} />
+            <Route path="/about" element={<About />} />
+          </Routes>
+        </div>
         <Footer />
       </div>
+    </TransitionCtx.Provider>
+  );
+}
+
+export function App() {
+  return (
+    <BrowserRouter>
+      <AppShell />
     </BrowserRouter>
   );
 }
