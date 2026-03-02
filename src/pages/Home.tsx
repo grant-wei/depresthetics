@@ -1,9 +1,10 @@
-import { useState, useCallback, useEffect, useRef, useMemo } from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { useState, useCallback, useEffect, useRef, useMemo, useContext } from "react";
+import { Link } from "react-router-dom";
 import { photos } from "../data/photos";
 import { thumbUrl } from "../utils/image";
 import { Lightbox } from "../components/Lightbox";
 import { usePensieveAudio } from "../hooks/usePensieveAudio";
+import { TransitionCtx } from "../App";
 import type { Photo } from "../types";
 
 /* ─── Specs ─── */
@@ -85,7 +86,7 @@ function computeLayout(i: number, total: number) {
 /* ─── Component ─── */
 
 export function Home() {
-  const navigate = useNavigate();
+  const { startTransition } = useContext(TransitionCtx);
 
   /* --- Plunge transition state --- */
   const [plunging, setPlunging] = useState(false);
@@ -269,7 +270,6 @@ export function Home() {
 
   return (
     <main className={`pensieve${plunging ? " pensieve--plunging" : ""}`}>
-      {plunging && <div className="pensieve__plunge-veil" />}
       <p className="pensieve__subtitle">
         memorializing my late twenties on film
       </p>
@@ -367,7 +367,7 @@ export function Home() {
         onClick={(e) => {
           e.preventDefault();
           setPlunging(true);
-          setTimeout(() => navigate("/photos"), 1200);
+          startTransition("/photos", 1000);
         }}
       >
         dive in
