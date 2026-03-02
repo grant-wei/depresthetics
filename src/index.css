@@ -652,13 +652,13 @@ button {
 }
 
 
-/* Solid white veil — pure opacity fade, cheapest possible GPU op */
+/* Dark veil — pure opacity fade, cheapest possible GPU op */
 .pensieve__plunge-veil {
   position: fixed;
   inset: 0;
   z-index: 9998;
   pointer-events: none;
-  background: white;
+  background: var(--bg);
   opacity: 0;
   animation: plunge-veil 1.2s cubic-bezier(0.22, 1, 0.36, 1) forwards;
   will-change: opacity;
@@ -1303,7 +1303,7 @@ button {
   inset: 0;
   z-index: 9998;
   pointer-events: none;
-  background: white;
+  background: var(--bg);
   animation: surface-veil 800ms cubic-bezier(0.22, 1, 0.36, 1) forwards;
   will-change: opacity;
 }
