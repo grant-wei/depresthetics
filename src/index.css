@@ -192,7 +192,7 @@ button {
 
 /* Default state: translucent, visible (for /photos and /about) */
 .header--default {
-  background: rgba(28, 25, 23, 0.8);
+  background: rgba(28, 25, 23, 0.95);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
   opacity: 1;
