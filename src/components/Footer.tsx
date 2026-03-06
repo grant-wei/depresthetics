@@ -9,6 +9,9 @@ export function Footer() {
   return (
     <footer className="footer">
       <span>&copy; 2025 depresthetics</span>
+      <a href="https://grantgpt.io" target="_blank" rel="noopener noreferrer" className="footer__sibling">
+        read the writing
+      </a>
     </footer>
   );
 }
