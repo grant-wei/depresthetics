@@ -345,7 +345,7 @@ export function Gallery() {
             onClick={() => setDrawerOpen(true)}
             aria-label="Filter photos"
           >
-            ◯
+            filter
           </button>
         </div>
         <FilterBar open={drawerOpen} onClose={() => setDrawerOpen(false)} />
@@ -476,7 +476,7 @@ export function Gallery() {
           onClick={(e) => { e.stopPropagation(); setDrawerOpen(true); }}
           aria-label="Filter photos"
         >
-          ◯
+          filter
         </button>
       </div>
 

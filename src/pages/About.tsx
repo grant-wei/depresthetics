@@ -25,12 +25,12 @@ export function About() {
         </p>
         <div className="about__links">
           <a
-            href="https://shadesofgwei.com"
+            href="https://grantgpt.io"
             target="_blank"
             rel="noopener noreferrer"
             className="about__link"
           >
-            shadesofgwei.com
+            grantgpt.io
           </a>
         </div>
       </div>
